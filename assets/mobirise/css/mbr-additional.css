@@ -1,6 +1,9 @@
 #menu-1 .navbar-toggler {
   color: #000;
 }
+#menu-1 .navbar-brand {
+  font-size: 25px;
+}
 #slider-2 H2 {
   color: #000000;
 }

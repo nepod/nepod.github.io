@@ -9,13 +9,17 @@
     },
     "versionFirst": "3.12.1",
     "uniqCompNum": 7,
-    "versionPublish": "3.12.1"
+    "versionPublish": "3.12.1",
+    "favicon": "@PROJECT_PATH@/assets/images/fvcon-128x130.png",
+    "noImageResize": "",
+    "google-analytics": "",
+    "cookiesAlert": ""
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
-        "title": "",
+        "title": "Inicio",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -36,17 +40,19 @@
             "transparent": false,
             "color": "#fff",
             "collapsed": true,
-            "logo": false,
+            "logo": true,
             "showBrand": true,
             "showButtons": false
           },
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo.png",
+              "src": "@PROJECT_PATH@/assets/images/fvcon-125x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com"
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -54,12 +60,15 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-brand\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Semáforos Lavezzolo</a>",
+          "brand": "<a class=\"navbar-brand\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Semáforo&nbsp;Lavezzolo</a>",
           "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\">Download</a></li>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html\">Inicio</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html\">Sobre nosotros<br></a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\"></a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html\">Servicios<br></a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html\">Proyectos</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html\">Contactános</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html\">Rally Mobil</a></li>",
           "_styles": {
             ".navbar-toggler": {
               "color": "#000"
+            },
+            ".navbar-brand": {
+              "font-size": "25px"
             }
           }
         },
