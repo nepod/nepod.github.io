@@ -1,14 +1,14 @@
 {
   "settings": {
     "name": "Lavezzolo",
-    "currentPage": "rally.html",
+    "currentPage": "nosotros.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
       "styling": {}
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 22,
+    "uniqCompNum": 23,
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/fvcon-128x130.png",
     "noImageResize": "",
@@ -165,6 +165,37 @@
         "title": "Sobre nosotros"
       },
       "components": [
+        {
+          "_inherit": "header1",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header2",
+          "_anchor": "header2-m",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-1.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#ffffff",
+            "contentAlign": "right",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": false
+          },
+          "title": "Semáforos Lavezzolo",
+          "text": "Somos una empresa de Proyectos de Ingeniería, fabricación, instalación, puesta en marcha y mantención, que está en busca del desarrollo sostenible en cada uno de sus proyectos que gerencia y ejecuta.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\">Learn More</a>"
+        },
         {
           "alias": "purity/components",
           "_tags": [
