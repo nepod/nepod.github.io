@@ -40,7 +40,7 @@
             "paddingBottom": 3,
             "slides": [
               {
-                "active": true,
+                "active": false,
                 "image": "@PROJECT_PATH@/assets/images/lavezzolo01-4-2000x1197.png",
                 "overlay": true,
                 "contentAlign": "right",
@@ -52,13 +52,13 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\">For Windows</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">For Mac</a>"
               },
               {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/traffic-406909-960-2000x1333.jpg",
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/lavezzolo02-2000x1197.png",
                 "overlay": true,
                 "contentAlign": "right",
                 "showTitle": false,
                 "title": "Slide 2",
-                "showText": true,
+                "showText": false,
                 "text": "Mobirise is based on Bootstrap 3 - most powerful mobile first framework. Use any bootstrap themes with no extra work.",
                 "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\">For Windows</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">For Mac</a>"
