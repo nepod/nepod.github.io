@@ -99,3 +99,26 @@
 #dropdown-menu-2btn-d .navbar-toggler {
   color: #000000;
 }
+#dropdown-menu-2btn-k .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-2btn-k .navbar-brand a {
+  font-size: 22px;
+}
+#dropdown-menu-2btn-k .nav .link,
+#dropdown-menu-2btn-k .dropdown-item {
+  font-size: 1em;
+  color: #000000;
+}
+#dropdown-menu-2btn-k .navbar,
+#dropdown-menu-2btn-k .dropdown-menu {
+  background: #ffffff;
+}
+#dropdown-menu-2btn-k .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-2btn-k .dropdown-menu a:hover,
+#dropdown-menu-2btn-k .dropdown-menu a:focus {
+  background: #f5f5f5;
+}
+#dropdown-menu-2btn-k .navbar-toggler {
+  color: #000000;
+}
