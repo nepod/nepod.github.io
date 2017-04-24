@@ -1,14 +1,14 @@
 {
   "settings": {
     "name": "Lavezzolo",
-    "currentPage": "index.html",
+    "currentPage": "servicios.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
       "styling": {}
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 8,
+    "uniqCompNum": 19,
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/fvcon-128x130.png",
     "noImageResize": "",
@@ -107,7 +107,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#3C3C3C",
             "googleMap": {
-              "address": "rivadavia 6556, san ramon, santiago",
+              "address": "Rivadavia 6556, San Ramón, Santiago.",
               "placeId": "EkJSaXZhZGF2aWEgNjU1NiwgU2FudGlhZ28sIFNhbiBSYW3Ds24sIFJlZ2nDs24gTWV0cm9wb2xpdGFuYSwgQ2hpbGU",
               "state": "ok",
               "stateDetails": ""
@@ -168,7 +168,424 @@
             }
           },
           "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Semáforos Lavezzolo</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Inicio</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Sobre nosotros</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Rally Mobil</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html\" aria-expanded=\"true\">Servicios</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile friendly</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Based on Bootstrap</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\">Trendy blocks</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image/content slider</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact forms</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image gallery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile menu</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google maps</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Social buttons</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google fonts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Video background</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Host anywhere</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Contáctenos</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">For Windows</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://mobirise.com/\">For Mac</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Inicio</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Sobre nosotros</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Rally Mobil</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html\" aria-expanded=\"true\">Servicios</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Semáforos</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Obras civiles</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image/content slider</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact forms</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image gallery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile menu</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google maps</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Social buttons</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google fonts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Video background</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Vallas peatonales</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Estructuras metálicas</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Contáctenos</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">For Windows</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://mobirise.com/\">For Mac</a></li>"
+        }
+      ]
+    },
+    "nosotros.html": {
+      "settings": {
+        "title": "Sobre nosotros"
+      },
+      "components": [
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_anchor": "contacts2-8",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "bgColor": "#37383e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C",
+            "googleMap": {
+              "address": "Rivadavia 6556, San Ramón, Santiago.",
+              "placeId": "EkJSaXZhZGF2aWEgNjU1NiwgU2FudGlhZ28sIFNhbiBSYW3Ds24sIFJlZ2nDs24gTWV0cm9wb2xpdGFuYSwgQ2hpbGU",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "text1": "<strong>Dirección</strong><br>Rivadavia #6556<br>\nSan Ramón, RM.<br><br>\n<strong>Contáctanos</strong><br>\nEmail: contacto@semaforoslavezzolo.cl<br>\nOficina: +56 2 2525 0495 <br>\nMóvil: +56 9 6207 1969",
+          "text2": "<strong>Links</strong><ul><li><a href=\"https://www.quintaidea.cl\" target=\"_blank\">Quinta Idea</a><a href=\"https://mobirise.com/\"></a></li><br></ul>"
+        },
+        {
+          "_inherit": "dropdown-menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {
+              "font-size": "22px"
+            },
+            ".nav .link, .dropdown-item": {
+              "font-size": "1em",
+              "color": "#000000"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#ffffff"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#f5f5f5"
+            },
+            ".navbar-toggler": {
+              "color": "#000000"
+            }
+          },
+          "_name": "dropdown-menu-2btn",
+          "_anchor": "dropdown-menu-2btn-9",
+          "_params": {
+            "bgColor": "#ffffff",
+            "fontSize": 1,
+            "fontName": {},
+            "fontColor": "#000000",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/fvcon-125x128.png",
+              "class": "",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Semáforos Lavezzolo</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Inicio</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Sobre nosotros</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Rally Mobil</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html\" aria-expanded=\"true\">Servicios</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Semáforos</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Obras civiles</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image/content slider</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact forms</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image gallery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile menu</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google maps</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Social buttons</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google fonts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Video background</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Vallas peatonales</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Estructuras metálicas</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Contáctenos</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">For Windows</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://mobirise.com/\">For Mac</a></li>"
+        }
+      ]
+    },
+    "servicios.html": {
+      "settings": {
+        "title": "Servicios"
+      },
+      "components": [
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features1",
+          "_anchor": "features1-i",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": 4,
+            "showImages": true,
+            "showTitles": true,
+            "showCaptions": false,
+            "showButtons": false
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/feature-bootstrap.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title1": "Semáforos<br><br>",
+          "caption1": "Bootstrap 3 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">More</a>",
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/feature-responsive.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title2": "Obras<br>civiles",
+          "caption2": "One of Bootstrap 3's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">More</a>",
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/feature-google-fonts.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title3": "Vallas<br>peatonales",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">More</a>",
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/feature-websites.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title4": "Estructuras metálicas",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">More</a>",
+          "_styles": {
+            "H4": {
+              "font-family": "'Alegreya Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Alegreya+Sans:400,700&subset=latin,vietnamese,latin-ext",
+              "font-size": "25px"
+            }
+          }
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_anchor": "contacts2-a",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "bgColor": "#37383e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C",
+            "googleMap": {
+              "address": "Rivadavia 6556, San Ramón, Santiago.",
+              "placeId": "EkJSaXZhZGF2aWEgNjU1NiwgU2FudGlhZ28sIFNhbiBSYW3Ds24sIFJlZ2nDs24gTWV0cm9wb2xpdGFuYSwgQ2hpbGU",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "text1": "<strong>Dirección</strong><br>Rivadavia #6556<br>\nSan Ramón, RM.<br><br>\n<strong>Contáctanos</strong><br>\nEmail: contacto@semaforoslavezzolo.cl<br>\nOficina: +56 2 2525 0495 <br>\nMóvil: +56 9 6207 1969",
+          "text2": "<strong>Links</strong><ul><li><a href=\"https://www.quintaidea.cl\" target=\"_blank\">Quinta Idea</a><a href=\"https://mobirise.com/\"></a></li><br></ul>"
+        },
+        {
+          "_inherit": "dropdown-menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {
+              "font-size": "22px"
+            },
+            ".nav .link, .dropdown-item": {
+              "font-size": "1em",
+              "color": "#000000"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#ffffff"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#f5f5f5"
+            },
+            ".navbar-toggler": {
+              "color": "#000000"
+            }
+          },
+          "_name": "dropdown-menu-2btn",
+          "_anchor": "dropdown-menu-2btn-b",
+          "_params": {
+            "bgColor": "#ffffff",
+            "fontSize": 1,
+            "fontName": {},
+            "fontColor": "#000000",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/fvcon-125x128.png",
+              "class": "",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Semáforos Lavezzolo</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Inicio</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Sobre nosotros</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Rally Mobil</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html\" aria-expanded=\"true\">Servicios</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Semáforos</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Obras civiles</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image/content slider</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact forms</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image gallery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile menu</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google maps</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Social buttons</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google fonts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Video background</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Vallas peatonales</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Estructuras metálicas</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Contáctenos</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">For Windows</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://mobirise.com/\">For Mac</a></li>"
+        }
+      ]
+    },
+    "contactenos.html": {
+      "settings": {
+        "title": "Contáctenos"
+      },
+      "components": [
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_anchor": "form1-e",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true
+          },
+          "title": "Formulario de contacto",
+          "form": {
+            "action": "cjimenezgnz@gmail.com",
+            "alerts": {
+              "success": "¡Gracias por escribirnos!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Nombre (Requerido)*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email (Requerido)*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Teléfono"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Mensaje"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Enviar</a>"
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_anchor": "contacts2-c",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "bgColor": "#37383e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C",
+            "googleMap": {
+              "address": "Rivadavia 6556, San Ramón, Santiago.",
+              "placeId": "EkJSaXZhZGF2aWEgNjU1NiwgU2FudGlhZ28sIFNhbiBSYW3Ds24sIFJlZ2nDs24gTWV0cm9wb2xpdGFuYSwgQ2hpbGU",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "text1": "<strong>Dirección</strong><br>Rivadavia #6556<br>\nSan Ramón, RM.<br><br>\n<strong>Contáctanos</strong><br>\nEmail: contacto@semaforoslavezzolo.cl<br>\nOficina: +56 2 2525 0495 <br>\nMóvil: +56 9 6207 1969",
+          "text2": "<strong>Links</strong><ul><li><a href=\"https://www.quintaidea.cl\" target=\"_blank\">Quinta Idea</a><a href=\"https://mobirise.com/\"></a></li><br></ul>"
+        },
+        {
+          "_inherit": "dropdown-menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {
+              "font-size": "22px"
+            },
+            ".nav .link, .dropdown-item": {
+              "font-size": "1em",
+              "color": "#000000"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#ffffff"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#f5f5f5"
+            },
+            ".navbar-toggler": {
+              "color": "#000000"
+            }
+          },
+          "_name": "dropdown-menu-2btn",
+          "_anchor": "dropdown-menu-2btn-d",
+          "_params": {
+            "bgColor": "#ffffff",
+            "fontSize": 1,
+            "fontName": {},
+            "fontColor": "#000000",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/fvcon-125x128.png",
+              "class": "",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Semáforos Lavezzolo</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Inicio</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Sobre nosotros</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Rally Mobil</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html\" aria-expanded=\"true\">Servicios</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Semáforos</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Obras civiles</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image/content slider</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact forms</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image gallery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile menu</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google maps</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Social buttons</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google fonts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Video background</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Vallas peatonales</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Estructuras metálicas</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Contáctenos</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">For Windows</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://mobirise.com/\">For Mac</a></li>"
         }
       ]
     }

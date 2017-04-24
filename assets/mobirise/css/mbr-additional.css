@@ -1,3 +1,4 @@
+@import url(https://fonts.googleapis.com/css?family=Alegreya+Sans:400,700&subset=latin,vietnamese,latin-ext);
 #slider-2 H2 {
   color: #000000;
 }
@@ -22,5 +23,79 @@
   background: #f5f5f5;
 }
 #dropdown-menu-2btn-7 .navbar-toggler {
+  color: #000000;
+}
+#dropdown-menu-2btn-9 .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-2btn-9 .navbar-brand a {
+  font-size: 22px;
+}
+#dropdown-menu-2btn-9 .nav .link,
+#dropdown-menu-2btn-9 .dropdown-item {
+  font-size: 1em;
+  color: #000000;
+}
+#dropdown-menu-2btn-9 .navbar,
+#dropdown-menu-2btn-9 .dropdown-menu {
+  background: #ffffff;
+}
+#dropdown-menu-2btn-9 .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-2btn-9 .dropdown-menu a:hover,
+#dropdown-menu-2btn-9 .dropdown-menu a:focus {
+  background: #f5f5f5;
+}
+#dropdown-menu-2btn-9 .navbar-toggler {
+  color: #000000;
+}
+
+#features1-i H4 {
+  font-family: 'Alegreya Sans', sans-serif;
+  font-size: 25px;
+}
+#dropdown-menu-2btn-b .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-2btn-b .navbar-brand a {
+  font-size: 22px;
+}
+#dropdown-menu-2btn-b .nav .link,
+#dropdown-menu-2btn-b .dropdown-item {
+  font-size: 1em;
+  color: #000000;
+}
+#dropdown-menu-2btn-b .navbar,
+#dropdown-menu-2btn-b .dropdown-menu {
+  background: #ffffff;
+}
+#dropdown-menu-2btn-b .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-2btn-b .dropdown-menu a:hover,
+#dropdown-menu-2btn-b .dropdown-menu a:focus {
+  background: #f5f5f5;
+}
+#dropdown-menu-2btn-b .navbar-toggler {
+  color: #000000;
+}
+#dropdown-menu-2btn-d .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-2btn-d .navbar-brand a {
+  font-size: 22px;
+}
+#dropdown-menu-2btn-d .nav .link,
+#dropdown-menu-2btn-d .dropdown-item {
+  font-size: 1em;
+  color: #000000;
+}
+#dropdown-menu-2btn-d .navbar,
+#dropdown-menu-2btn-d .dropdown-menu {
+  background: #ffffff;
+}
+#dropdown-menu-2btn-d .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-2btn-d .dropdown-menu a:hover,
+#dropdown-menu-2btn-d .dropdown-menu a:focus {
+  background: #f5f5f5;
+}
+#dropdown-menu-2btn-d .navbar-toggler {
   color: #000000;
 }
