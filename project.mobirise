@@ -123,7 +123,7 @@
           "_name": "contacts2",
           "_anchor": "contacts2-3",
           "_params": {
-            "paddingTop": 3,
+            "paddingTop": "2",
             "paddingBottom": 3,
             "bgImageRadio": false,
             "parallax": true,
@@ -134,13 +134,14 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#3C3C3C",
             "googleMap": {
-              "placeId": "ChIJn6wOs6lZwokRLKy1iqRcoKw",
-              "address": "350 5th Ave, New York, NY 10118",
-              "state": "ok"
+              "address": "rivadavia 6556, san ramon, santiago",
+              "placeId": "EkJSaXZhZGF2aWEgNjU1NiwgU2FudGlhZ28sIFNhbiBSYW3Ds24sIFJlZ2nDs24gTWV0cm9wb2xpdGFuYSwgQ2hpbGU",
+              "state": "ok",
+              "stateDetails": ""
             }
           },
-          "text1": "<strong>Address</strong><br>\n1234 Street Name<br>\nCity, AA 99999<br><br>\n<strong>Contacts</strong><br>\nEmail: support@mobirise.com<br>\nPhone: +1 (0) 000 0000 001<br>\nFax: +1 (0) 000 0000 002",
-          "text2": "<strong>Links</strong><ul><li><a href=\"https://mobirise.com/\">Website builder</a></li><li><a href=\"https://mobirise.com/mobirise-free-win.zip\">Download for Windows</a></li><li><a href=\"https://mobirise.com/mobirise-free-mac.zip\">Download for Mac</a></li></ul>"
+          "text1": "<strong>Dirección</strong><br>Rivadavia #6556<br>\nSan Ramón, RM.<br><br>\n<strong>Contáctanos</strong><br>\nEmail: contacto@semaforoslavezzolo.cl<br>\nOficina: +56 2 2525 0495 <br>\nMóvil: +56 9 6207 1969",
+          "text2": "<strong>Links</strong><ul><li><a href=\"https://www.quintaidea.cl\" target=\"_blank\">Quinta Idea</a><a href=\"https://mobirise.com/\"></a></li><br></ul>"
         }
       ]
     }
