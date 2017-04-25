@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Lavezzolo",
-    "currentPage": "servicios.html",
+    "currentPage": "nosotros.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -185,7 +185,7 @@
               "url": "https://www.youtube.com/embed/bpYO8sPMZi4?rel=0&amp;showinfo=0&autoplay=0&loop=0"
             },
             "bgVideoRadio": true,
-            "overlay": false,
+            "overlay": true,
             "overlayOpacity": 0.5,
             "overlayColor": "#ffffff",
             "contentAlign": "right",
