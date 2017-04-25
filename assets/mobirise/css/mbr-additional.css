@@ -25,6 +25,12 @@
 #dropdown-menu-2btn-7 .navbar-toggler {
   color: #000000;
 }
+#header2-m H1 {
+  color: #ffffff;
+}
+#header2-m P {
+  color: #ffffff;
+}
 #dropdown-menu-2btn-9 .hide-buttons [data-button] {
   display: none !important;
 }

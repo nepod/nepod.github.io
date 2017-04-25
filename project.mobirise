@@ -196,7 +196,15 @@
           },
           "title": "Semáforos Lavezzolo",
           "text": "Somos una empresa de Proyectos de Ingeniería, fabricación, instalación, puesta en marcha y mantención, que está en busca del desarrollo sostenible en cada uno de sus proyectos que gerencia y ejecuta.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\">Learn More</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\">Learn More</a>",
+          "_styles": {
+            "H1": {
+              "color": "#ffffff"
+            },
+            "P": {
+              "color": "#ffffff"
+            }
+          }
         },
         {
           "alias": "purity/components",
