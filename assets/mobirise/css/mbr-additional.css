@@ -1,6 +1,7 @@
+@import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
-@import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+
 
 
 
@@ -673,6 +674,16 @@ h6,
 #msg-box8-8 p {
   color: #fff;
 }
+#msg-box5-11 H3 {
+  color: #7e9b9f;
+}
+#extFeatures9-t .mbr-section-subtitle {
+  color: #000000;
+  font-family: 'Raleway', sans-serif;
+}
+#extFeatures9-t H5 {
+  font-size: 18px;
+}
 #ext_menu-9 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -733,6 +744,42 @@ h6,
 #ext_menu-9 .link[aria-expanded="true"],
 #ext_menu-9 .dropdown-item[aria-expanded="true"] {
   color: #475577!important;
+}
+#header3-u .mbr-section-title,
+#header3-u .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-u H3 {
+  color: #7e9b9f;
+}
+#content1-v P {
+  text-align: center;
+}
+#header3-w .mbr-section-title,
+#header3-w .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-w H3 {
+  color: #7e9b9f;
+}
+#content1-x P {
+  text-align: center;
+}
+#extFeatures11-12 .mbr-section-title {
+  color: #ffffff;
+}
+#extFeatures11-12 P {
+  color: #efefef;
+  font-size: 18px;
+}
+#extFeatures11-12 H4 {
+  font-size: 16px;
+}
+#extTable1-r TH {
+  text-align: left;
+}
+#contacts1-q STRONG {
+  color: #ffffff;
 }
 #ext_menu-a .hide-buttons .nav-btn {
   display: none !important;
