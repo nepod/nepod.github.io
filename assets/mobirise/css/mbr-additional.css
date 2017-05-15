@@ -734,27 +734,6 @@ h6,
 #ext_menu-9 .dropdown-item[aria-expanded="true"] {
   color: #475577!important;
 }
-#header3-g .mbr-section-title,
-#header3-g .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-g H3 {
-  color: #7e9b9f;
-}
-#header3-h .mbr-section-title,
-#header3-h .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-h H3 {
-  text-align: right;
-  font-size: 32px;
-}
-#extFeatures9-e H5 {
-  font-size: 17px;
-}
-#extFeatures9-e .mbr-section-title {
-  font-size: 36px;
-}
 #ext_menu-a .hide-buttons .nav-btn {
   display: none !important;
 }
