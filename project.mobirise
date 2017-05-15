@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 39,
+    "uniqCompNum": 40,
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": "",
@@ -676,82 +676,29 @@
           }
         },
         {
-          "alias": "mobirise3-blocks/components",
           "_tags": [
-            "Extension"
+            "Theme"
           ],
-          "_name": "extFeatures11",
-          "_anchor": "extFeatures11-12",
+          "_name": "video1",
+          "_anchor": "video1-13",
           "_params": {
-            "blocks": "7",
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "parallax": false,
-            "bgImageRadio": false,
-            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extHeader14_bg.jpg",
-            "bgColor": "#7e9b9f",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#151515",
-            "showTitle": true,
-            "showSubtitle": false,
-            "showDates": false
+            "showText": false
           },
-          "mainTitle": "Actividades 2017",
-          "mainSubtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-          "date1": "1 January 2016",
-          "title1": "Reunión formal con nueva autoridad comunal.",
-          "text1": "Enero",
-          "date2": "2 Ferbuary 2016",
-          "title2": "Capacitación y cena dirigentes vecinales asociados en UNCO.",
-          "text2": "Febrero",
-          "date3": "3 March 2016",
-          "title3": "Postulación de proyecto a \"Fondo presidente de la República\".",
-          "text3": "Febrero",
-          "date4": "4 April 2016",
-          "title4": "Bingo UNCO 2017.",
-          "text4": "Marzo",
-          "date5": "5 May 2016",
-          "title5": "Plato único.",
-          "text5": "Marzo.",
-          "date6": "6 June 2016",
-          "title6": "Visita a Hogar de ancianos Las Rosas.",
-          "text6": "Abril",
-          "date7": "7 July 2016",
-          "title7": "Postulación fondo \"Fondeve\".",
-          "text7": "Mayo",
-          "date8": "8 August 2016",
-          "title8": "8. Smart Watch",
-          "text8": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit.",
-          "date9": "9 September 2016",
-          "title9": "9. Design out of the box",
-          "text9": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit.",
-          "date10": "10 October 2016",
-          "title10": "10. Awesome Reports",
-          "text10": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit.",
-          "date11": "11 November 2016",
-          "title11": "11. Design out of the box",
-          "text11": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit.",
-          "date12": "12 December 2016",
-          "title12": "12. Awesome Reports",
-          "text12": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit.",
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#ffffff"
+          "media": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/2cb63a-c6c24456890d4a4ca4faac53f9e627f3-mv2-1400x608.png",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false,
+              "active": true
             },
-            "P": {
-              "color": "#efefef",
-              "font-size": "18px"
-            },
-            "H4": {
-              "font-size": "16px"
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
             }
-          }
+          },
+          "text": "<p>Cut down the development time with drag-and-drop website builder.</p>"
         },
         {
           "alias": "mobirise3-blocks/components",
@@ -761,9 +708,9 @@
           "_name": "extTable1",
           "_anchor": "extTable1-r",
           "_params": {
-            "rowСount": 4,
-            "colCount": 4,
-            "paddingTop": 3,
+            "rowСount": "18",
+            "colCount": "3",
+            "paddingTop": "2",
             "paddingBottom": 3,
             "bgImageRadio": false,
             "parallax": true,
@@ -786,7 +733,7 @@
           "info2": "entries",
           "info3": "(filtered from",
           "info4": "total entries)",
-          "table": "<thead><tr><th>Nombre</th><th>Socios activos</th><th>Año inicio</th><th>Inversión</th></tr></thead><tbody><tr><td>J.V. Villa las flores</td><td>80</td><td>2010</td><td>$317.000</td></tr><tr><td>Caren Rials</td><td>35</td><td>2013-04-12</td><td>$445.500</td></tr><tr><td>Leon Rogol</td><td>66</td><td>2016-05-22</td><td>$152.558</td></tr><tr><td>Shala Barrera</td><td>70</td><td>2016-05-15</td><td>$459.146</td></tr></tbody>",
+          "table": "<thead><tr><th>Junta de Vecinos</th><th>Socios activos</th><th>Año inicio</th></tr></thead><tbody><tr><td>Villa las flores</td><td>80</td><td>2010</td></tr><tr><td>Andres Bello</td><td>35</td><td>2010</td></tr><tr><td>San Carlos</td><td>66</td><td>2010</td></tr><tr><td>La Peña</td><td>70</td><td>2010</td></tr><tr><td>El Litre</td><td>70</td><td>2010</td></tr><tr><td>Calle el Melón</td><td>70</td><td>2010</td></tr><tr><td>El Cristo</td><td>70</td><td>2010</td></tr><tr><td>Población Valdivia</td><td>70</td><td>2010</td></tr><tr><td>Manuel Rodriguez</td><td>70</td><td>2010</td></tr><tr><td>Los Almendros</td><td>70</td><td>2010</td></tr><tr><td>La Esperanza</td><td>70</td><td>2010</td></tr><tr><td>Pablo Neruda</td><td>70</td><td>2010</td></tr><tr><td>Alberto Hurtado</td><td>70</td><td>2010</td></tr><tr><td>Población Uno</td><td>70</td><td>2010</td></tr><tr><td>El Olivo de Pucalán</td><td>70</td><td>2010</td></tr><tr><td>Huellacanal</td><td>70</td><td>2010</td></tr><tr><td>Villorio Santa María</td><td>70</td><td>2010</td></tr><tr><td>El Polígono</td><td>70</td><td>2010</td></tr></tbody>",
           "_styles": {
             "TH": {
               "text-align": "left"
