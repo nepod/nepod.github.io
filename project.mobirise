@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "UNCONogales",
-    "currentPage": "index.html",
+    "currentPage": "contacto.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -264,7 +264,7 @@
           "_name": "extForm3",
           "_anchor": "extForm3-b",
           "_params": {
-            "paddingTop": 1,
+            "paddingTop": "3",
             "paddingBottom": 1,
             "parallax": false,
             "bgImageRadio": false,
@@ -285,7 +285,7 @@
               "state": "ok",
               "stateDetails": ""
             },
-            "showTitle": true,
+            "showTitle": false,
             "showContacts": true,
             "showIcons": true,
             "showSubtitle": true,
@@ -293,7 +293,7 @@
             "showForm": true,
             "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"nav-link btn btn-primary\">BUY</a>"
           },
-          "title": "DROP A LINE",
+          "title": "",
           "media1": {
             "iconFont": {
               "active": true,
