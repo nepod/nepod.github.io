@@ -167,10 +167,14 @@
           "subtitle": "La actual directiva de la Unión Comunal de Juntas de Vecinos Nogales, está compuesta por:",
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/face5.png",
+              "src": "@PROJECT_PATH@/assets/images/avatar00-600x578.png",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "title1": "María Saavedra T.",
@@ -222,10 +226,14 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/face1.png",
+              "src": "@PROJECT_PATH@/assets/images/avatar00-600x578.png",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "title2": "Edith Fernandez P.",
@@ -277,10 +285,14 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/face6.png",
+              "src": "@PROJECT_PATH@/assets/images/avatar00-600x578.png",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "title3": "Rebeca Quintanilla",
@@ -1194,10 +1206,14 @@
           "subtitle": "This theme is based on Bootstrap 3 and Bootstrap 4 - most powerful mobile first framework.",
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/face5.png",
+              "src": "@PROJECT_PATH@/assets/images/avatar00-600x578.png",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "title1": "Michel Maureira",
@@ -1249,10 +1265,14 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/face1.png",
+              "src": "@PROJECT_PATH@/assets/images/avatar00-600x578.png",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "title2": "Edith Navia",
@@ -1304,10 +1324,14 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/face6.png",
+              "src": "@PROJECT_PATH@/assets/images/avatar00-600x578.png",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "title3": "Leslie Pacheco",
