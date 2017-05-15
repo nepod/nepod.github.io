@@ -15,8 +15,8 @@
         "titleFont": "Montserrat",
         "subtitleFont": "Lora",
         "textFont": "Raleway",
-        "isRoundedButtons": false,
-        "isAnimatedOnScroll": true,
+        "isRoundedButtons": true,
+        "isAnimatedOnScroll": false,
         "isScrollToTopButton": false,
         "isRtl": false
       }
@@ -729,10 +729,10 @@
           },
           "title": "J.V. ASOCIADAS",
           "search": "Buscar J.V. Asociada:",
-          "info1": "Showing",
-          "info2": "entries",
-          "info3": "(filtered from",
-          "info4": "total entries)",
+          "info1": "Mostrando",
+          "info2": "entradas",
+          "info3": "(filtradas desde",
+          "info4": "entradas totales)",
           "table": "<thead><tr><th>Junta de Vecinos</th><th>Socios activos</th><th>Año inicio</th></tr></thead><tbody><tr><td>Villa las flores</td><td>80</td><td>2010</td></tr><tr><td>Andres Bello</td><td>35</td><td>2010</td></tr><tr><td>San Carlos</td><td>66</td><td>2010</td></tr><tr><td>La Peña</td><td>70</td><td>2010</td></tr><tr><td>El Litre</td><td>70</td><td>2010</td></tr><tr><td>Calle el Melón</td><td>70</td><td>2010</td></tr><tr><td>El Cristo</td><td>70</td><td>2010</td></tr><tr><td>Población Valdivia</td><td>70</td><td>2010</td></tr><tr><td>Manuel Rodriguez</td><td>70</td><td>2010</td></tr><tr><td>Los Almendros</td><td>70</td><td>2010</td></tr><tr><td>La Esperanza</td><td>70</td><td>2010</td></tr><tr><td>Pablo Neruda</td><td>70</td><td>2010</td></tr><tr><td>Alberto Hurtado</td><td>70</td><td>2010</td></tr><tr><td>Población Uno</td><td>70</td><td>2010</td></tr><tr><td>El Olivo de Pucalán</td><td>70</td><td>2010</td></tr><tr><td>Huellacanal</td><td>70</td><td>2010</td></tr><tr><td>Villorio Santa María</td><td>70</td><td>2010</td></tr><tr><td>El Polígono</td><td>70</td><td>2010</td></tr></tbody>",
           "_styles": {
             "TH": {
