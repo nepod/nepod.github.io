@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 40,
+    "uniqCompNum": 56,
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": "",
@@ -665,7 +665,7 @@
           "_anchor": "content1-x",
           "_params": {
             "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingBottom": "4",
             "bgColor": "#fff"
           },
           "text": "<p>Trabajar juntos en distintas áreas para el desarrollo de nuestra comuna.</p>",
