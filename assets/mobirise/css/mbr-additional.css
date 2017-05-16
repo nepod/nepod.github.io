@@ -774,6 +774,10 @@ h6,
 #extTable1-r TH {
   text-align: left;
 }
+#social-buttons4-1l .mbr-section-title,
+#social-buttons4-1l .btn-social {
+  color: #fff;
+}
 #contacts1-q STRONG {
   color: #ffffff;
 }

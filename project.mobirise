@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 56,
+    "uniqCompNum": 58,
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": "",
@@ -79,6 +79,11 @@
             "Theme"
           ],
           "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "color": "#7e9b9f"
+            }
+          },
           "_anchor": "msg-box5-11",
           "_params": {
             "imageSize": "29",
@@ -125,12 +130,7 @@
           },
           "title": "\"Por una comuna unida e informada\"",
           "text": "La Unión Comunal de Juntas de Vecinos, nace en Mayo de 1972.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_styles": {
-            "H3": {
-              "color": "#7e9b9f"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
           "alias": "mobirise3-blocks/components",
@@ -138,6 +138,16 @@
             "Extension"
           ],
           "_name": "extFeatures9",
+          "_styles": {
+            ".mbr-section-subtitle": {
+              "color": "#000000",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            },
+            "H5": {
+              "font-size": "18px"
+            }
+          },
           "_anchor": "extFeatures9-t",
           "_params": {
             "paddingTop": "1",
@@ -506,16 +516,6 @@
               "color": "#000",
               "family": "socicon"
             }
-          },
-          "_styles": {
-            ".mbr-section-subtitle": {
-              "color": "#000000",
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
-            },
-            "H5": {
-              "font-size": "18px"
-            }
           }
         },
         {
@@ -633,18 +633,18 @@
             "Theme"
           ],
           "_name": "content1",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          },
           "_anchor": "content1-v",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>Promover la unión de las Juntas de Vecinos de Nogales, trabajando activa y coordianadamente por el desarrollo de los entornos comunitarios locales y comunales, con responsabilidad y transparencia, sin discriminación de ningún tipo.</p>",
-          "_styles": {
-            "P": {
-              "text-align": "center"
-            }
-          }
+          "text": "<p>Promover la unión de las Juntas de Vecinos de Nogales, trabajando activa y coordinadamente por el desarrollo de los entornos comunitarios locales y comunales, con responsabilidad y transparencia, sin discriminación de ningún tipo.</p>"
         },
         {
           "_styles": {
@@ -674,18 +674,18 @@
             "Theme"
           ],
           "_name": "content1",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          },
           "_anchor": "content1-x",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": "4",
             "bgColor": "#fff"
           },
-          "text": "<p>Trabajar juntos en distintas áreas para el desarrollo de nuestra comuna.</p>",
-          "_styles": {
-            "P": {
-              "text-align": "center"
-            }
-          }
+          "text": "<p>Trabajar juntos en distintas áreas para el desarrollo de nuestra comuna.</p>"
         },
         {
           "_tags": [
@@ -718,6 +718,11 @@
             "Extension"
           ],
           "_name": "extTable1",
+          "_styles": {
+            "TH": {
+              "text-align": "left"
+            }
+          },
           "_anchor": "extTable1-r",
           "_params": {
             "rowСount": "18",
@@ -745,12 +750,34 @@
           "info2": "entradas",
           "info3": "(filtradas desde",
           "info4": "entradas totales)",
-          "table": "<thead><tr><th>Junta de Vecinos</th><th>Socios activos</th><th>Año inicio</th></tr></thead><tbody><tr><td>Villa las flores</td><td>80</td><td>2010</td></tr><tr><td>Andres Bello</td><td>35</td><td>2010</td></tr><tr><td>San Carlos</td><td>66</td><td>2010</td></tr><tr><td>La Peña</td><td>70</td><td>2010</td></tr><tr><td>El Litre</td><td>70</td><td>2010</td></tr><tr><td>Calle el Melón</td><td>70</td><td>2010</td></tr><tr><td>El Cristo</td><td>70</td><td>2010</td></tr><tr><td>Población Valdivia</td><td>70</td><td>2010</td></tr><tr><td>Manuel Rodriguez</td><td>70</td><td>2010</td></tr><tr><td>Los Almendros</td><td>70</td><td>2010</td></tr><tr><td>La Esperanza</td><td>70</td><td>2010</td></tr><tr><td>Pablo Neruda</td><td>70</td><td>2010</td></tr><tr><td>Alberto Hurtado</td><td>70</td><td>2010</td></tr><tr><td>Población Uno</td><td>70</td><td>2010</td></tr><tr><td>El Olivo de Pucalán</td><td>70</td><td>2010</td></tr><tr><td>Huellacanal</td><td>70</td><td>2010</td></tr><tr><td>Villorio Santa María</td><td>70</td><td>2010</td></tr><tr><td>El Polígono</td><td>70</td><td>2010</td></tr></tbody>",
+          "table": "<thead><tr><th>Junta de Vecinos</th><th>Socios activos</th><th>Año inicio</th></tr></thead><tbody><tr><td>Villa las flores</td><td>80</td><td>2010</td></tr><tr><td>Andres Bello</td><td>35</td><td>2010</td></tr><tr><td>San Carlos</td><td>66</td><td>2010</td></tr><tr><td>La Peña</td><td>70</td><td>2010</td></tr><tr><td>El Litre</td><td>70</td><td>2010</td></tr><tr><td>Calle el Melón</td><td>70</td><td>2010</td></tr><tr><td>El Cristo</td><td>70</td><td>2010</td></tr><tr><td>Población Valdivia</td><td>70</td><td>2010</td></tr><tr><td>Manuel Rodriguez</td><td>70</td><td>2010</td></tr><tr><td>Los Almendros</td><td>70</td><td>2010</td></tr><tr><td>La Esperanza</td><td>70</td><td>2010</td></tr><tr><td>Pablo Neruda</td><td>70</td><td>2010</td></tr><tr><td>Alberto Hurtado</td><td>70</td><td>2010</td></tr><tr><td>Población Uno</td><td>70</td><td>2010</td></tr><tr><td>El Olivo de Pucalán</td><td>70</td><td>2010</td></tr><tr><td>Huellacanal</td><td>70</td><td>2010</td></tr><tr><td>Villorio Santa María</td><td>70</td><td>2010</td></tr><tr><td>El Polígono</td><td>70</td><td>2010</td></tr></tbody>"
+        },
+        {
+          "_inherit": "social-buttons2",
           "_styles": {
-            "TH": {
-              "text-align": "left"
+            ".mbr-section-title, .btn-social": {
+              "color": "#fff"
             }
-          }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons4",
+          "_anchor": "social-buttons4-1l",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222"
+          },
+          "text": "Síguenos",
+          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pg/UNCO-Nogales-111454576101003/about/?ref=page_internal\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>         "
         },
         {
           "_tags": [
@@ -1612,6 +1639,11 @@
             "Theme"
           ],
           "_name": "contacts1",
+          "_styles": {
+            "STRONG": {
+              "color": "#ffffff"
+            }
+          },
           "_anchor": "contacts1-q",
           "_params": {
             "paddingTop": "2",
@@ -1643,12 +1675,7 @@
           },
           "text1": "<strong>DIRECCIÓN</strong><br>Nogales.",
           "text2": "<strong>Contacts</strong><br>\nEmail: contacto@unconogales.cl<br><br>",
-          "text3": "<p><strong>Links</strong><br>\n<a href=\"www.quintaidea.cl\">Quinta Idea</a><a class=\"text-primary\" href=\"https://mobirise.com/\"></a><br><br></p>",
-          "_styles": {
-            "STRONG": {
-              "color": "#ffffff"
-            }
-          }
+          "text3": "<p><strong>Links</strong><br>\n<a href=\"www.quintaidea.cl\">Quinta Idea</a><a class=\"text-primary\" href=\"https://mobirise.com/\"></a><br><br></p>"
         }
       ]
     }
