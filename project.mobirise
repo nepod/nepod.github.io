@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Espiral",
-    "currentPage": "servicios.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -223,6 +223,14 @@
             "Theme"
           ],
           "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "color": "#27a8c7",
+              "font-size": "46px",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            }
+          },
           "_anchor": "msg-box5-6",
           "_params": {
             "imageSize": "24",
@@ -269,15 +277,7 @@
           },
           "title": "¡Bienvenidos/as a Espiral!",
           "text": "<br>Somos un equipo transdisciplinario que busca contribuir al desarrollo integral de niños y niñas, respetando su individualidad social, emocional y neurobiológica.<br>Contamos con especialistas en Trastornos del Espectro Autista, Problemas de Aprendizaje y Desarrollo Infantil.<br>En todas nuestras áreas trabajamos en conjunto con la familia y los centros educacionales, resguardando la continuidad de las intervenciones en los contextos cotidianos del/a niño/a.&nbsp;<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_styles": {
-            "H3": {
-              "color": "#27a8c7",
-              "font-size": "46px",
-              "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
           "_inherit": "gallery1",
@@ -347,6 +347,11 @@
             "Theme"
           ],
           "_name": "contacts1",
+          "_styles": {
+            "STRONG": {
+              "color": "#ffffff"
+            }
+          },
           "_anchor": "contacts1-a",
           "_params": {
             "paddingTop": 3,
@@ -378,12 +383,7 @@
           },
           "text1": "<strong>Dirección</strong><br>Calle Ecuador #238<br>Viña del mar, Chile.",
           "text2": "<strong>Contáctanos</strong><br>\nEmail: contacto@espiralvina.cl<br>\nFono: +56 32 342 3301<br><br>",
-          "text3": "<p><strong>Links</strong><br>\n<a href=\"www.quintaidea.cl\" target=\"_blank\">Quinta Idea</a><a class=\"text-primary\" href=\"https://mobirise.com/\"></a><br><br></p>",
-          "_styles": {
-            "STRONG": {
-              "color": "#ffffff"
-            }
-          }
+          "text3": "<p><strong>Links</strong><br>\n<a href=\"www.quintaidea.cl\" target=\"_blank\">Quinta Idea</a><a class=\"text-primary\" href=\"https://mobirise.com/\"></a><br><br></p>"
         }
       ]
     },
@@ -437,6 +437,12 @@
             "Theme"
           ],
           "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "color": "#27a8c7",
+              "font-size": "32px"
+            }
+          },
           "_anchor": "msg-box5-h",
           "_params": {
             "imageSize": 50,
@@ -483,19 +489,19 @@
           },
           "title": "Misión",
           "text": "Apoyar y acompañar los procesos madurativos de bebés, niñas, niños y adolescentes – que presenten o no dificultades en su desarrollo – desde un enfoque integral y respetuoso, facilitando instancias preventivas y terapéuticas que involucren en un rol activo a la familia, las instituciones educativas y a la comunidad en general. ​",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_styles": {
-            "H3": {
-              "color": "#27a8c7",
-              "font-size": "32px"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "color": "#27a8c7",
+              "font-size": "32px"
+            }
+          },
           "_anchor": "msg-box5-i",
           "_params": {
             "imageSize": 50,
@@ -542,19 +548,18 @@
           },
           "title": "Visión",
           "text": "Nos proyectamos hacia presentar un modelo de atención que utilice herramientas clínicas, pedagógicas y psicopedagógicas que respeten la integridad biopsicosocial de cada consultante y de su familia tanto para instancias de prevención, evaluación y terapia; enfocados tanto en los trastornos del desarrollo como en las necesidades educativas diferentes, y a afianzar nuestro rol político y social, tanto facilitando como participando en instancias de reflexión y formación en temáticas de educación pre-escolar y escolar, inclusión y neurodiversidad.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_styles": {
-            "H3": {
-              "color": "#27a8c7",
-              "font-size": "32px"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "testimonials2",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#27a8c7"
+            }
+          },
           "testimonial": [
             {
               "text": "<p>\" Como madre y familia nos hemos sentido siempre acogidos, personalmente me siento parte del núcleo de casita Espiral, nos sentimos respetados, escuchados y principalmente contenidos. He secado muchas de mis lágrimas, en una conversación con el rico olor del cafecito en la mano. Sí he secado muchas de mis lágrimas escuchando las palabras precisas. Agradezco a la vida por lo que han hecho en y para nosotros.\"</p>",
@@ -604,6 +609,9 @@
             "count": 3,
             "paddingTop": "2",
             "paddingBottom": "2",
+            "showImages": false,
+            "showName": true,
+            "showBio": true,
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@PROJECT_PATH@/assets/images/img-2000x1333.jpg",
@@ -613,18 +621,10 @@
             "overlayOpacity": 0.2,
             "overlayColor": "#222",
             "showTitle": true,
-            "showSubtitle": false,
-            "showImages": false,
-            "showName": true,
-            "showBio": true
+            "showSubtitle": false
           },
           "title": "Testimonios",
-          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#27a8c7"
-            }
-          }
+          "subtitle": "Shape your future web project with sharp design and refine coded functions."
         },
         {
           "_tags": [
@@ -891,6 +891,26 @@
             "Extension"
           ],
           "_name": "extForm4",
+          "_styles": {
+            "H2": {
+              "color": "#27a8c7"
+            },
+            ".intro-box h5": {
+              "text-align": "center"
+            },
+            ".intro-box h4": {
+              "color": "#27a8c7"
+            },
+            ".intro-box h5 SPAN": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-size": "17px",
+              "color": "#000000"
+            },
+            "P": {
+              "color": "#232323"
+            }
+          },
           "_anchor": "extForm4-o",
           "_params": {
             "parallax": false,
@@ -950,27 +970,7 @@
               }
             }
           },
-          "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">ENVIAR</a>",
-          "_styles": {
-            "H2": {
-              "color": "#27a8c7"
-            },
-            ".intro-box h5": {
-              "text-align": "center"
-            },
-            ".intro-box h4": {
-              "color": "#27a8c7"
-            },
-            ".intro-box h5 SPAN": {
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
-              "font-size": "17px",
-              "color": "#000000"
-            },
-            "P": {
-              "color": "#232323"
-            }
-          }
+          "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">ENVIAR</a>"
         },
         {
           "_styles": {
@@ -1249,6 +1249,12 @@
             "Theme"
           ],
           "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "color": "#27a8c7",
+              "font-size": "20px"
+            }
+          },
           "_anchor": "msg-box5-z",
           "_params": {
             "imageSize": "30",
@@ -1295,19 +1301,19 @@
           },
           "title": "&nbsp;Apoyo  Educativo y Terapéutico",
           "text": "- Apoyo a personas con Trastorno del Espectro Autista.<br>- Apoyo a personas con Necesidades Educativas Especiales (Transitorias y Permanentes).<br>- Apoyo al Desarrollo Infantil..",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"servicios.html\" data-toolbar=\"-mbrBtnMove\">Leer más...</a>",
-          "_styles": {
-            "H3": {
-              "color": "#27a8c7",
-              "font-size": "20px"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"servicios.html\" data-toolbar=\"-mbrBtnMove\">Leer más...</a>"
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "color": "#27a8c7",
+              "font-size": "20px"
+            }
+          },
           "_anchor": "msg-box5-10",
           "_params": {
             "imageSize": "30",
@@ -1354,19 +1360,19 @@
           },
           "title": "Evaluación",
           "text": "- Evaluación Multidisciplinaria<br>(ADOS + Ev. psicológica, fonoaudiológica, del desarrollo psicomotor y perfil sensorial).<br>- Evaluación Integral del Desarrollo Psicomotor.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"servicios.html\" data-toolbar=\"-mbrBtnMove\">Leer más...</a>",
-          "_styles": {
-            "H3": {
-              "color": "#27a8c7",
-              "font-size": "20px"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"servicios.html\" data-toolbar=\"-mbrBtnMove\">Leer más...</a>"
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "color": "#27a8c7",
+              "font-size": "20px"
+            }
+          },
           "_anchor": "msg-box5-11",
           "_params": {
             "imageSize": "30",
@@ -1413,13 +1419,7 @@
           },
           "title": "Actividades de Bienestar y Autocuidado",
           "text": "-Yoga Pre-natal..<br>-Yoga Infantil Inclusivo.<br>-Talleres y Charlas.<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"servicios.html\" data-toolbar=\"-mbrBtnMove\">Leer más...</a>",
-          "_styles": {
-            "H3": {
-              "color": "#27a8c7",
-              "font-size": "20px"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"servicios.html\" data-toolbar=\"-mbrBtnMove\">Leer más...</a>"
         },
         {
           "_tags": [
