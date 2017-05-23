@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Espiral",
-    "currentPage": "servicios.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -23,7 +23,11 @@
     },
     "versionFirst": "3.12.1",
     "uniqCompNum": 38,
-    "versionPublish": "3.12.1"
+    "versionPublish": "3.12.1",
+    "favicon": "@PROJECT_PATH@/assets/images/logo01-128x116-1.png",
+    "noImageResize": "",
+    "google-analytics": "",
+    "cookiesAlert": ""
   },
   "pages": {
     "index.html": {
