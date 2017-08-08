@@ -195,8 +195,8 @@
           "_anchor": "features4-9",
           "_params": {
             "iconsBgColor": "#f2f2f2",
-            "paddingTop": 2,
-            "paddingBottom": 2,
+            "paddingTop": "4",
+            "paddingBottom": "4",
             "bgImageRadio": true,
             "parallax": true,
             "bgImage": "@PROJECT_PATH@/assets/images/a-beautiful-view-939515-960-2000x1333.jpg",
