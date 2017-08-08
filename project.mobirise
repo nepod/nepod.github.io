@@ -137,6 +137,12 @@
             "Theme"
           ],
           "_name": "header4",
+          "_styles": {
+            ".mbr-section-lead": {
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            }
+          },
           "_anchor": "header4-7",
           "_params": {
             "parallax": true,
@@ -152,7 +158,7 @@
             },
             "bgVideoRadio": true,
             "overlay": true,
-            "overlayOpacity": 0.5,
+            "overlayOpacity": "0.7",
             "overlayColor": "#000",
             "contentAlign": "right",
             "showTitle": true,
@@ -161,13 +167,7 @@
           },
           "title": "AREVALO",
           "text": "En Arevalo nos caracterizamos por nuestra eficiencia y seguridad,<br>contamos con &nbsp;profesionales de basta experiencia en el rubro.&nbsp;",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
-          "_styles": {
-            ".mbr-section-lead": {
-              "font-family": "'Roboto', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
         },
         {
           "_styles": {
@@ -320,6 +320,11 @@
             "Theme"
           ],
           "_name": "contacts3",
+          "_styles": {
+            "LI": {
+              "color": "#bcbcbc"
+            }
+          },
           "_anchor": "contacts3-2",
           "_params": {
             "paddingTop": 3,
@@ -411,12 +416,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Enviar</a>",
-          "_styles": {
-            "LI": {
-              "color": "#bcbcbc"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Enviar</a>"
         }
       ]
     }
