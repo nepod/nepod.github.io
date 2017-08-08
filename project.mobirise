@@ -257,9 +257,10 @@
               "name": "refresh",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "index.html",
               "size": 0,
-              "color": "black"
+              "color": "black",
+              "newWindow": false
             }
           },
           "title3": "REACONDICIONAMIENTO",
