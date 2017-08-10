@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "mobilyar",
-    "currentPage": "page1.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -113,7 +113,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "null!important"
+              "color": "#f1cc01!important"
             }
           },
           "logo": {

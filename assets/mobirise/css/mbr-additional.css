@@ -737,7 +737,7 @@ h6,
 }
 #ext_menu-2 .link[aria-expanded="true"],
 #ext_menu-2 .dropdown-item[aria-expanded="true"] {
-  color: null!important;
+  color: #f1cc01!important;
 }
 #header2-1 .mbr-section-title {
   font-family: 'Amatic SC', handwriting;
