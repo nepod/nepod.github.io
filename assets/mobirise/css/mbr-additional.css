@@ -735,7 +735,7 @@ h6,
 }
 #ext_menu-2 .link[aria-expanded="true"],
 #ext_menu-2 .dropdown-item[aria-expanded="true"] {
-  color: #f1cc01!important;
+  color: null!important;
 }
 #header2-1 .mbr-section-title {
   font-family: 'Amatic SC', handwriting;
@@ -759,5 +759,95 @@ h6,
   color: #000000;
 }
 #contacts4-4 UL {
+  font-size: 15px;
+}
+
+
+
+
+#ext_menu-5 .hide-buttons .nav-btn {
+  display: none !important;
+}
+#ext_menu-5 .navbar-caption {
+  color: #ffffff;
+}
+#ext_menu-5 .navbar-toggler {
+  color: #000000;
+}
+#ext_menu-5 .close-icon::before,
+#ext_menu-5 .close-icon::after {
+  background-color: #000000;
+}
+#ext_menu-5 .link,
+#ext_menu-5 .dropdown-item {
+  color: #000000;
+  font-family: 'Amatic SC', handwriting;
+}
+#ext_menu-5 .link {
+  font-size: 1.2rem;
+}
+#ext_menu-5 .dropdown-item,
+#ext_menu-5 .nav-dropdown-sm .link {
+  font-size: 1.300rem;
+}
+#ext_menu-5 .link:hover,
+#ext_menu-5 .dropdown-item:hover,
+#ext_menu-5 .link:focus,
+#ext_menu-5 .dropdown-item:focus {
+  color: #f1cc01;
+}
+#ext_menu-5 .link[aria-expanded="true"],
+#ext_menu-5 .dropdown-menu {
+  background: #bea101;
+}
+#ext_menu-5 .nav-dropdown-sm .link:focus,
+#ext_menu-5 .nav-dropdown-sm .link:hover,
+#ext_menu-5 .nav-dropdown-sm .dropdown-item:focus,
+#ext_menu-5 .nav-dropdown-sm .dropdown-item:hover {
+  background: #e2bf01!important;
+}
+#ext_menu-5 .navbar,
+#ext_menu-5 .nav-dropdown-sm,
+#ext_menu-5 .nav-dropdown-sm .link[aria-expanded="true"],
+#ext_menu-5 .nav-dropdown-sm .dropdown-menu {
+  background: #f1cc01;
+}
+#ext_menu-5 .bg-color.transparent .link {
+  color: #000000;
+  transition: none;
+}
+#ext_menu-5 .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#ext_menu-5 .bg-color.transparent.opened .link:hover,
+#ext_menu-5 .bg-color.transparent.opened .link:focus {
+  color: #f1cc01;
+}
+#ext_menu-5 .link[aria-expanded="true"],
+#ext_menu-5 .dropdown-item[aria-expanded="true"] {
+  color: #f1cc01!important;
+}
+#header2-6 .mbr-section-title {
+  font-family: 'Amatic SC', handwriting;
+  font-size: 100px;
+  text-align: right;
+  color: #000000;
+}
+#header2-6 .mbr-section-text {
+  text-align: right;
+  font-size: 36px;
+  color: #000000;
+  font-family: 'Amatic SC', handwriting;
+}
+#contacts4-7 .btn {
+  font-family: 'Noto Sans', sans-serif;
+}
+#contacts4-7 STRONG {
+  color: #000000;
+}
+#contacts4-7 P {
+  color: #000000;
+}
+#contacts4-7 UL {
   font-size: 15px;
 }
