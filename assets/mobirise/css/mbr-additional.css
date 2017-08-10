@@ -852,7 +852,6 @@ h6,
 }
 
 
-
 #ext_menu-5 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -923,16 +922,10 @@ h6,
   font-size: 17px;
   color: #000000;
 }
-#contacts4-7 .btn {
-  font-family: 'Noto Sans', sans-serif;
-}
-#contacts4-7 STRONG {
+#contacts1-q P {
   color: #000000;
-  font-size: 21px;
+  font-size: 14px;
 }
-#contacts4-7 P {
-  color: #000000;
-}
-#contacts4-7 UL {
-  font-size: 15px;
+#contacts1-q STRONG {
+  font-size: 24px;
 }
