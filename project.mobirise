@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "mobilyar",
-    "currentPage": "mobilyar.html",
+    "currentPage": "page2.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -29,7 +29,7 @@
     "cookiesAlert": "",
     "google-analytics": "",
     "versionFirst": "4.1.2",
-    "uniqCompNum": 27,
+    "uniqCompNum": 30,
     "versionPublish": "4.1.2",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -219,56 +219,42 @@
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contáctanos</a>",
-          "text1": "<strong>Dirección</strong><br>\nYerbas buenas<br>\nValparaíso.<br><br><br>\n<strong>Contacto</strong><br>\nEmail: mobilyardeautor@gmail.com<br>\nPhone: +569 89595005<br>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><b><a href=\"index.html\">Quinta Idea</a></b></li></ul>",
-          "form": {
-            "title": "MESSAGE",
-            "action": "facaguilera@gmail.com",
-            "alerts": {
-              "success": "¡Gracias por contactarnos!"
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/18643782_1111106295699593_188278497_n-128x95.png",
+              "width": 128,
+              "link": "index.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             },
-            "fields": {
-              "name": {
-                "visible": false,
-                "title": "Name",
-                "customTitle": "Name*"
-              },
-              "email": {
-                "visible": true,
-                "title": "Email",
-                "customTitle": "Email*"
-              },
-              "phone": {
-                "visible": false,
-                "title": "Phone",
-                "customTitle": "Phone"
-              },
-              "message": {
-                "title": "Message",
-                "customTitle": "Mensaje"
-              }
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "linkInNewWindow": false,
+              "name": "facebook",
+              "family": "et-line",
+              "link": "https://www.facebook.com/mobilyar/",
+              "size": 119,
+              "active": true,
+              "newWindow": false
             }
           },
+          "text1": "<strong>Dirección</strong><br>Yerbas Buenas,<br>Valparaíso.",
+          "text2": "<strong>Contacto</strong><br>\nEmail: mobilyardeautor@gmail.com<br>\nTeléfono:&nbsp;+56 9 8959 5005<br>",
+          "text3": "<strong>Links</strong><br><br>\n<a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\">Download for Mac</a>",
           "_tags": [
             "Theme"
           ],
-          "_name": "contacts4",
-          "_anchor": "contacts4-4",
+          "_name": "contacts1",
+          "_anchor": "contacts1-q",
           "_styles": {
-            ".btn": {
-              "font-family": "'Noto Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Noto+Sans:400,700"
+            "P": {
+              "color": "#000000",
+              "font-size": "14px"
             },
             "STRONG": {
-              "color": "#000000",
-              "font-size": "21px"
-            },
-            "P": {
+              "font-size": "24px",
               "color": "#000000"
-            },
-            "UL": {
-              "font-size": "15px"
             }
           }
         }
@@ -278,7 +264,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "contacto",
-        "order": 2
+        "order": 3
       },
       "components": [
         {
@@ -382,7 +368,7 @@
             "inverse": false,
             "showArrow": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/img-extheader10.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/img-2000x1333.jpg",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#2e2e2e",
@@ -392,7 +378,7 @@
             },
             "overlay": true,
             "overlayColor": "#000",
-            "overlayOpacity": "0.3"
+            "overlayOpacity": "0.6"
           },
           "title": "Contáctanos",
           "text": "No dudes en escribirnos, hagamos realidad esa idea que tienes en mente.",
@@ -634,15 +620,16 @@
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-contacts1",
               "linkInNewWindow": false,
-              "name": "letter",
-              "family": "MobiriseIcons",
-              "link": "",
-              "size": 0,
-              "active": true
+              "name": "facebook",
+              "family": "et-line",
+              "link": "https://www.facebook.com/mobilyar/",
+              "size": 119,
+              "active": true,
+              "newWindow": false
             }
           },
           "text1": "<strong>Dirección</strong><br>Yerbas Buenas,<br>Valparaíso.",
-          "text2": "<strong>Contacto</strong><br>\nEmail: mobilyardeautor@gmail.com<br>\nTeléfono: +56 9&nbsp;<br>",
+          "text2": "<strong>Contacto</strong><br>\nEmail: mobilyardeautor@gmail.com<br>\nTeléfono:&nbsp;+56 9 8959 5005<br>",
           "text3": "<strong>Links</strong><br><br>\n<a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\">Download for Mac</a>",
           "_tags": [
             "Theme"
@@ -655,7 +642,8 @@
               "font-size": "14px"
             },
             "STRONG": {
-              "font-size": "24px"
+              "font-size": "24px",
+              "color": "#000000"
             }
           }
         }
