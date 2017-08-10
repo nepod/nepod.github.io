@@ -1,6 +1,5 @@
 @import url(../../../https://fonts.googleapis.com/css?family=Amatic+SC:400,700);
 @import url(../../../https://fonts.googleapis.com/css?family=Noto+Sans:400,700);
-@import url(../../../https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(../../../https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700);
 @import url(../../../https://fonts.googleapis.com/css?family=Raleway:400,300,700);
 @import url(../../../https://fonts.googleapis.com/css?family=Roboto:400,300,700);
@@ -66,20 +65,23 @@ h6,
 .mbr-section-hero .mbr-section-lead,
 .mbr-cards .card-subtitle,
 .mbr-testimonial .card-block {
-  font-family: 'Lora', serif;
+  font-family: 'Amatic SC', handwriting;
+  font-style: normal;
 }
 .mbr-author-name {
   font-family: 'Amatic SC', handwriting;
 }
 .mbr-author-desc {
-  font-family: 'Lora', serif;
+  font-family: 'Amatic SC', handwriting;
+  font-style: normal;
 }
 .mbr-plan-title {
   font-family: 'Amatic SC', handwriting;
 }
 .mbr-plan-subtitle,
 .mbr-plan-price-desc {
-  font-family: 'Lora', serif;
+  font-family: 'Amatic SC', handwriting;
+  font-style: normal;
 }
 .bg-primary {
   background-color: #f1cc01 !important;
@@ -421,14 +423,16 @@ h6,
 }
 .extCountdown1 .period,
 .extCountdown2 .period {
-  font-family: 'Lora', serif;
+  font-family: 'Amatic SC', handwriting;
+  font-style: normal;
 }
 .extCountdown1 .dot,
 .extCountdown2 .dot {
   font-family: 'Amatic SC', handwriting;
 }
 .features6 .feature-subtitle {
-  font-family: 'Lora', serif;
+  font-family: 'Amatic SC', handwriting;
+  font-style: normal;
 }
 .features6 .feature-title {
   font-family: 'Amatic SC', handwriting;
@@ -441,7 +445,8 @@ h6,
   font-family: 'Amatic SC', handwriting;
 }
 .counter-subtitle {
-  font-family: 'Lora', serif;
+  font-family: 'Amatic SC', handwriting;
+  font-style: normal;
 }
 .mbr-iconfont-counters1 {
   color: #f1cc01;
@@ -472,10 +477,12 @@ h6,
 .extHeader12 .container p,
 .extHeader13 .container p,
 .extFeatures10 .container p {
-  font-family: 'Lora', serif;
+  font-family: 'Amatic SC', handwriting;
+  font-style: normal;
 }
 .extHeader5 .container label {
-  font-family: 'Lora', serif;
+  font-family: 'Amatic SC', handwriting;
+  font-style: normal;
 }
 .extHeader9 form p.form-subtitle {
   font-family: 'Amatic SC', handwriting;
@@ -487,7 +494,8 @@ h6,
   font-family: 'Amatic SC', handwriting;
 }
 .extHeader11 .container p {
-  font-family: 'Lora', serif;
+  font-family: 'Amatic SC', handwriting;
+  font-style: normal;
 }
 .extHeader12 h4,
 .extFeatures10 h4 {
@@ -495,7 +503,8 @@ h6,
 }
 .extHeader12 .subtitle,
 .extFeatures10 .subtitle {
-  font-family: 'Lora', serif;
+  font-family: 'Amatic SC', handwriting;
+  font-style: normal;
 }
 .extHeader13 h4 {
   font-family: 'Amatic SC', handwriting;
@@ -504,7 +513,8 @@ h6,
   font-family: 'Amatic SC', handwriting;
 }
 .extHeader13 .period {
-  font-family: 'Lora', serif;
+  font-family: 'Amatic SC', handwriting;
+  font-style: normal;
 }
 .extHeader13 .dot {
   font-family: 'Amatic SC', handwriting;
@@ -513,7 +523,8 @@ h6,
   font-family: 'Amatic SC', handwriting;
 }
 .extFeatures .feature-subtitle {
-  font-family: 'Lora', serif;
+  font-family: 'Amatic SC', handwriting;
+  font-style: normal;
 }
 .extFeatures .feature-text {
   font-family: 'Roboto Condensed', sans-serif;
@@ -532,7 +543,8 @@ h6,
 .extFeatures4 h5,
 .extFeatures6 h5,
 .extFeatures5 .card-title h5 {
-  font-family: 'Lora', serif;
+  font-family: 'Amatic SC', handwriting;
+  font-style: normal;
 }
 .extForm1 h4,
 .extForm2 h4,
@@ -544,19 +556,22 @@ h6,
 .extForm2 .subtitle,
 .extForm3 .subtitle,
 .extForm4 .subtitle {
-  font-family: 'Lora', serif;
+  font-family: 'Amatic SC', handwriting;
+  font-style: normal;
 }
 .extForm2 .container h3 {
   font-family: 'Amatic SC', handwriting;
 }
 .extForm2 .container p {
-  font-family: 'Lora', serif;
+  font-family: 'Amatic SC', handwriting;
+  font-style: normal;
 }
 .extPricingTable1 .bottom_line {
   border-bottom-color: #f1cc01;
 }
 .extPricingTable1 .mbr-price small {
-  font-family: 'Lora', serif;
+  font-family: 'Amatic SC', handwriting;
+  font-style: normal;
 }
 .extPricingTable1 .mbr-plan-label {
   background: #f1cc01;
@@ -565,7 +580,8 @@ h6,
   font-family: 'Amatic SC', handwriting;
 }
 .extCounters2 h5 {
-  font-family: 'Lora', serif;
+  font-family: 'Amatic SC', handwriting;
+  font-style: normal;
 }
 .extCounters3 .count {
   font-family: 'Amatic SC', handwriting;
@@ -574,7 +590,8 @@ h6,
   font-family: 'Amatic SC', handwriting;
 }
 .extCounters3 .counter-subtitle {
-  font-family: 'Lora', serif;
+  font-family: 'Amatic SC', handwriting;
+  font-style: normal;
 }
 .extProgressBar .progress-primary[value]::-webkit-progress-value {
   background-color: #f1cc01;
@@ -588,7 +605,8 @@ h6,
   }
 }
 .extProgressBar .title-wrap {
-  font-family: 'Lora', serif;
+  font-family: 'Amatic SC', handwriting;
+  font-style: normal;
 }
 .extProgressBarRound .progress-radial .overlay {
   font-family: 'Amatic SC', handwriting;
@@ -597,7 +615,8 @@ h6,
   font-family: 'Amatic SC', handwriting;
 }
 .extProgressBar4 .feature-subtitle {
-  font-family: 'Lora', serif;
+  font-family: 'Amatic SC', handwriting;
+  font-style: normal;
 }
 .extTabs1 ul.nav-tabs li a:hover,
 .extTabs2 ul.nav-tabs li a:hover {
@@ -634,19 +653,22 @@ h6,
   }
 }
 .extProgressBar5 .title-wrap {
-  font-family: 'Lora', serif;
+  font-family: 'Amatic SC', handwriting;
+  font-style: normal;
 }
 .extMsg-box1 .container h3 {
   font-family: 'Amatic SC', handwriting;
 }
 .extMsg-box1 .container p {
-  font-family: 'Lora', serif;
+  font-family: 'Amatic SC', handwriting;
+  font-style: normal;
 }
 .extMsg-box1 h4 {
   font-family: 'Amatic SC', handwriting;
 }
 .extMsg-box1 .subtitle {
-  font-family: 'Lora', serif;
+  font-family: 'Amatic SC', handwriting;
+  font-style: normal;
 }
 .extMsg-box2 .container span,
 .extMsg-box3 .container span,
@@ -656,7 +678,8 @@ h6,
 .extMsg-box2 .container p,
 .extMsg-box3 .container p,
 .extMsg-box4 .container p {
-  font-family: 'Lora', serif;
+  font-family: 'Amatic SC', handwriting;
+  font-style: normal;
 }
 .extProgressBarRound .pie_progress__number {
   font-family: 'Amatic SC', handwriting;

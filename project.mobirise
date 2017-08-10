@@ -13,7 +13,7 @@
         "warningColor": "#f3c649",
         "dangerColor": "#f28281",
         "titleFont": "Amatic SC",
-        "subtitleFont": "Lora",
+        "subtitleFont": "Amatic SC",
         "textFont": "Roboto Condensed",
         "isRoundedButtons": false,
         "isAnimatedOnScroll": true,
