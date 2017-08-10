@@ -416,9 +416,6 @@ h6,
 .mbr-gallery-filter li:hover {
   color: #f1cc01;
 }
-.scrollToTop_wraper {
-  opacity: 0 !important;
-}
 .extCountdown1 .number,
 .extCountdown2 .number {
   font-family: 'Montserrat', sans-serif;
