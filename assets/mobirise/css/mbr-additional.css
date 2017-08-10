@@ -844,6 +844,9 @@ h6,
 #ext_menu-n .dropdown-item[aria-expanded="true"] {
   color: #f1cc01!important;
 }
+#extHeader10-p P {
+  font-size: 24px;
+}
 
 
 

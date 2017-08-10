@@ -394,8 +394,8 @@
             "overlayColor": "#000",
             "overlayOpacity": 0
           },
-          "title": "INTRO WITH FORM",
-          "text": "Full screen intro with background image and color overlay and a form on the right side. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel sunt, neque voluptatibus excepturi laboriosam possimus adipisci quidem dolores omnis, nemo dolore eligendi blanditiis voluptatem in, doloribus hic aperiam maiores fugit.",
+          "title": "Contáctanos",
+          "text": "No dudes en escribirnos, hagamos realidad esa idea que tienes en mente.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\">SUBSCRIBE NOW</a>",
           "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-info\">GET STARTED</a>",
           "form": {
@@ -431,7 +431,12 @@
             "Extension"
           ],
           "_name": "extHeader10",
-          "_anchor": "extHeader10-p"
+          "_anchor": "extHeader10-p",
+          "_styles": {
+            "P": {
+              "font-size": "24px"
+            }
+          }
         }
       ]
     },
