@@ -392,22 +392,22 @@
             },
             "overlay": true,
             "overlayColor": "#000",
-            "overlayOpacity": 0
+            "overlayOpacity": "0.3"
           },
           "title": "Contáctanos",
           "text": "No dudes en escribirnos, hagamos realidad esa idea que tienes en mente.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\">SUBSCRIBE NOW</a>",
-          "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-info\">GET STARTED</a>",
+          "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">ENVIAR</a>",
           "form": {
-            "action": "cjimenezgnz@gmail.com",
+            "action": "mobilyardeautor@gmail.com",
             "alerts": {
-              "success": "Thanks for filling out form!"
+              "success": "¡Gracias por contactarnos!"
             },
             "fields": {
               "name": {
                 "visible": true,
                 "title": "Name",
-                "customTitle": "Name*"
+                "customTitle": "Nombre*"
               },
               "email": {
                 "visible": true,
@@ -417,12 +417,12 @@
               "phone": {
                 "visible": true,
                 "title": "Phone",
-                "customTitle": "Phone*"
+                "customTitle": "Teléfono*"
               },
               "message": {
                 "visible": true,
                 "title": "Message",
-                "customTitle": "Message"
+                "customTitle": "Mensaje"
               }
             }
           },
@@ -435,6 +435,9 @@
           "_styles": {
             "P": {
               "font-size": "24px"
+            },
+            ".btn": {
+              "font-size": "25px"
             }
           }
         }
