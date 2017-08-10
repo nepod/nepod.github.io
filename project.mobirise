@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "mobilyar",
-    "currentPage": "page2.html",
+    "currentPage": "mobilyar.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -220,7 +220,7 @@
             "overlayOpacity": 0.8
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contáctanos</a>",
-          "text1": "<strong>Dirección</strong><br>\nYerbas buenas<br>\nValparaíso.<br><br><br>\n<strong>Contacto</strong><br>\nEmail: facaguilera@gmail.com<br>\nPhone: +569 89595005<br>",
+          "text1": "<strong>Dirección</strong><br>\nYerbas buenas<br>\nValparaíso.<br><br><br>\n<strong>Contacto</strong><br>\nEmail: mobilyardeautor@gmail.com<br>\nPhone: +569 89595005<br>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><b><a href=\"index.html\">Quinta Idea</a></b></li></ul>",
           "form": {
             "title": "MESSAGE",
@@ -623,7 +623,7 @@
             "overlayOpacity": 0.8
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contáctanos</a>",
-          "text1": "<strong>Dirección</strong><br>\nYerbas buenas<br>\nValparaíso.<br><br><br>\n<strong>Contacto</strong><br>\nEmail: facaguilera@gmail.com<br>\nPhone: +569 89595005<br>",
+          "text1": "<strong>Dirección</strong><br>\nYerbas buenas<br>\nValparaíso.<br><br><br>\n<strong>Contacto</strong><br>\nEmail: mobilyardeautor@gmail.com<br>\nPhone: +569 89595005<br>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><b><a href=\"index.html\">Quinta Idea</a></b></li></ul>",
           "form": {
             "title": "MESSAGE",
