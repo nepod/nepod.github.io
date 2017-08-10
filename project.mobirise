@@ -12,7 +12,7 @@
         "infoColor": "#7e9b9f",
         "warningColor": "#f3c649",
         "dangerColor": "#f28281",
-        "titleFont": "Montserrat",
+        "titleFont": "Amatic SC",
         "subtitleFont": "Lora",
         "textFont": "Roboto Condensed",
         "isRoundedButtons": false,
@@ -218,7 +218,7 @@
             "overlayOpacity": 0.8
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contáctanos</a>",
-          "text1": "<strong>Dirección</strong><br>\nYerbas buenas<br>\nValparaíso.<br><br><br>\n<strong>Contacts</strong><br>\nEmail: facaguilera@gmail.com<br>\nPhone: +569 89595005<br>",
+          "text1": "<strong>Dirección</strong><br>\nYerbas buenas<br>\nValparaíso.<br><br><br>\n<strong>Contacto</strong><br>\nEmail: facaguilera@gmail.com<br>\nPhone: +569 89595005<br>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><b><a href=\"index.html\">Quinta Idea</a></b></li></ul>",
           "form": {
             "title": "MESSAGE",
@@ -259,7 +259,8 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Noto+Sans:400,700"
             },
             "STRONG": {
-              "color": "#000000"
+              "color": "#000000",
+              "font-size": "21px"
             },
             "P": {
               "color": "#000000"
@@ -451,7 +452,7 @@
             "overlayOpacity": 0.8
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contáctanos</a>",
-          "text1": "<strong>Dirección</strong><br>\nYerbas buenas<br>\nValparaíso.<br><br><br>\n<strong>Contacts</strong><br>\nEmail: facaguilera@gmail.com<br>\nPhone: +569 89595005<br>",
+          "text1": "<strong>Dirección</strong><br>\nYerbas buenas<br>\nValparaíso.<br><br><br>\n<strong>Contacto</strong><br>\nEmail: facaguilera@gmail.com<br>\nPhone: +569 89595005<br>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><b><a href=\"index.html\">Quinta Idea</a></b></li></ul>",
           "form": {
             "title": "MESSAGE",
@@ -491,7 +492,8 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Noto+Sans:400,700"
             },
             "STRONG": {
-              "color": "#000000"
+              "color": "#000000",
+              "font-size": "21px"
             },
             "P": {
               "color": "#000000"

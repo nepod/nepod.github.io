@@ -1,6 +1,5 @@
 @import url(../../../https://fonts.googleapis.com/css?family=Amatic+SC:400,700);
 @import url(../../../https://fonts.googleapis.com/css?family=Noto+Sans:400,700);
-@import url(../../../https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(../../../https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(../../../https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700);
 @import url(../../../https://fonts.googleapis.com/css?family=Raleway:400,300,700);
@@ -44,7 +43,7 @@ h6,
 .mbr-gallery-title,
 .mbr-map [data-state-details],
 .mbr-price {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Amatic SC', handwriting;
 }
 .mbr-footer-content h1,
 .mbr-footer .mbr-contacts h1,
@@ -58,7 +57,7 @@ h6,
 .mbr-footer .mbr-contacts p strong,
 .mbr-footer-content strong,
 .mbr-footer .mbr-contacts strong {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Amatic SC', handwriting;
 }
 .btn-sm,
 .lead a,
@@ -70,13 +69,13 @@ h6,
   font-family: 'Lora', serif;
 }
 .mbr-author-name {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Amatic SC', handwriting;
 }
 .mbr-author-desc {
   font-family: 'Lora', serif;
 }
 .mbr-plan-title {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Amatic SC', handwriting;
 }
 .mbr-plan-subtitle,
 .mbr-plan-price-desc {
@@ -418,7 +417,7 @@ h6,
 }
 .extCountdown1 .number,
 .extCountdown2 .number {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Amatic SC', handwriting;
 }
 .extCountdown1 .period,
 .extCountdown2 .period {
@@ -426,20 +425,20 @@ h6,
 }
 .extCountdown1 .dot,
 .extCountdown2 .dot {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Amatic SC', handwriting;
 }
 .features6 .feature-subtitle {
   font-family: 'Lora', serif;
 }
 .features6 .feature-title {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Amatic SC', handwriting;
 }
 .features6 .description {
   font-family: 'Roboto Condensed', sans-serif;
 }
 .count,
 .counter-title {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Amatic SC', handwriting;
 }
 .counter-subtitle {
   font-family: 'Lora', serif;
@@ -459,7 +458,7 @@ h6,
 .extHeader12 .container h3,
 .extHeader13 .container h3,
 .extFeatures10 .container h3 {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Amatic SC', handwriting;
 }
 .extHeader1 .container p,
 .extHeader2 .container p,
@@ -479,39 +478,39 @@ h6,
   font-family: 'Lora', serif;
 }
 .extHeader9 form p.form-subtitle {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Amatic SC', handwriting;
 }
 .extHeader11 .container span {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Amatic SC', handwriting;
 }
 .extHeader11 .container p.element {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Amatic SC', handwriting;
 }
 .extHeader11 .container p {
   font-family: 'Lora', serif;
 }
 .extHeader12 h4,
 .extFeatures10 h4 {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Amatic SC', handwriting;
 }
 .extHeader12 .subtitle,
 .extFeatures10 .subtitle {
   font-family: 'Lora', serif;
 }
 .extHeader13 h4 {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Amatic SC', handwriting;
 }
 .extHeader13 .number {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Amatic SC', handwriting;
 }
 .extHeader13 .period {
   font-family: 'Lora', serif;
 }
 .extHeader13 .dot {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Amatic SC', handwriting;
 }
 .extFeatures .feature-title {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Amatic SC', handwriting;
 }
 .extFeatures .feature-subtitle {
   font-family: 'Lora', serif;
@@ -520,7 +519,7 @@ h6,
   font-family: 'Roboto Condensed', sans-serif;
 }
 .extFeatures2 h4 {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Amatic SC', handwriting;
 }
 .extFeatures3 .border-wrap {
   border-color: #f1cc01;
@@ -528,7 +527,7 @@ h6,
 .extFeatures4 h4,
 .extFeatures6 h4,
 .extFeatures5 .card-title h4 {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Amatic SC', handwriting;
 }
 .extFeatures4 h5,
 .extFeatures6 h5,
@@ -539,7 +538,7 @@ h6,
 .extForm2 h4,
 .extForm3 h4,
 .extForm4 h4 {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Amatic SC', handwriting;
 }
 .extForm1 .subtitle,
 .extForm2 .subtitle,
@@ -548,7 +547,7 @@ h6,
   font-family: 'Lora', serif;
 }
 .extForm2 .container h3 {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Amatic SC', handwriting;
 }
 .extForm2 .container p {
   font-family: 'Lora', serif;
@@ -563,16 +562,16 @@ h6,
   background: #f1cc01;
 }
 .extCounters2 h4 {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Amatic SC', handwriting;
 }
 .extCounters2 h5 {
   font-family: 'Lora', serif;
 }
 .extCounters3 .count {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Amatic SC', handwriting;
 }
 .extCounters3 .counter-title {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Amatic SC', handwriting;
 }
 .extCounters3 .counter-subtitle {
   font-family: 'Lora', serif;
@@ -592,10 +591,10 @@ h6,
   font-family: 'Lora', serif;
 }
 .extProgressBarRound .progress-radial .overlay {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Amatic SC', handwriting;
 }
 .extProgressBar4 .feature-title {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Amatic SC', handwriting;
 }
 .extProgressBar4 .feature-subtitle {
   font-family: 'Lora', serif;
@@ -638,13 +637,13 @@ h6,
   font-family: 'Lora', serif;
 }
 .extMsg-box1 .container h3 {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Amatic SC', handwriting;
 }
 .extMsg-box1 .container p {
   font-family: 'Lora', serif;
 }
 .extMsg-box1 h4 {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Amatic SC', handwriting;
 }
 .extMsg-box1 .subtitle {
   font-family: 'Lora', serif;
@@ -652,7 +651,7 @@ h6,
 .extMsg-box2 .container span,
 .extMsg-box3 .container span,
 .extMsg-box4 .container span {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Amatic SC', handwriting;
 }
 .extMsg-box2 .container p,
 .extMsg-box3 .container p,
@@ -660,7 +659,7 @@ h6,
   font-family: 'Lora', serif;
 }
 .extProgressBarRound .pie_progress__number {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Amatic SC', handwriting;
 }
 .extMenu1 span.icon a:hover {
   color: #f1cc01 !important;
@@ -753,6 +752,7 @@ h6,
 }
 #contacts4-4 STRONG {
   color: #000000;
+  font-size: 21px;
 }
 #contacts4-4 P {
   color: #000000;
@@ -838,6 +838,7 @@ h6,
 }
 #contacts4-7 STRONG {
   color: #000000;
+  font-size: 21px;
 }
 #contacts4-7 P {
   color: #000000;
