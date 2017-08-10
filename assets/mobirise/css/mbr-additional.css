@@ -946,3 +946,9 @@ h6,
 #extHeader10-g .btn {
   font-family: 'Roboto', sans-serif;
 }
+#extHeader1-h P {
+  font-size: 24px;
+}
+#extHeader1-h .btn {
+  font-size: 16px;
+}
