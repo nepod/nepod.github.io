@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "mobilyar",
-    "currentPage": "contacto.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -236,7 +236,7 @@
               "link": "https://www.facebook.com/mobilyar/",
               "size": 119,
               "active": true,
-              "newWindow": false
+              "newWindow": true
             }
           },
           "text1": "<strong>Dirección</strong><br>Yerbas Buenas,<br>Valparaíso.",
@@ -456,7 +456,7 @@
               "link": "https://www.facebook.com/mobilyar/",
               "size": 119,
               "active": true,
-              "newWindow": false
+              "newWindow": true
             }
           },
           "text1": "<strong>Dirección</strong><br>Yerbas Buenas,<br>Valparaíso.",
