@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "mobilyar",
-    "currentPage": "index.html",
+    "currentPage": "page1.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -29,7 +29,7 @@
     "cookiesAlert": "",
     "google-analytics": "",
     "versionFirst": "4.1.2",
-    "uniqCompNum": 8,
+    "uniqCompNum": 9,
     "versionPublish": "4.1.2"
   },
   "pages": {
@@ -62,7 +62,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Inicio</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"><p>Mobilyar &nbsp;&nbsp;</p></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Mobiliario hogar</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Diseño interiores</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Mobiliario escuelas</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"><p>Merchandising &nbsp;&nbsp;</p></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Contacto</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Inicio</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\"><p>Mobilyar &nbsp;&nbsp;</p></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Mobiliario hogar</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Diseño interiores</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Mobiliario escuelas</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"><p>Merchandising &nbsp;&nbsp;</p></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Contacto</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -300,7 +300,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Inicio</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"><p>Mobilyar &nbsp;&nbsp;</p></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Mobiliario hogar</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Diseño interiores</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Mobiliario escuelas</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"><p>Merchandising &nbsp;&nbsp;</p></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Contacto</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Inicio</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\"><p>Mobilyar &nbsp;&nbsp;</p></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Mobiliario hogar</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Diseño interiores</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Mobiliario escuelas</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"><p>Merchandising &nbsp;&nbsp;</p></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Contacto</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -399,8 +399,8 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/18643782-1111106295699593-188278497-n-935x701.png",
-              "link": "index.html",
+              "src": "@PROJECT_PATH@/assets/images/6cabf1-f2a008b498134f958fe24ef297ad8592-mv2-498x384.png",
+              "link": "",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
@@ -417,30 +417,25 @@
               "size": 250
             }
           },
-          "title": "MOBILYAR<br>",
-          "text": "CREA TUS MUEBLES PERSONALIZADOS",
+          "title": "Mobilyar",
+          "text": "Pequeño taller dedicado al diseño,  exploración y fabricación de nuevas formas de muebles personalizados. El  diseño de mobiliario a medida y acorde a la ergonomía óptima del usuario es parte fundamental  y clave en la conformidad de un espacio de confort.\n<br>Nuestro trabajo se basa en dar cabida perfeccionista a los muebles que conformaran el lugar que habitamos, lo que va muy de la mano con la arquitectura del espacio en uso.\n<br>\n<br>El diseño de interiores es nuestro mejor camino para recomendar y proyectar las formas optimas de la utilización del espacio físico ya formado por la arquitectura, acotamos y distribuimos de manera exacta y útil la vida que queremos darle a nuestros espacios con muebles acordes a los gustos de cada usuario..",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Theme"
           ],
           "_name": "header2",
+          "_anchor": "header2-8",
           "_styles": {
             ".mbr-section-title": {
               "font-family": "'Amatic SC', handwriting",
               "googleLink": "https://fonts.googleapis.com/css?family=Amatic+SC:400,700",
-              "font-size": "100px",
-              "text-align": "right",
               "color": "#000000"
             },
             ".mbr-section-text": {
-              "text-align": "right",
-              "font-size": "36px",
-              "color": "#000000",
-              "font-family": "'Amatic SC', handwriting",
-              "googleLink": "https://fonts.googleapis.com/css?family=Amatic+SC:400,700"
+              "font-size": "17px",
+              "color": "#000000"
             }
-          },
-          "_anchor": "header2-6"
+          }
         },
         {
           "_params": {

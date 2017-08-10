@@ -764,7 +764,6 @@ h6,
 
 
 
-
 #ext_menu-5 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -827,17 +826,13 @@ h6,
 #ext_menu-5 .dropdown-item[aria-expanded="true"] {
   color: #f1cc01!important;
 }
-#header2-6 .mbr-section-title {
+#header2-8 .mbr-section-title {
   font-family: 'Amatic SC', handwriting;
-  font-size: 100px;
-  text-align: right;
   color: #000000;
 }
-#header2-6 .mbr-section-text {
-  text-align: right;
-  font-size: 36px;
+#header2-8 .mbr-section-text {
+  font-size: 17px;
   color: #000000;
-  font-family: 'Amatic SC', handwriting;
 }
 #contacts4-7 .btn {
   font-family: 'Noto Sans', sans-serif;
