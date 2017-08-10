@@ -756,7 +756,7 @@ h6,
 }
 #ext_menu-2 .link[aria-expanded="true"],
 #ext_menu-2 .dropdown-item[aria-expanded="true"] {
-  color: #f1cc01!important;
+  color: #c0a375!important;
 }
 #header2-1 .mbr-section-title {
   font-family: 'Amatic SC', handwriting;
@@ -873,6 +873,7 @@ h6,
 
 
 
+
 #ext_menu-9 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -951,4 +952,11 @@ h6,
 }
 #extHeader1-h .btn {
   font-size: 16px;
+}
+#extHeader8-i P {
+  font-size: 25px;
+}
+#extHeader8-i .btn {
+  font-size: 20px;
+  font-family: 'Roboto Condensed', sans-serif;
 }

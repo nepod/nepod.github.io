@@ -29,8 +29,10 @@
     "cookiesAlert": "",
     "google-analytics": "",
     "versionFirst": "4.1.2",
-    "uniqCompNum": 18,
-    "versionPublish": "4.1.2"
+    "uniqCompNum": 19,
+    "versionPublish": "4.1.2",
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
@@ -113,7 +115,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#f1cc01!important"
+              "color": "#c0a375!important"
             }
           },
           "logo": {
@@ -1095,6 +1097,75 @@
             },
             ".btn": {
               "font-size": "16px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
+            "showArrow": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/img-2000x1333.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#2e2e2e",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#f1cc01",
+            "overlayOpacity": "0.2"
+          },
+          "title": "contáctanos",
+          "text": "No te quedes con la dudad si tu idea, te contactamos a la brevedad para darle forma a ese diseño.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\">MORE</a>",
+          "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">ENVIAR</a>",
+          "form": {
+            "action": "cjimenezgnz@gmail.com",
+            "alerts": {
+              "success": "¡Gracias por contactarnos!"
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Nombre*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": true,
+                "title": "Phone",
+                "customTitle": "Teléfono*"
+              },
+              "message": {
+                "visible": true,
+                "title": "Message",
+                "customTitle": "Mensaje"
+              }
+            }
+          },
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extHeader8",
+          "_anchor": "extHeader8-i",
+          "_styles": {
+            "P": {
+              "font-size": "25px"
+            },
+            ".btn": {
+              "font-size": "20px",
+              "font-family": "'Roboto Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700"
             }
           }
         }
