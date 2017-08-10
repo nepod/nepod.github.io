@@ -1,44 +1,40 @@
 {
   "settings": {
-    "name": "mobilyar",
+    "name": "Arevalo",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
       "styling": {
-        "primaryColor": "#f1cc01",
+        "primaryColor": "#c0a375",
         "secondaryColor": "#bfcecb",
         "successColor": "#90a878",
         "infoColor": "#7e9b9f",
         "warningColor": "#f3c649",
         "dangerColor": "#f28281",
-        "titleFont": "Amatic SC",
-        "subtitleFont": "Amatic SC",
-        "textFont": "Roboto Condensed",
+        "titleFont": "Montserrat",
+        "subtitleFont": "Lora",
+        "textFont": "Raleway",
         "isRoundedButtons": false,
         "isAnimatedOnScroll": true,
-        "isScrollToTopButton": true,
+        "isScrollToTopButton": false,
         "isRtl": false
-      },
-      "additionalSetColors": [
-        "#f1cc01"
-      ]
+      }
     },
     "favicon": "",
     "noImageResize": "",
-    "cookiesAlert": "",
     "google-analytics": "",
-    "versionFirst": "4.1.2",
-    "uniqCompNum": 20,
+    "cookiesAlert": "",
+    "versionFirst": "3.12.1",
+    "uniqCompNum": 10,
     "versionPublish": "4.1.2",
-    "path": "@PROJECT_PATH@",
-    "screenshot": "screenshot.png"
+    "path": "@PROJECT_PATH@"
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Inicio",
+        "title": "",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -47,24 +43,6 @@
       "components": [
         {
           "_inherit": "menu",
-          "_params": {
-            "logo": true,
-            "showBrand": false,
-            "hideButtons": true,
-            "sticky": true,
-            "collapsed": true,
-            "transparent": false,
-            "bgColor": "#f1cc01",
-            "fontSize": "1.2",
-            "fontName": {
-              "name": "Amatic SC",
-              "url": "https://fonts.googleapis.com/css?family=Amatic+SC:400,700",
-              "css": "'Amatic SC', handwriting"
-            },
-            "fontColor": "#000000",
-            "fontHoverColor": "@primaryColor"
-          },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Inicio</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\"><p>Mobilyar &nbsp;&nbsp;</p></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Mobiliario hogar</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Diseño interiores</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Mobiliario escuelas</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"><p>Merchandising &nbsp;&nbsp;</p></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Contacto</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -76,36 +54,36 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#000000"
+              "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#000000"
+              "background-color": "#ffffff"
             },
             ".link, .dropdown-item": {
-              "color": "#000000",
-              "googleLink": "https://fonts.googleapis.com/css?family=Amatic+SC:400,700",
-              "font-family": "'Amatic SC', handwriting"
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-family": "'Roboto', sans-serif"
             },
             ".link": {
-              "font-size": "1.2rem"
+              "font-size": "0.75rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.300rem"
+              "font-size": "0.812rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#bea101"
+              "background": "#0e0e0e"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#e2bf01!important"
+              "background": "#202020!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#f1cc01"
+              "background": "#282828"
             },
             ".bg-color.transparent .link": {
-              "color": "#000000",
+              "color": "#ffffff",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -118,254 +96,32 @@
               "color": "#c0a375!important"
             }
           },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/18643782-1111106295699593-188278497-n-170x128.png",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "index.html",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">mobilyar</a>",
           "_name": "ext.menu",
-          "_anchor": "ext_menu-2"
-        },
-        {
+          "_anchor": "ext_menu-0",
           "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false,
-            "inverse": false,
-            "showArrow": true,
-            "imageSize": 50,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/landscape.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#f1cc01",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#000",
-            "overlayOpacity": 0.3
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/18643782-1111106295699593-188278497-n-935x701.png",
-              "link": "index.html",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-header2",
-              "link": "",
-              "size": 250
-            }
-          },
-          "title": "MOBILYAR<br>",
-          "text": "CREA TUS MUEBLES PERSONALIZADOS",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header2",
-          "_anchor": "header2-1",
-          "_styles": {
-            ".mbr-section-title": {
-              "font-family": "'Amatic SC', handwriting",
-              "googleLink": "https://fonts.googleapis.com/css?family=Amatic+SC:400,700",
-              "font-size": "100px",
-              "text-align": "right",
-              "color": "#000000"
-            },
-            ".mbr-section-text": {
-              "text-align": "right",
-              "font-size": "36px",
-              "color": "#000000",
-              "font-family": "'Amatic SC', handwriting",
-              "googleLink": "https://fonts.googleapis.com/css?family=Amatic+SC:400,700"
-            }
-          }
-        },
-        {
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#f1cc01",
-            "overlay": true,
-            "overlayColor": "#3C3C3C",
-            "overlayOpacity": 0.8
-          },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contáctanos</a>",
-          "text1": "<strong>Dirección</strong><br>\nYerbas buenas<br>\nValparaíso.<br><br><br>\n<strong>Contacto</strong><br>\nEmail: facaguilera@gmail.com<br>\nPhone: +569 89595005<br>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><b><a href=\"index.html\">Quinta Idea</a></b></li></ul>",
-          "form": {
-            "title": "MESSAGE",
-            "action": "facaguilera@gmail.com",
-            "alerts": {
-              "success": "¡Gracias por contactarnos!"
-            },
-            "fields": {
-              "name": {
-                "visible": false,
-                "title": "Name",
-                "customTitle": "Name*"
-              },
-              "email": {
-                "visible": true,
-                "title": "Email",
-                "customTitle": "Email*"
-              },
-              "phone": {
-                "visible": false,
-                "title": "Phone",
-                "customTitle": "Phone"
-              },
-              "message": {
-                "title": "Message",
-                "customTitle": "Mensaje"
-              }
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "contacts4",
-          "_anchor": "contacts4-4",
-          "_styles": {
-            ".btn": {
-              "font-family": "'Noto Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Noto+Sans:400,700"
-            },
-            "STRONG": {
-              "color": "#000000",
-              "font-size": "21px"
-            },
-            "P": {
-              "color": "#000000"
-            },
-            "UL": {
-              "font-size": "15px"
-            }
-          }
-        }
-      ]
-    },
-    "page1.html": {
-      "settings": {
-        "title": "mobilyar",
-        "meta_descr": "",
-        "header_custom": "",
-        "footer_custom": "",
-        "html_before": "",
-        "order": 1
-      },
-      "components": [
-        {
-          "_inherit": "menu",
-          "_params": {
-            "logo": true,
-            "showBrand": false,
+            "logo": false,
+            "showBrand": true,
             "hideButtons": true,
             "sticky": true,
             "collapsed": true,
             "transparent": false,
-            "bgColor": "#f1cc01",
-            "fontSize": "1.2",
+            "bgColor": "#282828",
+            "fontSize": 0.75,
             "fontName": {
-              "name": "Amatic SC",
-              "url": "https://fonts.googleapis.com/css?family=Amatic+SC:400,700",
-              "css": "'Amatic SC', handwriting"
+              "name": "Roboto",
+              "url": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "css": "'Roboto', sans-serif"
             },
-            "fontColor": "#000000",
+            "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
-          },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Inicio</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\"><p>Mobilyar &nbsp;&nbsp;</p></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Mobiliario hogar</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Diseño interiores</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Mobiliario escuelas</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"><p>Merchandising &nbsp;&nbsp;</p></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Contacto</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
-          "_tags": [
-            "Theme"
-          ],
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff"
-            },
-            ".navbar-toggler": {
-              "color": "#000000"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#000000"
-            },
-            ".link, .dropdown-item": {
-              "color": "#000000",
-              "googleLink": "https://fonts.googleapis.com/css?family=Amatic+SC:400,700",
-              "font-family": "'Amatic SC', handwriting"
-            },
-            ".link": {
-              "font-size": "1.2rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.300rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#bea101"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#e2bf01!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#f1cc01"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#000000",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#f1cc01!important"
-            }
           },
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/18643782-1111106295699593-188278497-n-170x128.png",
+              "src": "@THEME_PATH@/components/_images/logo.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "index.html",
-              "title": "",
-              "linkInNewWindow": false
+              "link": "https://mobirise.com"
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -373,867 +129,297 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">mobilyar</a>",
-          "_name": "ext.menu",
-          "_anchor": "ext_menu-5"
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">AREVALO</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">INICIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">SOBRE NOSOTROS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">SERVICIOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">CONTÁCTENOS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false,
-            "inverse": false,
-            "showArrow": true,
-            "imageSize": 50,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/landscape.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#f1cc01",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#000",
-            "overlayOpacity": 0.3
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/6cabf1-f2a008b498134f958fe24ef297ad8592-mv2-498x384.png",
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-header2",
-              "link": "",
-              "size": 250
-            }
-          },
-          "title": "Mobilyar",
-          "text": "Pequeño taller dedicado al diseño,  exploración y fabricación de nuevas formas de muebles personalizados. El  diseño de mobiliario a medida y acorde a la ergonomía óptima del usuario es parte fundamental  y clave en la conformidad de un espacio de confort.\n<br>Nuestro trabajo se basa en dar cabida perfeccionista a los muebles que conformaran el lugar que habitamos, lo que va muy de la mano con la arquitectura del espacio en uso.\n<br>\n<br>El diseño de interiores es nuestro mejor camino para recomendar y proyectar las formas optimas de la utilización del espacio físico ya formado por la arquitectura, acotamos y distribuimos de manera exacta y útil la vida que queremos darle a nuestros espacios con muebles acordes a los gustos de cada usuario..",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_inherit": "header1",
           "_tags": [
             "Theme"
           ],
-          "_name": "header2",
-          "_anchor": "header2-8",
+          "_name": "header4",
           "_styles": {
-            ".mbr-section-title": {
-              "font-family": "'Amatic SC', handwriting",
-              "googleLink": "https://fonts.googleapis.com/css?family=Amatic+SC:400,700",
-              "color": "#000000"
-            },
-            ".mbr-section-text": {
-              "font-size": "17px",
-              "color": "#000000"
-            }
-          }
-        },
-        {
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#f1cc01",
-            "overlay": true,
-            "overlayColor": "#3C3C3C",
-            "overlayOpacity": 0.8
-          },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contáctanos</a>",
-          "text1": "<strong>Dirección</strong><br>\nYerbas buenas<br>\nValparaíso.<br><br><br>\n<strong>Contacto</strong><br>\nEmail: facaguilera@gmail.com<br>\nPhone: +569 89595005<br>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><b><a href=\"index.html\">Quinta Idea</a></b></li></ul>",
-          "form": {
-            "title": "MESSAGE",
-            "action": "facaguilera@gmail.com",
-            "alerts": {
-              "success": "¡Gracias por contactarnos!"
-            },
-            "fields": {
-              "name": {
-                "visible": false,
-                "title": "Name",
-                "customTitle": "Name*"
-              },
-              "email": {
-                "visible": true,
-                "title": "Email",
-                "customTitle": "Email*"
-              },
-              "phone": {
-                "visible": false,
-                "title": "Phone",
-                "customTitle": "Phone"
-              },
-              "message": {
-                "title": "Message",
-                "customTitle": "Mensaje"
-              }
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "contacts4",
-          "_styles": {
-            ".btn": {
-              "font-family": "'Noto Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Noto+Sans:400,700"
-            },
-            "STRONG": {
-              "color": "#000000",
-              "font-size": "21px"
-            },
-            "P": {
-              "color": "#000000"
-            },
-            "UL": {
-              "font-size": "15px"
-            }
-          },
-          "_anchor": "contacts4-7"
-        }
-      ]
-    },
-    "page2.html": {
-      "settings": {
-        "title": "contacto",
-        "meta_descr": "",
-        "header_custom": "",
-        "footer_custom": "",
-        "html_before": "",
-        "order": 2
-      },
-      "components": [
-        {
-          "_inherit": "menu",
-          "_params": {
-            "logo": true,
-            "showBrand": false,
-            "hideButtons": true,
-            "sticky": true,
-            "collapsed": true,
-            "transparent": false,
-            "bgColor": "#f1cc01",
-            "fontSize": "1.2",
-            "fontName": {
-              "name": "Amatic SC",
-              "url": "https://fonts.googleapis.com/css?family=Amatic+SC:400,700",
-              "css": "'Amatic SC', handwriting"
-            },
-            "fontColor": "#000000",
-            "fontHoverColor": "@primaryColor"
-          },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Inicio</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\"><p>Mobilyar &nbsp;&nbsp;</p></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Mobiliario hogar</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Diseño interiores</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Mobiliario escuelas</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"><p>Merchandising &nbsp;&nbsp;</p></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Contacto</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
-          "_tags": [
-            "Theme"
-          ],
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff"
-            },
-            ".navbar-toggler": {
-              "color": "#000000"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#000000"
-            },
-            ".link, .dropdown-item": {
-              "color": "#000000",
-              "googleLink": "https://fonts.googleapis.com/css?family=Amatic+SC:400,700",
-              "font-family": "'Amatic SC', handwriting"
-            },
-            ".link": {
-              "font-size": "1.2rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.300rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#bea101"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#e2bf01!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#f1cc01"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#000000",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#f1cc01!important"
-            }
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/18643782-1111106295699593-188278497-n-170x128.png",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "index.html",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">mobilyar</a>",
-          "_name": "ext.menu",
-          "_anchor": "ext_menu-9"
-        },
-        {
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "inverse": false,
-            "showArrow": true,
-            "showIcons": true,
-            "formBorder": false,
-            "formColor": "#595959",
-            "formStyle": "light",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/img-extheader4-bg.jpg",
-            "parallax": false,
-            "bgColorRadio": false,
-            "bgColor": "#2e2e2e",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "@primaryColor",
-            "overlayOpacity": 0.3
-          },
-          "title1": "INTRO WITH SUBSCRIBE FORM",
-          "title2": "BOOTSTRAP 4",
-          "title3": "MOBILE-READY",
-          "text1": "Full-screen intro with background image, color overlay, icons and a subscribe form.",
-          "text2": "Lorem ipsum dolor sit amet consec tetur elit amet voluptas accusamus dolorum veritatis ea odio dolor emque.",
-          "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">GET STARTED</a>",
-          "media1": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "name": "layers",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#e6e6e6",
-              "family": "et-line"
-            }
-          },
-          "media2": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "name": "expand",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#e6e6e6",
-              "family": "et-line"
-            }
-          },
-          "form": {
-            "action": "cjimenezgnz@gmail.com",
-            "alerts": {
-              "success": "Thanks for filling out form!"
-            },
-            "fields": {
-              "name": {
-                "visible": true,
-                "title": "Name",
-                "customTitle": "Name*"
-              },
-              "email": {
-                "visible": true,
-                "title": "Email",
-                "customTitle": "Email*"
-              },
-              "phone": {
-                "visible": true,
-                "title": "Phone",
-                "customTitle": "Phone*"
-              },
-              "message": {
-                "visible": true,
-                "title": "Message",
-                "customTitle": "Message"
-              }
-            }
-          },
-          "alias": "mobirise3-blocks/components",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "extHeader4",
-          "_anchor": "extHeader4-c"
-        },
-        {
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "inverse": false,
-            "showArrow": true,
-            "showIcons": true,
-            "formBorder": false,
-            "formColor": "#595959",
-            "formStyle": "light",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/img-extheader4-bg.jpg",
-            "parallax": false,
-            "bgColorRadio": false,
-            "bgColor": "#2e2e2e",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "@primaryColor",
-            "overlayOpacity": 0.3
-          },
-          "title1": "INTRO WITH SUBSCRIBE FORM",
-          "title2": "BOOTSTRAP 4",
-          "title3": "MOBILE-READY",
-          "text1": "Full-screen intro with background image, color overlay, icons and a subscribe form.",
-          "text2": "Lorem ipsum dolor sit amet consec tetur elit amet voluptas accusamus dolorum veritatis ea odio dolor emque.",
-          "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">GET STARTED</a>",
-          "media1": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "name": "layers",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#e6e6e6",
-              "family": "et-line"
-            }
-          },
-          "media2": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "name": "expand",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#e6e6e6",
-              "family": "et-line"
-            }
-          },
-          "form": {
-            "action": "cjimenezgnz@gmail.com",
-            "alerts": {
-              "success": "Thanks for filling out form!"
-            },
-            "fields": {
-              "name": {
-                "visible": true,
-                "title": "Name",
-                "customTitle": "Name*"
-              },
-              "email": {
-                "visible": true,
-                "title": "Email",
-                "customTitle": "Email*"
-              },
-              "phone": {
-                "visible": true,
-                "title": "Phone",
-                "customTitle": "Phone*"
-              },
-              "message": {
-                "visible": true,
-                "title": "Message",
-                "customTitle": "Message"
-              }
-            }
-          },
-          "alias": "mobirise3-blocks/components",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "extHeader4",
-          "_anchor": "extHeader4-d"
-        },
-        {
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "inverse": false,
-            "showArrow": true,
-            "showIcons": true,
-            "formBorder": false,
-            "formColor": "#595959",
-            "formStyle": "light",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/img-extheader4-bg.jpg",
-            "parallax": false,
-            "bgColorRadio": false,
-            "bgColor": "#2e2e2e",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "@primaryColor",
-            "overlayOpacity": 0.3
-          },
-          "title1": "INTRO WITH SUBSCRIBE FORM",
-          "title2": "BOOTSTRAP 4",
-          "title3": "MOBILE-READY",
-          "text1": "Full-screen intro with background image, color overlay, icons and a subscribe form.",
-          "text2": "Lorem ipsum dolor sit amet consec tetur elit amet voluptas accusamus dolorum veritatis ea odio dolor emque.",
-          "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">GET STARTED</a>",
-          "media1": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "name": "layers",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#e6e6e6",
-              "family": "et-line"
-            }
-          },
-          "media2": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "name": "expand",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#e6e6e6",
-              "family": "et-line"
-            }
-          },
-          "form": {
-            "action": "cjimenezgnz@gmail.com",
-            "alerts": {
-              "success": "Thanks for filling out form!"
-            },
-            "fields": {
-              "name": {
-                "visible": true,
-                "title": "Name",
-                "customTitle": "Name*"
-              },
-              "email": {
-                "visible": true,
-                "title": "Email",
-                "customTitle": "Email*"
-              },
-              "phone": {
-                "visible": true,
-                "title": "Phone",
-                "customTitle": "Phone*"
-              },
-              "message": {
-                "visible": true,
-                "title": "Message",
-                "customTitle": "Message"
-              }
-            }
-          },
-          "alias": "mobirise3-blocks/components",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "extHeader4",
-          "_anchor": "extHeader4-e"
-        },
-        {
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "inverse": false,
-            "showArrow": true,
-            "showIcons": true,
-            "formBorder": false,
-            "formColor": "#595959",
-            "formStyle": "light",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/img-extheader4-bg.jpg",
-            "parallax": false,
-            "bgColorRadio": false,
-            "bgColor": "#2e2e2e",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "@primaryColor",
-            "overlayOpacity": 0.3
-          },
-          "title1": "INTRO WITH SUBSCRIBE FORM",
-          "title2": "BOOTSTRAP 4",
-          "title3": "MOBILE-READY",
-          "text1": "Full-screen intro with background image, color overlay, icons and a subscribe form.",
-          "text2": "Lorem ipsum dolor sit amet consec tetur elit amet voluptas accusamus dolorum veritatis ea odio dolor emque.",
-          "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">GET STARTED</a>",
-          "media1": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "name": "layers",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#e6e6e6",
-              "family": "et-line"
-            }
-          },
-          "media2": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "name": "expand",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#e6e6e6",
-              "family": "et-line"
-            }
-          },
-          "form": {
-            "action": "cjimenezgnz@gmail.com",
-            "alerts": {
-              "success": "Thanks for filling out form!"
-            },
-            "fields": {
-              "name": {
-                "visible": true,
-                "title": "Name",
-                "customTitle": "Name*"
-              },
-              "email": {
-                "visible": true,
-                "title": "Email",
-                "customTitle": "Email*"
-              },
-              "phone": {
-                "visible": true,
-                "title": "Phone",
-                "customTitle": "Phone*"
-              },
-              "message": {
-                "visible": true,
-                "title": "Message",
-                "customTitle": "Message"
-              }
-            }
-          },
-          "alias": "mobirise3-blocks/components",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "extHeader4",
-          "_anchor": "extHeader4-f"
-        },
-        {
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false,
-            "inverse": false,
-            "showArrow": true,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/img-2000x1333.jpg",
-            "parallax": false,
-            "bgColorRadio": false,
-            "bgColor": "#2e2e2e",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#f1cc01",
-            "overlayOpacity": "0.4"
-          },
-          "title": "Contáctanos",
-          "text": "¡No te quedes con esa duda! contáctanos y nos comunicaremos<br>a la brevedad para materializar ese diseño que tienes en mente.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\">SUBSCRIBE NOW</a>",
-          "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">ENVIAR</a>",
-          "form": {
-            "action": "facaguilera@gmail.com",
-            "alerts": {
-              "success": "¡Gracias por contactarnos!"
-            },
-            "fields": {
-              "name": {
-                "visible": true,
-                "title": "Name",
-                "customTitle": "Nombre*"
-              },
-              "email": {
-                "visible": true,
-                "title": "Email",
-                "customTitle": "Email*"
-              },
-              "phone": {
-                "visible": true,
-                "title": "Phone",
-                "customTitle": "Teléfono*"
-              },
-              "message": {
-                "visible": true,
-                "title": "Message",
-                "customTitle": "Mensaje"
-              }
-            }
-          },
-          "alias": "mobirise3-blocks/components",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "extHeader10",
-          "_anchor": "extHeader10-g",
-          "_styles": {
-            "H3": {
-              "font-family": "'Amatic SC', handwriting",
-              "googleLink": "https://fonts.googleapis.com/css?family=Amatic+SC:400,700",
-              "color": "#000000"
-            },
-            "P": {
-              "color": "#000000",
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
-            },
-            ".btn": {
+            ".mbr-section-lead": {
               "font-family": "'Roboto', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
             }
-          }
-        },
-        {
+          },
+          "_anchor": "header4-7",
           "_params": {
             "showTitle": true,
             "showText": true,
             "showButtons": false,
-            "inverse": false,
             "showArrow": true,
-            "formBorder": false,
-            "formColor": "#fafafa",
-            "formStyle": "dark",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/img-2000x1333.jpg",
-            "parallax": false,
+            "contentAlign": "right",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
             "bgColorRadio": false,
-            "bgColor": "#2e2e2e",
-            "bgVideoRadio": false,
+            "bgColor": "#a07e49",
+            "bgVideoRadio": true,
             "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+              "width": 1280,
+              "height": 720,
+              "url": "https://www.youtube.com/embed/kaIxRNFRO-Y?rel=0&amp;showinfo=0&autoplay=0&loop=0"
             },
             "overlay": true,
-            "overlayColor": "#f1cc01",
-            "overlayOpacity": "0.3"
+            "overlayColor": "#000",
+            "overlayOpacity": "0.7"
           },
-          "title": "Contáctanos",
-          "text": "No te quedes con la duda, te responderemos a la brevedad para materializar esa idea.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">ENVIAR</a>",
-          "form": {
-            "action": "cjimenezgnz@gmail.com",
-            "alerts": {
-              "success": "¡Gracias por tomarte el tiempo de contactarnos!"
-            },
-            "fields": {
-              "name": {
-                "visible": true,
-                "title": "Name",
-                "customTitle": "Nombre*"
-              },
-              "email": {
-                "visible": true,
-                "title": "Email",
-                "customTitle": "Email*"
-              },
-              "phone": {
-                "visible": true,
-                "title": "Phone",
-                "customTitle": "Teléfono*"
-              },
-              "message": {
-                "visible": true,
-                "title": "Message",
-                "customTitle": "Mensaje"
-              }
-            }
-          },
-          "alias": "mobirise3-blocks/components",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "extHeader1",
-          "_anchor": "extHeader1-h",
+          "title": "AREVALO",
+          "text": "En Arevalo nos caracterizamos por nuestra eficiencia y seguridad,<br>contamos con &nbsp;profesionales de basta experiencia en el rubro.&nbsp;",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
+        },
+        {
           "_styles": {
-            "P": {
-              "font-size": "24px"
+            ".card-subtitle": {
+              "color": "#bcbcbc"
             },
-            ".btn": {
-              "font-size": "16px"
+            ".iconbox": {
+              "background-color": "#f2f2f2",
+              "border-color": "#f2f2f2"
+            },
+            "H4": {
+              "font-size": "18px",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "color": "#efefef"
+            },
+            "P": {
+              "color": "#ffffff"
             }
-          }
-        },
-        {
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features4",
+          "_anchor": "features4-9",
           "_params": {
-            "showTitle": true,
-            "showText": true,
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": true,
             "showButtons": false,
-            "inverse": true,
-            "showArrow": true,
+            "iconsBgColor": "#f2f2f2",
+            "paddingTop": "4",
+            "paddingBottom": "4",
+            "columns": "5",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/img-2000x1333.jpg",
-            "parallax": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/a-beautiful-view-939515-960-2000x1333.jpg",
+            "parallax": true,
             "bgColorRadio": false,
-            "bgColor": "#2e2e2e",
+            "bgColor": "#fff",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
-            "overlayColor": "#f1cc01",
-            "overlayOpacity": "0.2"
+            "overlayColor": "#222",
+            "overlayOpacity": "0.7"
           },
-          "title": "contáctanos",
-          "text": "No te quedes con la dudad si tu idea, te contactamos a la brevedad para darle forma a ese diseño.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\">MORE</a>",
-          "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">ENVIAR</a>",
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "setting",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "index.html",
+              "size": 0,
+              "color": "black",
+              "newWindow": false
+            }
+          },
+          "title1": "REPARACIÓN",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Debemos redactar descripción breve del servicio...",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "protect",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "index.html",
+              "size": 0,
+              "color": "black",
+              "newWindow": false
+            }
+          },
+          "title2": "NORMALIZACIÓN Y<br>ACTUALIZACIÓN",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "Debemos redactar descripción breve del servicio...",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "refresh",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "index.html",
+              "size": 0,
+              "color": "black",
+              "newWindow": false
+            }
+          },
+          "title3": "REACONDICIONAMIENTO",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Debemos redactar descripción breve del servicio...",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media4": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "touch",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "index.html",
+              "size": 0,
+              "color": "black",
+              "newWindow": false
+            }
+          },
+          "title4": "CÁMARAS Y<br>CITOFONÍA",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Debemos redactar descripción breve del servicio...",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media5": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "question",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "index.html",
+              "size": 0,
+              "color": "black",
+              "newWindow": false
+            }
+          },
+          "title5": "ASESORÍA",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Debemos redactar descripción breve del servicio...",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "linegraph",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "black",
+              "family": "et-line"
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts3",
+          "_styles": {
+            "LI": {
+              "color": "#bcbcbc"
+            }
+          },
+          "_anchor": "contacts3-2",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "class": "card-img-top",
+              "width": 265
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
+              "linkInNewWindow": false,
+              "name": "globe-2",
+              "family": "MobiriseIcons",
+              "link": "",
+              "size": 0,
+              "active": true
+            }
+          },
+          "text1": "Servicios generales para ascensores.",
+          "media1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "phone",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text2": "+56 32 000 000",
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "map-pin",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text3": "Dirección oficina virtual",
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "envelope",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text4": "<p><a href=\"mailto:contacto@arevalo.cl\">contacto@arevalo.cl</a><a href=\"mailto:support@mobirise.com\"></a></p>",
+          "title1": "Servicios",
+          "text5": "<li>Reparación</li><li><a class=\"text-white\" href=\"#\">N</a>ormalización y actualización</li><li>Reacondicionamiento</li><li><a class=\"text-white\" href=\"#\">C</a>ámaras y citofonía</li><li><a class=\"text-white\" href=\"#\">A</a>sesoría</li>",
+          "text6": "",
           "form": {
+            "title": "MESSAGE",
             "action": "cjimenezgnz@gmail.com",
             "alerts": {
               "success": "¡Gracias por contactarnos!"
             },
             "fields": {
               "name": {
-                "visible": true,
                 "title": "Name",
-                "customTitle": "Nombre*"
+                "visible": false,
+                "customTitle": "Name*"
               },
               "email": {
-                "visible": true,
                 "title": "Email",
+                "visible": true,
                 "customTitle": "Email*"
               },
               "phone": {
-                "visible": true,
                 "title": "Phone",
-                "customTitle": "Teléfono*"
+                "visible": false,
+                "customTitle": "Phone"
               },
               "message": {
-                "visible": true,
                 "title": "Message",
                 "customTitle": "Mensaje"
               }
             }
           },
-          "alias": "mobirise3-blocks/components",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "extHeader8",
-          "_anchor": "extHeader8-i",
-          "_styles": {
-            "P": {
-              "font-size": "25px"
-            },
-            ".btn": {
-              "font-size": "20px",
-              "font-family": "'Roboto Condensed', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700"
-            }
-          }
-        },
-        {
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false,
-            "inverse": true,
-            "showArrow": true,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1620x1080.jpg",
-            "parallax": false,
-            "bgColorRadio": false,
-            "bgColor": "#2e2e2e",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#f1cc01",
-            "overlayOpacity": "0.1"
-          },
-          "title": "Contáctanos",
-          "text": "No dudes en contactarnos, te responderemos a la brevedad para el diseño de esa idea que tienes.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\">MORE</a>",
-          "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">ENVIAR</a>",
-          "form": {
-            "action": "cjimenezgnz@gmail.com",
-            "alerts": {
-              "success": "Thanks for filling out form!"
-            },
-            "fields": {
-              "name": {
-                "visible": true,
-                "title": "Name",
-                "customTitle": "Nombre*"
-              },
-              "email": {
-                "visible": true,
-                "title": "Email",
-                "customTitle": "Email*"
-              },
-              "phone": {
-                "visible": true,
-                "title": "Phone",
-                "customTitle": "Teléfono*"
-              },
-              "message": {
-                "visible": true,
-                "title": "Message",
-                "customTitle": "Mensaje"
-              }
-            }
-          },
-          "alias": "mobirise3-blocks/components",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "extHeader8",
-          "_anchor": "extHeader8-j",
-          "_styles": {
-            ".btn": {
-              "font-size": "25px",
-              "font-family": "'Roboto Condensed', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Enviar</a>"
         }
       ]
     }
