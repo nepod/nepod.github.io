@@ -874,6 +874,7 @@ h6,
 
 
 
+
 #ext_menu-9 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -958,5 +959,9 @@ h6,
 }
 #extHeader8-i .btn {
   font-size: 20px;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+#extHeader8-j .btn {
+  font-size: 25px;
   font-family: 'Roboto Condensed', sans-serif;
 }
