@@ -141,14 +141,14 @@
             },
             ".mbr-section-text": {
               "color": "#000000",
-              "text-align": "left"
+              "text-align": "right"
             }
           },
           "_params": {
             "showTitle": true,
             "showText": true,
             "showButtons": false,
-            "inverse": true,
+            "inverse": false,
             "showArrow": false,
             "imageSize": 50,
             "bgImageRadio": true,
@@ -161,7 +161,7 @@
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
-            "overlayColor": "#ccc",
+            "overlayColor": "#cccccc",
             "overlayOpacity": "0.8"
           },
           "media": {
