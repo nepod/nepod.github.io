@@ -1,7 +1,7 @@
-@import url(../../../https://fonts.googleapis.com/css?family=Amatic+SC:400,700);
-@import url(../../../https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700);
-
-
+@import url(../../../https://fonts.googleapis.com/css?family=Roboto:400,300,700);
+@import url(../../../https://fonts.googleapis.com/css?family=Montserrat:400,700);
+@import url(../../../https://fonts.googleapis.com/css?family=Lora:400,700);
+@import url(../../../https://fonts.googleapis.com/css?family=Raleway:400,300,700);
 
 
 
@@ -10,11 +10,11 @@ body,
 input,
 textarea,
 .mbr-company .list-group-text {
-  font-family: 'Roboto Condensed', sans-serif;
+  font-family: 'Raleway', sans-serif;
 }
 .mbr-footer-content li,
 .mbr-footer .mbr-contacts li {
-  font-family: 'Roboto Condensed', sans-serif;
+  font-family: 'Raleway', sans-serif;
 }
 .btn,
 .alert,
@@ -38,7 +38,7 @@ h6,
 .mbr-gallery-title,
 .mbr-map [data-state-details],
 .mbr-price {
-  font-family: 'Amatic SC', handwriting;
+  font-family: 'Montserrat', sans-serif;
 }
 .mbr-footer-content h1,
 .mbr-footer .mbr-contacts h1,
@@ -52,7 +52,7 @@ h6,
 .mbr-footer .mbr-contacts p strong,
 .mbr-footer-content strong,
 .mbr-footer .mbr-contacts strong {
-  font-family: 'Amatic SC', handwriting;
+  font-family: 'Montserrat', sans-serif;
 }
 .btn-sm,
 .lead a,
@@ -61,26 +61,23 @@ h6,
 .mbr-section-hero .mbr-section-lead,
 .mbr-cards .card-subtitle,
 .mbr-testimonial .card-block {
-  font-family: 'Amatic SC', handwriting;
-  font-style: normal;
+  font-family: 'Lora', serif;
 }
 .mbr-author-name {
-  font-family: 'Amatic SC', handwriting;
+  font-family: 'Montserrat', sans-serif;
 }
 .mbr-author-desc {
-  font-family: 'Amatic SC', handwriting;
-  font-style: normal;
+  font-family: 'Lora', serif;
 }
 .mbr-plan-title {
-  font-family: 'Amatic SC', handwriting;
+  font-family: 'Montserrat', sans-serif;
 }
 .mbr-plan-subtitle,
 .mbr-plan-price-desc {
-  font-family: 'Amatic SC', handwriting;
-  font-style: normal;
+  font-family: 'Lora', serif;
 }
 .bg-primary {
-  background-color: #f1cc01 !important;
+  background-color: #c0a375 !important;
 }
 .bg-success {
   background-color: #90a878 !important;
@@ -95,8 +92,8 @@ h6,
   background-color: #f28281 !important;
 }
 .btn-primary {
-  background-color: #f1cc01;
-  border-color: #f1cc01;
+  background-color: #c0a375;
+  border-color: #c0a375;
   color: #ffffff;
 }
 .btn-primary:hover,
@@ -105,14 +102,14 @@ h6,
 .btn-primary:active,
 .btn-primary.active {
   color: #ffffff;
-  background-color: #a58c01;
-  border-color: #a58c01;
+  background-color: #a07e49;
+  border-color: #a07e49;
 }
 .btn-primary.disabled,
 .btn-primary:disabled {
   color: #ffffff !important;
-  background-color: #a58c01 !important;
-  border-color: #a58c01 !important;
+  background-color: #a07e49 !important;
+  border-color: #a07e49 !important;
 }
 .btn-secondary {
   background-color: #bfcecb;
@@ -216,8 +213,8 @@ h6,
 }
 .btn-primary-outline {
   background: none;
-  border-color: #8b7601;
-  color: #8b7601;
+  border-color: #8e7041;
+  color: #8e7041;
 }
 .btn-primary-outline:hover,
 .btn-primary-outline:focus,
@@ -225,14 +222,14 @@ h6,
 .btn-primary-outline:active,
 .btn-primary-outline.active {
   color: #ffffff;
-  background-color: #f1cc01;
-  border-color: #f1cc01;
+  background-color: #c0a375;
+  border-color: #c0a375;
 }
 .btn-primary-outline.disabled,
 .btn-primary-outline:disabled {
   color: #ffffff !important;
-  background-color: #f1cc01 !important;
-  border-color: #f1cc01 !important;
+  background-color: #c0a375 !important;
+  border-color: #c0a375 !important;
 }
 .btn-secondary-outline {
   background: none;
@@ -335,7 +332,7 @@ h6,
   border-color: #f28281 !important;
 }
 .text-primary {
-  color: #f1cc01 !important;
+  color: #c0a375 !important;
 }
 .text-success {
   color: #90a878 !important;
@@ -362,36 +359,36 @@ h6,
   background-color: #f28281;
 }
 .btn-social {
-  border-color: #f1cc01;
+  border-color: #c0a375;
 }
 .btn-social:hover {
-  background: #f1cc01;
+  background: #c0a375;
 }
 .mbr-company .list-group-item.active .list-group-text {
-  color: #f1cc01;
+  color: #c0a375;
 }
 .mbr-footer p a,
 .mbr-footer ul a {
-  color: #f1cc01;
+  color: #c0a375;
 }
 .mbr-footer-content li::before,
 .mbr-footer .mbr-contacts li::before {
-  background: #f1cc01;
+  background: #c0a375;
 }
 .mbr-footer-content li a:hover,
 .mbr-footer .mbr-contacts li a:hover {
-  color: #f1cc01;
+  color: #c0a375;
 }
 .lead a,
 .lead a:hover {
-  color: #f1cc01;
+  color: #c0a375;
 }
 .lead blockquote {
-  border-color: #f1cc01;
+  border-color: #c0a375;
 }
 .mbr-plan-header.bg-primary .mbr-plan-subtitle,
 .mbr-plan-header.bg-primary .mbr-plan-price-desc {
-  color: #fff5bf;
+  color: #e8ddcd;
 }
 .mbr-plan-header.bg-success .mbr-plan-subtitle,
 .mbr-plan-header.bg-success .mbr-plan-price-desc {
@@ -411,41 +408,41 @@ h6,
 }
 .mbr-small-footer a,
 .mbr-gallery-filter li:hover {
-  color: #f1cc01;
+  color: #c0a375;
+}
+.scrollToTop_wraper {
+  opacity: 0 !important;
 }
 .extCountdown1 .number,
 .extCountdown2 .number {
-  font-family: 'Amatic SC', handwriting;
+  font-family: 'Montserrat', sans-serif;
 }
 .extCountdown1 .period,
 .extCountdown2 .period {
-  font-family: 'Amatic SC', handwriting;
-  font-style: normal;
+  font-family: 'Lora', serif;
 }
 .extCountdown1 .dot,
 .extCountdown2 .dot {
-  font-family: 'Amatic SC', handwriting;
+  font-family: 'Montserrat', sans-serif;
 }
 .features6 .feature-subtitle {
-  font-family: 'Amatic SC', handwriting;
-  font-style: normal;
+  font-family: 'Lora', serif;
 }
 .features6 .feature-title {
-  font-family: 'Amatic SC', handwriting;
+  font-family: 'Montserrat', sans-serif;
 }
 .features6 .description {
-  font-family: 'Roboto Condensed', sans-serif;
+  font-family: 'Raleway', sans-serif;
 }
 .count,
 .counter-title {
-  font-family: 'Amatic SC', handwriting;
+  font-family: 'Montserrat', sans-serif;
 }
 .counter-subtitle {
-  font-family: 'Amatic SC', handwriting;
-  font-style: normal;
+  font-family: 'Lora', serif;
 }
 .mbr-iconfont-counters1 {
-  color: #f1cc01;
+  color: #c0a375;
 }
 .extHeader1 .container h3,
 .extHeader2 .container h3,
@@ -459,7 +456,7 @@ h6,
 .extHeader12 .container h3,
 .extHeader13 .container h3,
 .extFeatures10 .container h3 {
-  font-family: 'Amatic SC', handwriting;
+  font-family: 'Montserrat', sans-serif;
 }
 .extHeader1 .container p,
 .extHeader2 .container p,
@@ -473,153 +470,139 @@ h6,
 .extHeader12 .container p,
 .extHeader13 .container p,
 .extFeatures10 .container p {
-  font-family: 'Amatic SC', handwriting;
-  font-style: normal;
+  font-family: 'Lora', serif;
 }
 .extHeader5 .container label {
-  font-family: 'Amatic SC', handwriting;
-  font-style: normal;
+  font-family: 'Lora', serif;
 }
 .extHeader9 form p.form-subtitle {
-  font-family: 'Amatic SC', handwriting;
+  font-family: 'Montserrat', sans-serif;
 }
 .extHeader11 .container span {
-  font-family: 'Amatic SC', handwriting;
+  font-family: 'Montserrat', sans-serif;
 }
 .extHeader11 .container p.element {
-  font-family: 'Amatic SC', handwriting;
+  font-family: 'Montserrat', sans-serif;
 }
 .extHeader11 .container p {
-  font-family: 'Amatic SC', handwriting;
-  font-style: normal;
+  font-family: 'Lora', serif;
 }
 .extHeader12 h4,
 .extFeatures10 h4 {
-  font-family: 'Amatic SC', handwriting;
+  font-family: 'Montserrat', sans-serif;
 }
 .extHeader12 .subtitle,
 .extFeatures10 .subtitle {
-  font-family: 'Amatic SC', handwriting;
-  font-style: normal;
+  font-family: 'Lora', serif;
 }
 .extHeader13 h4 {
-  font-family: 'Amatic SC', handwriting;
+  font-family: 'Montserrat', sans-serif;
 }
 .extHeader13 .number {
-  font-family: 'Amatic SC', handwriting;
+  font-family: 'Montserrat', sans-serif;
 }
 .extHeader13 .period {
-  font-family: 'Amatic SC', handwriting;
-  font-style: normal;
+  font-family: 'Lora', serif;
 }
 .extHeader13 .dot {
-  font-family: 'Amatic SC', handwriting;
+  font-family: 'Montserrat', sans-serif;
 }
 .extFeatures .feature-title {
-  font-family: 'Amatic SC', handwriting;
+  font-family: 'Montserrat', sans-serif;
 }
 .extFeatures .feature-subtitle {
-  font-family: 'Amatic SC', handwriting;
-  font-style: normal;
+  font-family: 'Lora', serif;
 }
 .extFeatures .feature-text {
-  font-family: 'Roboto Condensed', sans-serif;
+  font-family: 'Raleway', sans-serif;
 }
 .extFeatures2 h4 {
-  font-family: 'Amatic SC', handwriting;
+  font-family: 'Montserrat', sans-serif;
 }
 .extFeatures3 .border-wrap {
-  border-color: #f1cc01;
+  border-color: #c0a375;
 }
 .extFeatures4 h4,
 .extFeatures6 h4,
 .extFeatures5 .card-title h4 {
-  font-family: 'Amatic SC', handwriting;
+  font-family: 'Montserrat', sans-serif;
 }
 .extFeatures4 h5,
 .extFeatures6 h5,
 .extFeatures5 .card-title h5 {
-  font-family: 'Amatic SC', handwriting;
-  font-style: normal;
+  font-family: 'Lora', serif;
 }
 .extForm1 h4,
 .extForm2 h4,
 .extForm3 h4,
 .extForm4 h4 {
-  font-family: 'Amatic SC', handwriting;
+  font-family: 'Montserrat', sans-serif;
 }
 .extForm1 .subtitle,
 .extForm2 .subtitle,
 .extForm3 .subtitle,
 .extForm4 .subtitle {
-  font-family: 'Amatic SC', handwriting;
-  font-style: normal;
+  font-family: 'Lora', serif;
 }
 .extForm2 .container h3 {
-  font-family: 'Amatic SC', handwriting;
+  font-family: 'Montserrat', sans-serif;
 }
 .extForm2 .container p {
-  font-family: 'Amatic SC', handwriting;
-  font-style: normal;
+  font-family: 'Lora', serif;
 }
 .extPricingTable1 .bottom_line {
-  border-bottom-color: #f1cc01;
+  border-bottom-color: #c0a375;
 }
 .extPricingTable1 .mbr-price small {
-  font-family: 'Amatic SC', handwriting;
-  font-style: normal;
+  font-family: 'Lora', serif;
 }
 .extPricingTable1 .mbr-plan-label {
-  background: #f1cc01;
+  background: #c0a375;
 }
 .extCounters2 h4 {
-  font-family: 'Amatic SC', handwriting;
+  font-family: 'Montserrat', sans-serif;
 }
 .extCounters2 h5 {
-  font-family: 'Amatic SC', handwriting;
-  font-style: normal;
+  font-family: 'Lora', serif;
 }
 .extCounters3 .count {
-  font-family: 'Amatic SC', handwriting;
+  font-family: 'Montserrat', sans-serif;
 }
 .extCounters3 .counter-title {
-  font-family: 'Amatic SC', handwriting;
+  font-family: 'Montserrat', sans-serif;
 }
 .extCounters3 .counter-subtitle {
-  font-family: 'Amatic SC', handwriting;
-  font-style: normal;
+  font-family: 'Lora', serif;
 }
 .extProgressBar .progress-primary[value]::-webkit-progress-value {
-  background-color: #f1cc01;
+  background-color: #c0a375;
 }
 .extProgressBar .progress-primary[value]::-moz-progress-bar {
-  background-color: #f1cc01;
+  background-color: #c0a375;
 }
 @media screen and (min-width: 0\0) {
   .extProgressBar .progress-primary .progress-bar {
-    background-color: #f1cc01;
+    background-color: #c0a375;
   }
 }
 .extProgressBar .title-wrap {
-  font-family: 'Amatic SC', handwriting;
-  font-style: normal;
+  font-family: 'Lora', serif;
 }
 .extProgressBarRound .progress-radial .overlay {
-  font-family: 'Amatic SC', handwriting;
+  font-family: 'Montserrat', sans-serif;
 }
 .extProgressBar4 .feature-title {
-  font-family: 'Amatic SC', handwriting;
+  font-family: 'Montserrat', sans-serif;
 }
 .extProgressBar4 .feature-subtitle {
-  font-family: 'Amatic SC', handwriting;
-  font-style: normal;
+  font-family: 'Lora', serif;
 }
 .extTabs1 ul.nav-tabs li a:hover,
 .extTabs2 ul.nav-tabs li a:hover {
-  color: #f1cc01;
+  color: #c0a375;
 }
 .extAccordion1 .panel-heading a {
-  font-family: 'Roboto Condensed', sans-serif;
+  font-family: 'Raleway', sans-serif;
 }
 .extAccordion1 .pseudoPlus,
 .extAccordion2 .pseudoPlus,
@@ -630,296 +613,129 @@ h6,
 .extAccordion1 .pseudoMinus,
 .extAccordion2 .pseudoMinus,
 .extToggle1 .pseudoMinus {
-  background-color: #f1cc01;
+  background-color: #c0a375;
 }
 .extAccordion2 .panel-heading a,
 .extAccordion3 .panel-heading a,
 .extToggle1 .panel-heading a {
-  font-family: 'Roboto Condensed', sans-serif;
+  font-family: 'Raleway', sans-serif;
 }
 .extProgressBar5 .progress-primary[value]::-webkit-progress-value {
-  background-color: #f1cc01;
+  background-color: #c0a375;
 }
 .extProgressBar5 .progress-primary[value]::-moz-progress-bar {
-  background-color: #f1cc01;
+  background-color: #c0a375;
 }
 @media screen and (min-width: 0\0) {
   .extProgressBar5 .progress-primary .progress-bar {
-    background-color: #f1cc01;
+    background-color: #c0a375;
   }
 }
 .extProgressBar5 .title-wrap {
-  font-family: 'Amatic SC', handwriting;
-  font-style: normal;
+  font-family: 'Lora', serif;
 }
 .extMsg-box1 .container h3 {
-  font-family: 'Amatic SC', handwriting;
+  font-family: 'Montserrat', sans-serif;
 }
 .extMsg-box1 .container p {
-  font-family: 'Amatic SC', handwriting;
-  font-style: normal;
+  font-family: 'Lora', serif;
 }
 .extMsg-box1 h4 {
-  font-family: 'Amatic SC', handwriting;
+  font-family: 'Montserrat', sans-serif;
 }
 .extMsg-box1 .subtitle {
-  font-family: 'Amatic SC', handwriting;
-  font-style: normal;
+  font-family: 'Lora', serif;
 }
 .extMsg-box2 .container span,
 .extMsg-box3 .container span,
 .extMsg-box4 .container span {
-  font-family: 'Amatic SC', handwriting;
+  font-family: 'Montserrat', sans-serif;
 }
 .extMsg-box2 .container p,
 .extMsg-box3 .container p,
 .extMsg-box4 .container p {
-  font-family: 'Amatic SC', handwriting;
-  font-style: normal;
+  font-family: 'Lora', serif;
 }
 .extProgressBarRound .pie_progress__number {
-  font-family: 'Amatic SC', handwriting;
+  font-family: 'Montserrat', sans-serif;
 }
 .extMenu1 span.icon a:hover {
-  color: #f1cc01 !important;
+  color: #c0a375 !important;
 }
 .extProgressBar .progress-primary[value]::-ms-fill {
-  color: #f1cc01;
+  color: #c0a375;
 }
 .extProgressBar5 .progress-primary[value]::-ms-fill {
-  color: #f1cc01;
+  color: #c0a375;
 }
 .theme-border {
-  border: 1px solid #f1cc01;
+  border: 1px solid #c0a375;
 }
-#ext_menu-2 .hide-buttons .nav-btn {
+#menu-0 .hide-buttons .nav-btn {
   display: none !important;
 }
-#ext_menu-2 .navbar-caption {
+#menu-0 .navbar-caption {
   color: #ffffff;
 }
-#ext_menu-2 .navbar-toggler {
+#menu-0 .navbar-toggler {
   color: #000000;
 }
-#ext_menu-2 .close-icon::before,
-#ext_menu-2 .close-icon::after {
+#menu-0 .close-icon::before,
+#menu-0 .close-icon::after {
   background-color: #000000;
 }
-#ext_menu-2 .link,
-#ext_menu-2 .dropdown-item {
+#menu-0 .link,
+#menu-0 .dropdown-item {
   color: #000000;
-  font-family: 'Amatic SC', handwriting;
+  font-family: 'Roboto', sans-serif;
 }
-#ext_menu-2 .link {
-  font-size: 1.2rem;
+#menu-0 .link {
+  font-size: 0.75rem;
 }
-#ext_menu-2 .dropdown-item,
-#ext_menu-2 .nav-dropdown-sm .link {
-  font-size: 1.300rem;
+#menu-0 .dropdown-item,
+#menu-0 .nav-dropdown-sm .link {
+  font-size: 0.812rem;
 }
-#ext_menu-2 .link:hover,
-#ext_menu-2 .dropdown-item:hover,
-#ext_menu-2 .link:focus,
-#ext_menu-2 .dropdown-item:focus {
-  color: #f1cc01;
+#menu-0 .link:hover,
+#menu-0 .dropdown-item:hover,
+#menu-0 .link:focus,
+#menu-0 .dropdown-item:focus {
+  color: #c0a375;
 }
-#ext_menu-2 .link[aria-expanded="true"],
-#ext_menu-2 .dropdown-menu {
-  background: #bea101;
+#menu-0 .link[aria-expanded="true"],
+#menu-0 .dropdown-menu {
+  background: #0e0e0e;
 }
-#ext_menu-2 .nav-dropdown-sm .link:focus,
-#ext_menu-2 .nav-dropdown-sm .link:hover,
-#ext_menu-2 .nav-dropdown-sm .dropdown-item:focus,
-#ext_menu-2 .nav-dropdown-sm .dropdown-item:hover {
-  background: #e2bf01!important;
+#menu-0 .nav-dropdown-sm .link:focus,
+#menu-0 .nav-dropdown-sm .link:hover,
+#menu-0 .nav-dropdown-sm .dropdown-item:focus,
+#menu-0 .nav-dropdown-sm .dropdown-item:hover {
+  background: #202020!important;
 }
-#ext_menu-2 .navbar,
-#ext_menu-2 .nav-dropdown-sm,
-#ext_menu-2 .nav-dropdown-sm .link[aria-expanded="true"],
-#ext_menu-2 .nav-dropdown-sm .dropdown-menu {
-  background: #f1cc01;
+#menu-0 .navbar,
+#menu-0 .nav-dropdown-sm,
+#menu-0 .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-0 .nav-dropdown-sm .dropdown-menu {
+  background: #282828;
 }
-#ext_menu-2 .bg-color.transparent .link {
+#menu-0 .bg-color.transparent .link {
   color: #000000;
   transition: none;
 }
-#ext_menu-2 .bg-color.transparent.opened .link {
+#menu-0 .bg-color.transparent.opened .link {
   transition: color 0.2s ease-in-out;
 }
-#ext_menu-2 .bg-color.transparent.opened .link:hover,
-#ext_menu-2 .bg-color.transparent.opened .link:focus {
-  color: #f1cc01;
+#menu-0 .bg-color.transparent.opened .link:hover,
+#menu-0 .bg-color.transparent.opened .link:focus {
+  color: #c0a375;
 }
-#ext_menu-2 .link[aria-expanded="true"],
-#ext_menu-2 .dropdown-item[aria-expanded="true"] {
-  color: #f1cc01!important;
+#menu-0 .link[aria-expanded="true"],
+#menu-0 .dropdown-item[aria-expanded="true"] {
+  color: #c0a375!important;
 }
-#header2-1 .mbr-section-title {
-  font-family: 'Amatic SC', handwriting;
-  font-size: 100px;
-  text-align: right;
-  color: #000000;
+#header6-1 .mbr-section-title {
+  color: #28262b;
 }
-#header2-1 .mbr-section-text {
-  text-align: right;
-  font-size: 36px;
-  color: #000000;
-  font-family: 'Amatic SC', handwriting;
-}
-#contacts1-q P {
-  color: #000000;
-  font-size: 14px;
-}
-#contacts1-q STRONG {
-  font-size: 24px;
-  color: #000000;
-}
-
-
-#ext_menu-5 .hide-buttons .nav-btn {
-  display: none !important;
-}
-#ext_menu-5 .navbar-caption {
-  color: #ffffff;
-}
-#ext_menu-5 .navbar-toggler {
-  color: #000000;
-}
-#ext_menu-5 .close-icon::before,
-#ext_menu-5 .close-icon::after {
-  background-color: #000000;
-}
-#ext_menu-5 .link,
-#ext_menu-5 .dropdown-item {
-  color: #000000;
-  font-family: 'Amatic SC', handwriting;
-}
-#ext_menu-5 .link {
-  font-size: 1.2rem;
-}
-#ext_menu-5 .dropdown-item,
-#ext_menu-5 .nav-dropdown-sm .link {
-  font-size: 1.300rem;
-}
-#ext_menu-5 .link:hover,
-#ext_menu-5 .dropdown-item:hover,
-#ext_menu-5 .link:focus,
-#ext_menu-5 .dropdown-item:focus {
-  color: #f1cc01;
-}
-#ext_menu-5 .link[aria-expanded="true"],
-#ext_menu-5 .dropdown-menu {
-  background: #bea101;
-}
-#ext_menu-5 .nav-dropdown-sm .link:focus,
-#ext_menu-5 .nav-dropdown-sm .link:hover,
-#ext_menu-5 .nav-dropdown-sm .dropdown-item:focus,
-#ext_menu-5 .nav-dropdown-sm .dropdown-item:hover {
-  background: #e2bf01!important;
-}
-#ext_menu-5 .navbar,
-#ext_menu-5 .nav-dropdown-sm,
-#ext_menu-5 .nav-dropdown-sm .link[aria-expanded="true"],
-#ext_menu-5 .nav-dropdown-sm .dropdown-menu {
-  background: #f1cc01;
-}
-#ext_menu-5 .bg-color.transparent .link {
-  color: #000000;
-  transition: none;
-}
-#ext_menu-5 .bg-color.transparent.opened .link {
-  transition: color 0.2s ease-in-out;
-}
-#ext_menu-5 .bg-color.transparent.opened .link:hover,
-#ext_menu-5 .bg-color.transparent.opened .link:focus {
-  color: #f1cc01;
-}
-#ext_menu-5 .link[aria-expanded="true"],
-#ext_menu-5 .dropdown-item[aria-expanded="true"] {
-  color: #f1cc01!important;
-}
-#header2-8 .mbr-section-title {
-  font-family: 'Amatic SC', handwriting;
-  color: #000000;
-}
-#header2-8 .mbr-section-text {
-  font-size: 17px;
-  color: #000000;
-}
-#contacts1-q P {
-  color: #000000;
-  font-size: 14px;
-}
-#contacts1-q STRONG {
-  font-size: 24px;
-  color: #000000;
-}
-
-#ext_menu-n .hide-buttons .nav-btn {
-  display: none !important;
-}
-#ext_menu-n .navbar-caption {
-  color: #ffffff;
-}
-#ext_menu-n .navbar-toggler {
-  color: #000000;
-}
-#ext_menu-n .close-icon::before,
-#ext_menu-n .close-icon::after {
-  background-color: #000000;
-}
-#ext_menu-n .link,
-#ext_menu-n .dropdown-item {
-  color: #000000;
-  font-family: 'Amatic SC', handwriting;
-}
-#ext_menu-n .link {
-  font-size: 1.2rem;
-}
-#ext_menu-n .dropdown-item,
-#ext_menu-n .nav-dropdown-sm .link {
-  font-size: 1.300rem;
-}
-#ext_menu-n .link:hover,
-#ext_menu-n .dropdown-item:hover,
-#ext_menu-n .link:focus,
-#ext_menu-n .dropdown-item:focus {
-  color: #f1cc01;
-}
-#ext_menu-n .link[aria-expanded="true"],
-#ext_menu-n .dropdown-menu {
-  background: #bea101;
-}
-#ext_menu-n .nav-dropdown-sm .link:focus,
-#ext_menu-n .nav-dropdown-sm .link:hover,
-#ext_menu-n .nav-dropdown-sm .dropdown-item:focus,
-#ext_menu-n .nav-dropdown-sm .dropdown-item:hover {
-  background: #e2bf01!important;
-}
-#ext_menu-n .navbar,
-#ext_menu-n .nav-dropdown-sm,
-#ext_menu-n .nav-dropdown-sm .link[aria-expanded="true"],
-#ext_menu-n .nav-dropdown-sm .dropdown-menu {
-  background: #f1cc01;
-}
-#ext_menu-n .bg-color.transparent .link {
-  color: #000000;
-  transition: none;
-}
-#ext_menu-n .bg-color.transparent.opened .link {
-  transition: color 0.2s ease-in-out;
-}
-#ext_menu-n .bg-color.transparent.opened .link:hover,
-#ext_menu-n .bg-color.transparent.opened .link:focus {
-  color: #f1cc01;
-}
-#ext_menu-n .link[aria-expanded="true"],
-#ext_menu-n .dropdown-item[aria-expanded="true"] {
-  color: #f1cc01!important;
-}
-#extHeader10-p P {
-  font-size: 24px;
-}
-#extHeader10-p .btn {
-  font-size: 25px;
+#header6-1 .mbr-section-text {
+  color: #565656;
 }
