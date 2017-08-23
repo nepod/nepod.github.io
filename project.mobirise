@@ -61,10 +61,10 @@
               "font-family": "'Roboto', sans-serif"
             },
             ".link": {
-              "font-size": "0.75rem"
+              "font-size": "0.9rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
+              "font-size": "0.975rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -100,7 +100,7 @@
             "collapsed": true,
             "transparent": true,
             "bgColor": "#282828",
-            "fontSize": 0.75,
+            "fontSize": "0.9",
             "fontName": {
               "name": "Roboto",
               "url": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
@@ -146,7 +146,7 @@
             "showText": true,
             "showButtons": false,
             "inverse": true,
-            "showArrow": true,
+            "showArrow": false,
             "imageSize": 50,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/captura-de-pantalla-2017-08-23-08.52.11-1366x768.png",
