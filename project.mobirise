@@ -135,10 +135,11 @@
           "_inherit": "header2",
           "_styles": {
             ".mbr-section-title": {
-              "color": "#28262b"
+              "color": "#000000"
             },
             ".mbr-section-text": {
-              "color": "#565656"
+              "color": "#000000",
+              "text-align": "left"
             }
           },
           "_params": {
@@ -180,7 +181,7 @@
             }
           },
           "title": "Strong Brick<br>Plug &amp; Play",
-          "text": "Se refiere a un sistema constructivo Plug &amp; Play,  acepta una amplia gama de soluciones constructivas de baja y alta complejidad tales como bases removibles para la reposición de piezas fracturadas o dañadas en procesos abrasivos, Protección de superficie de descarga de hidrociclones  soportes para tuberías, muros de contención, entre otras aplicaciones.&nbsp;",
+          "text": "Se refiere a un sistema constructivo Plug &amp; Play, Acepta una amplia gama de soluciones constructivas de baja y alta complejidad tales como bases removibles para la reposición de piezas fracturadas o dañadas en procesos abrasivos, Protección de superficie de descarga de hidrociclones  soportes para tuberías, muros de contención, entre otras aplicaciones.&nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Theme"
