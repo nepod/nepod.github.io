@@ -1,12 +1,12 @@
 {
   "settings": {
-    "name": "Espiral",
+    "name": "Arevalo",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
       "styling": {
-        "primaryColor": "#c0a375",
+        "primaryColor": "#304269",
         "secondaryColor": "#bfcecb",
         "successColor": "#90a878",
         "infoColor": "#7e9b9f",
@@ -19,15 +19,18 @@
         "isAnimatedOnScroll": true,
         "isScrollToTopButton": false,
         "isRtl": false
-      }
+      },
+      "additionalSetColors": [
+        "#304269"
+      ]
     },
-    "versionFirst": "3.12.1",
-    "uniqCompNum": 40,
-    "versionPublish": "4.1.7",
-    "favicon": "@PROJECT_PATH@/assets/images/logo01-128x116-1.png",
+    "favicon": "",
     "noImageResize": "",
     "google-analytics": "",
     "cookiesAlert": "",
+    "versionFirst": "3.12.1",
+    "uniqCompNum": 10,
+    "versionPublish": "4.1.7",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
   },
@@ -35,7 +38,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Inicio",
+        "title": "",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -43,12 +46,19 @@
       },
       "components": [
         {
+          "_inherit": "menu",
+          "_tags": [
+            "Theme"
+          ],
           "_styles": {
             ".hide-buttons .nav-btn": {
               "display": "none !important"
             },
             ".navbar-caption": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-size": "18px"
             },
             ".navbar-toggler": {
               "color": "#ffffff"
@@ -57,7 +67,9 @@
               "background-color": "#ffffff"
             },
             ".link, .dropdown-item": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-family": "'Roboto', sans-serif"
             },
             ".link": {
               "font-size": "0.75rem"
@@ -69,13 +81,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#3e295f"
+              "background": "#202c46"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#4e3477!important"
+              "background": "#2b3b5f!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#553982"
+              "background": "#304269"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -88,18 +100,11 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
-            },
-            ".innerEmail:hover, .innerPhone:hover": {
-              "color": "@primaryColor"
+              "color": "#304269!important"
             }
           },
-          "alias": "mobirise3-blocks/components",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "extMenu1",
-          "_anchor": "extMenu1-0",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-0",
           "_params": {
             "logo": true,
             "showBrand": true,
@@ -107,108 +112,20 @@
             "sticky": true,
             "collapsed": true,
             "transparent": false,
-            "bgColor": "#553982",
-            "socialButtons": "1",
+            "bgColor": "#304269",
             "fontSize": 0.75,
-            "fontName": {},
+            "fontName": {
+              "name": "Roboto",
+              "url": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "css": "'Roboto', sans-serif"
+            },
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
-          },
-          "media1": {
-            "iconFont": {
-              "active": true,
-              "class": "fa",
-              "link": "https://mobirise.com",
-              "name": "phone",
-              "size": 0,
-              "color": "#ffffff",
-              "family": "FontAwesome"
-            }
-          },
-          "phone": "+56 32 342 3301",
-          "media2": {
-            "iconFont": {
-              "active": true,
-              "name": "mail",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#ffffff",
-              "family": "linecons"
-            }
-          },
-          "email": "contacto@espiralvina.cl",
-          "media3": {
-            "iconFont": {
-              "class": "",
-              "linkInNewWindow": false,
-              "name": "facebook",
-              "family": "socicon",
-              "active": true,
-              "link": "https://www.facebook.com/espiralrecursoseducativos",
-              "size": 0,
-              "color": "#ffffff",
-              "newWindow": true
-            }
-          },
-          "media4": {
-            "iconFont": {
-              "active": true,
-              "class": "",
-              "name": "twitter",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#ffffff",
-              "family": "socicon"
-            }
-          },
-          "media5": {
-            "iconFont": {
-              "active": true,
-              "class": "",
-              "name": "instagram",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#ffffff",
-              "family": "socicon"
-            }
-          },
-          "media6": {
-            "iconFont": {
-              "active": true,
-              "class": "",
-              "name": "behance",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#ffffff",
-              "family": "socicon"
-            }
-          },
-          "media7": {
-            "iconFont": {
-              "active": true,
-              "class": "",
-              "name": "pinterest",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#ffffff",
-              "family": "socicon"
-            }
-          },
-          "media8": {
-            "iconFont": {
-              "active": true,
-              "class": "",
-              "name": "skype",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#ffffff",
-              "family": "socicon"
-            }
           },
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo01-140x128.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-fixlift-128x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -221,1669 +138,297 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">espiral</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">INICIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"sobrenosotros.html\">SOBRE NOSOTROS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"servicios.html\" aria-expanded=\"false\">SERVICIOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"servicios.html\">Apoyo  Educativo y Terapéutico</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"servicios.html\">Evaluación</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"servicios.html\">Autocuidado y bienestar</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"usuario.html\">USUARIOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contacto.html\">CONTACTO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">FIXLIFT</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">INICIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">SOBRE NOSOTROS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">SERVICIOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">CONTÁCTENOS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
+          "_inherit": "header1",
           "_tags": [
             "Theme"
           ],
-          "_name": "msg-box5",
+          "_name": "header4",
           "_styles": {
-            "H3": {
-              "color": "#3d8eb9",
-              "font-size": "46px",
-              "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            ".mbr-section-lead": {
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
             }
           },
-          "_anchor": "msg-box5-6",
+          "_anchor": "header4-7",
           "_params": {
             "showTitle": true,
             "showText": true,
             "showButtons": false,
-            "inverse": true,
-            "imageSize": "24",
-            "paddingTop": "4",
-            "paddingBottom": 0,
+            "showArrow": true,
+            "contentAlign": "right",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
+            "bgColorRadio": false,
+            "bgColor": "#a07e49",
+            "bgVideoRadio": true,
             "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.5
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/41d000-b1d67c91f0884f7016463145c3224adb-1400x1021.png",
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box5",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "¡Bienvenidos/as a Espiral!",
-          "text": "<br>Somos un equipo transdisciplinario que busca contribuir al desarrollo integral de niños y niñas, respetando su individualidad social, emocional y neurobiológica.<br>Contamos con especialistas en Trastornos del Espectro Autista, Problemas de Aprendizaje y Desarrollo Infantil.<br>En todas nuestras áreas trabajamos en conjunto con la familia y los centros educacionales, resguardando la continuidad de las intervenciones en los contextos cotidianos del/a niño/a.&nbsp;<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
-        },
-        {
-          "_inherit": "gallery1",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "gallery2",
-          "_params": {
-            "showBullets": true,
-            "fullWidth": true,
-            "spacing": 0,
-            "paddingTop": "1",
-            "paddingBottom": 4,
-            "filterBgColor": false,
-            "bgColor": "fff",
-            "showText": false,
-            "filter": false,
-            "images": [
-              {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/01-2000x1121-800x448.jpg",
-                "image": "@PROJECT_PATH@/assets/images/01-2000x1121.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Beautiful",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/02-2000x1125-800x450.jpg",
-                "image": "@PROJECT_PATH@/assets/images/02-2000x1125.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Responsive",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/03-2000x1125-800x450.jpg",
-                "image": "@PROJECT_PATH@/assets/images/03-2000x1125.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/01-2000x1121-800x448.jpg",
-                "image": "@PROJECT_PATH@/assets/images/01-2000x1121.jpg",
-                "caption": "Type caption here",
-                "active": true
-              }
-            ]
-          },
-          "_anchor": "gallery2-7",
-          "articleLayout": false,
-          "allItem": "All"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "contacts1",
-          "_styles": {
-            "STRONG": {
-              "color": "#ffffff"
-            }
-          },
-          "_anchor": "contacts1-a",
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#553982",
-            "overlay": true,
-            "overlayColor": "#3C3C3C",
-            "overlayOpacity": 0.8
-          },
-          "logo": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo01-128x116.png",
-              "width": 128,
-              "active": true,
-              "link": "index.html",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-contacts1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "text1": "<strong>Dirección</strong><br>Calle Ecuador #238<br>Viña del mar, Chile.",
-          "text2": "<strong>Contáctanos</strong><br>\nEmail: contacto@espiralvina.cl<br>\nFono: +56 32 342 3301<br><br>",
-          "text3": "<p><strong>Links</strong><br>\n<a href=\"www.quintaidea.cl\" target=\"_blank\">Quinta Idea</a><a class=\"text-primary\" href=\"https://mobirise.com/\"></a><br><br></p>"
-        }
-      ]
-    },
-    "sobrenosotros.html": {
-      "settings": {
-        "title": "Sobre nosotros",
-        "meta_descr": "",
-        "header_custom": "",
-        "footer_custom": "",
-        "html_before": ""
-      },
-      "components": [
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            "H3": {
-              "color": "#3d8eb9"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-f",
-          "_params": {
-            "showMeta": false,
-            "paddingTop": "7",
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "title": "Sobre nosotros",
-          "meta": "By John Smith posted July 20, 2016"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-g",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text": "<p>Espiral surge en el año 2013 como una empresa de servicios educativos y terapéuticos, desde la inquietud de dos educadoras diferenciales – Daniela Contreras y María José Castro- que buscaban un espacio en donde trabajar con niñas y niños con condición del espectro autista y sus familias desde un enfoque integral y respetuoso de la neurodiversidad.</p><p>​</p><p>Actualmente esa visión se ha extendido tanto al trabajo con un equipo multidisciplinario, como al trabajo sobre el apoyo al desarrollo infantil en general, quedando el trabajo organizado en cuatro áreas: Apoyo a personas con condición del espectro autista, apoyo a la infancia y a la crianza respetuosa, evaluación e investigación.</p><p>&nbsp;</p><p>Espiral nace como una empresa con un alto compromiso político y social, que tiene dentro de sus objetivos el generar y participar en instancias de discusión sobre temáticas de educación, inclusión y neurodiversidad y así mismo aportar desde la sistematización de un modelo propio de atención.</p>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box5",
-          "_styles": {
-            "H3": {
-              "color": "#3d8eb9",
-              "font-size": "32px"
-            }
-          },
-          "_anchor": "msg-box5-h",
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false,
-            "inverse": true,
-            "imageSize": 50,
-            "paddingTop": "2",
-            "paddingBottom": 0,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.5
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/01-1400x700.png",
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box5",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "Misión",
-          "text": "Apoyar y acompañar los procesos madurativos de bebés, niñas, niños y adolescentes – que presenten o no dificultades en su desarrollo – desde un enfoque integral y respetuoso, facilitando instancias preventivas y terapéuticas que involucren en un rol activo a la familia, las instituciones educativas y a la comunidad en general. ​",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box5",
-          "_styles": {
-            "H3": {
-              "color": "#3d8eb9",
-              "font-size": "32px"
-            }
-          },
-          "_anchor": "msg-box5-i",
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false,
-            "inverse": true,
-            "imageSize": 50,
-            "paddingTop": 0,
-            "paddingBottom": 0,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.5
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/02-1400x700.png",
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box5",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "Visión",
-          "text": "Nos proyectamos hacia presentar un modelo de atención que utilice herramientas clínicas, pedagógicas y psicopedagógicas que respeten la integridad biopsicosocial de cada consultante y de su familia tanto para instancias de prevención, evaluación y terapia; enfocados tanto en los trastornos del desarrollo como en las necesidades educativas diferentes, y a afianzar nuestro rol político y social, tanto facilitando como participando en instancias de reflexión y formación en temáticas de educación pre-escolar y escolar, inclusión y neurodiversidad.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "testimonials2",
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#3d8eb9"
-            }
-          },
-          "testimonial": [
-            {
-              "text": "<p>\" Como madre y familia nos hemos sentido siempre acogidos, personalmente me siento parte del núcleo de casita Espiral, nos sentimos respetados, escuchados y principalmente contenidos. He secado muchas de mis lágrimas, en una conversación con el rico olor del cafecito en la mano. Sí he secado muchas de mis lágrimas escuchando las palabras precisas. Agradezco a la vida por lo que han hecho en y para nosotros.\"</p>",
-              "media": {
-                "image": {
-                  "src": "@THEME_PATH@/components/_images/face3.jpg",
-                  "class": "img-circle",
-                  "height": 160,
-                  "width": 160,
-                  "active": true
-                }
-              },
-              "authorName": "Claudia Palomo",
-              "authorBio": "Mamá de Seabstian y Marcelo."
-            },
-            {
-              "text": "<p>“Nos entregan a nosotros como padres las herramientas para que el camino que queda por recorrer con nuestro pequeño no sea tan difícil. Como familia nos sentimos sumamente orgullosos y felices de formar parte de este gran equipo porque sabemos que no estamos solos en esto y que contamos siempre con ustedes. Gracias por entregarse siempre al 100% para nuestros pequeños son increíbles.”</p>",
-              "media": {
-                "image": {
-                  "src": "@THEME_PATH@/components/_images/face1.jpg",
-                  "class": "img-circle",
-                  "height": 160,
-                  "width": 160,
-                  "active": true
-                }
-              },
-              "authorName": "Camila Carvajal",
-              "authorBio": "Mamá de Benjamín"
-            },
-            {
-              "text": "<p>\" Llegamos con mucha ignorancia, con una montaña de preguntas y un pequeño hermoso ¡seco para los berrinches! A unos meses de comenzar a trabajar con él y enseñarnos de a poco a entender como siente, como interpreta, como evitar la confusión en su cabecita, por qué los cambios le afectan tanto, etc. hemos logrado avances tan simples para muchos, pero importantes para nuestra familia.\"</p>",
-              "media": {
-                "image": {
-                  "src": "@THEME_PATH@/components/_images/face2.jpg",
-                  "class": "img-circle",
-                  "height": 160,
-                  "width": 160,
-                  "active": true
-                }
-              },
-              "authorName": "Rouss Martinez",
-              "authorBio": "Mamá de Gustavo"
-            }
-          ],
-          "_anchor": "testimonials2-j",
-          "_params": {
-            "showTitle": true,
-            "showSubtitle": false,
-            "showImages": false,
-            "showName": true,
-            "showBio": true,
-            "count": 3,
-            "paddingTop": "2",
-            "paddingBottom": "2",
-            "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/img-2000x1333.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#ffffff",
-            "overlay": true,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.2
-          },
-          "title": "Testimonios",
-          "subtitle": "Shape your future web project with sharp design and refine coded functions."
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "contacts1",
-          "_styles": {
-            "STRONG": {
-              "color": "#ffffff"
-            }
-          },
-          "_anchor": "contacts1-e",
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#553982",
-            "overlay": true,
-            "overlayColor": "#3C3C3C",
-            "overlayOpacity": 0.8
-          },
-          "logo": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo01-128x116.png",
-              "width": 128,
-              "active": true,
-              "link": "index.html",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-contacts1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "text1": "<strong>Dirección</strong><br>Calle Ecuador #238<br>Viña del mar, Chile.",
-          "text2": "<strong>Contáctanos</strong><br>\nEmail: contacto@espiralvina.cl<br>\nFono: +56 32 342 3301<br><br>",
-          "text3": "<p><strong>Links</strong><br>\n<a href=\"www.quintaidea.cl\" target=\"_blank\">Quinta Idea</a><a class=\"text-primary\" href=\"https://mobirise.com/\"></a><br><br></p>"
-        },
-        {
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff"
-            },
-            ".navbar-toggler": {
-              "color": "#ffffff"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
-            },
-            ".link, .dropdown-item": {
-              "color": "#ffffff"
-            },
-            ".link": {
-              "font-size": "0.75rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#3e295f"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#4e3477!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#553982"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#ffffff",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
-            },
-            ".innerEmail:hover, .innerPhone:hover": {
-              "color": "@primaryColor"
-            }
-          },
-          "alias": "mobirise3-blocks/components",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "extMenu1",
-          "_anchor": "extMenu1-b",
-          "_params": {
-            "logo": true,
-            "showBrand": true,
-            "hideButtons": true,
-            "sticky": true,
-            "collapsed": true,
-            "transparent": false,
-            "bgColor": "#553982",
-            "socialButtons": "1",
-            "fontSize": 0.75,
-            "fontName": {},
-            "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor"
-          },
-          "media1": {
-            "iconFont": {
-              "active": true,
-              "class": "fa",
-              "link": "https://mobirise.com",
-              "name": "phone",
-              "size": 0,
-              "color": "#ffffff",
-              "family": "FontAwesome"
-            }
-          },
-          "phone": "+56 32 342 3301",
-          "media2": {
-            "iconFont": {
-              "active": true,
-              "name": "mail",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#ffffff",
-              "family": "linecons"
-            }
-          },
-          "email": "contacto@espiralvina.cl",
-          "media3": {
-            "iconFont": {
-              "class": "",
-              "linkInNewWindow": false,
-              "name": "facebook",
-              "family": "socicon",
-              "active": true,
-              "link": "https://www.facebook.com/espiralrecursoseducativos",
-              "size": 0,
-              "color": "#ffffff",
-              "newWindow": true
-            }
-          },
-          "media4": {
-            "iconFont": {
-              "active": true,
-              "class": "",
-              "name": "twitter",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#ffffff",
-              "family": "socicon"
-            }
-          },
-          "media5": {
-            "iconFont": {
-              "active": true,
-              "class": "",
-              "name": "instagram",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#ffffff",
-              "family": "socicon"
-            }
-          },
-          "media6": {
-            "iconFont": {
-              "active": true,
-              "class": "",
-              "name": "behance",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#ffffff",
-              "family": "socicon"
-            }
-          },
-          "media7": {
-            "iconFont": {
-              "active": true,
-              "class": "",
-              "name": "pinterest",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#ffffff",
-              "family": "socicon"
-            }
-          },
-          "media8": {
-            "iconFont": {
-              "active": true,
-              "class": "",
-              "name": "skype",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#ffffff",
-              "family": "socicon"
-            }
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo01-140x128.png",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "index.html",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">espiral</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">INICIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"sobrenosotros.html\">SOBRE NOSOTROS</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"servicios.html\" aria-expanded=\"true\">SERVICIOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"servicios.html\">Apoyo  Educativo y Terapéutico</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"servicios.html\">Evaluación</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"servicios.html\">Autocuidado y bienestar</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contacto.html\">CONTACTO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
-        }
-      ]
-    },
-    "contacto.html": {
-      "settings": {
-        "title": "Contacto",
-        "meta_descr": "",
-        "header_custom": "",
-        "footer_custom": "",
-        "html_before": ""
-      },
-      "components": [
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-p",
-          "_params": {
-            "showMeta": true,
-            "paddingTop": "5",
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "title": "",
-          "meta": ""
-        },
-        {
-          "title2": "Visit our office",
-          "subTitle2": "Glad to meet new people",
-          "text2": "1234 Street Name </br> City AA 99999",
-          "alias": "mobirise3-blocks/components",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "extForm4",
-          "_styles": {
-            "H2": {
-              "color": "#27a8c7"
-            },
-            ".intro-box h5": {
-              "text-align": "center"
-            },
-            ".intro-box h4": {
-              "color": "#27a8c7"
-            },
-            ".intro-box h5 SPAN": {
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
-              "font-size": "17px",
-              "color": "#000000"
-            },
-            "P": {
-              "color": "#232323"
-            }
-          },
-          "_anchor": "extForm4-o",
-          "_params": {
-            "showTitle": true,
-            "showContacts": true,
-            "showSubtitle": true,
-            "showText": true,
-            "showForm": true,
-            "inverse": false,
-            "googleMap": {
-              "address": "calle ecuador 238, viña del mar, chile.",
-              "placeId": "EjlFY3VhZG9yIDIzOCwgVmnDsWEgZGVsIE1hciwgUmVnacOzbiBkZSBWYWxwYXJhw61zbywgQ2hpbGU",
-              "state": "ok",
-              "stateDetails": ""
-            },
-            "bgImageRadio": false,
-            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extForm1_bg.jpg",
-            "parallax": false,
-            "bgColorRadio": true,
-            "bgColor": "#fafafa",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+              "width": 1280,
+              "height": 720,
+              "url": "https://www.youtube.com/embed/kaIxRNFRO-Y?rel=0&amp;showinfo=0&autoplay=0&loop=0"
             },
             "overlay": true,
             "overlayColor": "#000",
-            "overlayOpacity": 0.1
+            "overlayOpacity": "0.7"
           },
-          "title": "Contáctanos",
-          "title1": "",
-          "subTitle1": "<span style=\"font-style: normal;\">Contacta con nosotros y atenderemos tus consultas rápidamente.</span><br><span style=\"font-style: normal;\">Atención de Lunes a Viernes de 11 a 18 hrs.</span>",
-          "text1": "Fono: +56 32 342 3301<br>Calle Ecuador #238, Viña del mar, Chile.",
+          "title": "AREVALO",
+          "text": "En Arevalo nos caracterizamos por nuestra eficiencia y seguridad,<br>contamos con &nbsp;profesionales de basta experiencia en el rubro.&nbsp;",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
+        },
+        {
+          "_styles": {
+            ".card-subtitle": {
+              "color": "#bcbcbc"
+            },
+            ".iconbox": {
+              "background-color": "#f2f2f2",
+              "border-color": "#f2f2f2"
+            },
+            "H4": {
+              "font-size": "18px",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "color": "#efefef"
+            },
+            "P": {
+              "color": "#ffffff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features4",
+          "_anchor": "features4-9",
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": true,
+            "showButtons": false,
+            "iconsBgColor": "#f2f2f2",
+            "paddingTop": "4",
+            "paddingBottom": "4",
+            "columns": "5",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/a-beautiful-view-939515-960-2000x1333.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": "0.7"
+          },
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "setting",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "index.html",
+              "size": 0,
+              "color": "black",
+              "newWindow": false
+            }
+          },
+          "title1": "REPARACIÓN",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Debemos redactar descripción breve del servicio...",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "protect",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "index.html",
+              "size": 0,
+              "color": "black",
+              "newWindow": false
+            }
+          },
+          "title2": "NORMALIZACIÓN Y<br>ACTUALIZACIÓN",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "Debemos redactar descripción breve del servicio...",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "refresh",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "index.html",
+              "size": 0,
+              "color": "black",
+              "newWindow": false
+            }
+          },
+          "title3": "REACONDICIONAMIENTO",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Debemos redactar descripción breve del servicio...",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media4": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "touch",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "index.html",
+              "size": 0,
+              "color": "black",
+              "newWindow": false
+            }
+          },
+          "title4": "CÁMARAS Y<br>CITOFONÍA",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Debemos redactar descripción breve del servicio...",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media5": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "question",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "index.html",
+              "size": 0,
+              "color": "black",
+              "newWindow": false
+            }
+          },
+          "title5": "ASESORÍA",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Debemos redactar descripción breve del servicio...",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "linegraph",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "black",
+              "family": "et-line"
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts3",
+          "_styles": {
+            "LI": {
+              "color": "#bcbcbc"
+            }
+          },
+          "_anchor": "contacts3-2",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "class": "card-img-top",
+              "width": 265
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
+              "linkInNewWindow": false,
+              "name": "globe-2",
+              "family": "MobiriseIcons",
+              "link": "",
+              "size": 0,
+              "active": true
+            }
+          },
+          "text1": "Servicios generales para ascensores.",
+          "media1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "phone",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text2": "+56 32 000 000",
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "map-pin",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text3": "Dirección oficina virtual",
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "envelope",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text4": "<p><a href=\"mailto:contacto@arevalo.cl\">contacto@arevalo.cl</a><a href=\"mailto:support@mobirise.com\"></a></p>",
+          "title1": "Servicios",
+          "text5": "<li>Reparación</li><li><a class=\"text-white\" href=\"#\">N</a>ormalización y actualización</li><li>Reacondicionamiento</li><li><a class=\"text-white\" href=\"#\">C</a>ámaras y citofonía</li><li><a class=\"text-white\" href=\"#\">A</a>sesoría</li>",
+          "text6": "",
           "form": {
-            "action": "c.jimenez@quintaidea.cl",
+            "title": "MESSAGE",
+            "action": "cjimenezgnz@gmail.com",
             "alerts": {
-              "success": "¡Gracias por contactarte!"
+              "success": "¡Gracias por contactarnos!"
             },
             "fields": {
               "name": {
                 "title": "Name",
-                "visible": true,
-                "customTitle": "Nombre*"
-              },
-              "phone": {
-                "title": "Phone",
-                "visible": true,
-                "customTitle": "Fono*"
+                "visible": false,
+                "customTitle": "Name*"
               },
               "email": {
                 "title": "Email",
                 "visible": true,
                 "customTitle": "Email*"
               },
+              "phone": {
+                "title": "Phone",
+                "visible": false,
+                "customTitle": "Phone"
+              },
               "message": {
                 "title": "Message",
-                "visible": true,
                 "customTitle": "Mensaje"
               }
             }
           },
-          "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">ENVIAR</a>"
-        },
-        {
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff"
-            },
-            ".navbar-toggler": {
-              "color": "#ffffff"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
-            },
-            ".link, .dropdown-item": {
-              "color": "#ffffff"
-            },
-            ".link": {
-              "font-size": "0.75rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#3f234f"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#532e67!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#5b3372"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#ffffff",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
-            },
-            ".innerEmail:hover, .innerPhone:hover": {
-              "color": "@primaryColor"
-            }
-          },
-          "alias": "mobirise3-blocks/components",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "extMenu1",
-          "_anchor": "extMenu1-k",
-          "_params": {
-            "logo": true,
-            "showBrand": true,
-            "hideButtons": true,
-            "sticky": true,
-            "collapsed": true,
-            "transparent": false,
-            "bgColor": "#553982",
-            "socialButtons": "1",
-            "fontSize": 0.75,
-            "fontName": {},
-            "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor"
-          },
-          "media1": {
-            "iconFont": {
-              "active": true,
-              "class": "fa",
-              "link": "https://mobirise.com",
-              "name": "phone",
-              "size": 0,
-              "color": "#ffffff",
-              "family": "FontAwesome"
-            }
-          },
-          "phone": "+56 32 342 3301",
-          "media2": {
-            "iconFont": {
-              "active": true,
-              "name": "mail",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#ffffff",
-              "family": "linecons"
-            }
-          },
-          "email": "contacto@espiralvina.cl",
-          "media3": {
-            "iconFont": {
-              "class": "",
-              "linkInNewWindow": false,
-              "name": "facebook",
-              "family": "socicon",
-              "active": true,
-              "link": "https://www.facebook.com/espiralrecursoseducativos",
-              "size": 0,
-              "color": "#ffffff",
-              "newWindow": true
-            }
-          },
-          "media4": {
-            "iconFont": {
-              "active": true,
-              "class": "",
-              "name": "twitter",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#ffffff",
-              "family": "socicon"
-            }
-          },
-          "media5": {
-            "iconFont": {
-              "active": true,
-              "class": "",
-              "name": "instagram",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#ffffff",
-              "family": "socicon"
-            }
-          },
-          "media6": {
-            "iconFont": {
-              "active": true,
-              "class": "",
-              "name": "behance",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#ffffff",
-              "family": "socicon"
-            }
-          },
-          "media7": {
-            "iconFont": {
-              "active": true,
-              "class": "",
-              "name": "pinterest",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#ffffff",
-              "family": "socicon"
-            }
-          },
-          "media8": {
-            "iconFont": {
-              "active": true,
-              "class": "",
-              "name": "skype",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#ffffff",
-              "family": "socicon"
-            }
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo01-140x128.png",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "index.html",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">espiral</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">INICIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"sobrenosotros.html\">SOBRE NOSOTROS</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"servicios.html\" aria-expanded=\"true\">SERVICIOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"servicios.html\">Apoyo  Educativo y Terapéutico</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"servicios.html\">Evaluación</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"servicios.html\">Autocuidado y bienestar</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contacto.html\">CONTACTO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "contacts1",
-          "_styles": {
-            "STRONG": {
-              "color": "#ffffff"
-            }
-          },
-          "_anchor": "contacts1-n",
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#553982",
-            "overlay": true,
-            "overlayColor": "#3C3C3C",
-            "overlayOpacity": 0.8
-          },
-          "logo": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo01-128x116.png",
-              "width": 128,
-              "active": true,
-              "link": "index.html",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-contacts1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "text1": "<strong>Dirección</strong><br>Calle Ecuador #238<br>Viña del mar, Chile.",
-          "text2": "<strong>Contáctanos</strong><br>\nEmail: contacto@espiralvina.cl<br>\nFono: +56 32 342 3301<br><br>",
-          "text3": "<p><strong>Links</strong><br>\n<a href=\"www.quintaidea.cl\" target=\"_blank\">Quinta Idea</a><a class=\"text-primary\" href=\"https://mobirise.com/\"></a><br><br></p>"
-        }
-      ]
-    },
-    "servicios.html": {
-      "settings": {
-        "title": "Servicios",
-        "meta_descr": "",
-        "header_custom": "",
-        "footer_custom": "",
-        "html_before": ""
-      },
-      "components": [
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            "H3": {
-              "color": "#27a8c7"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-y",
-          "_params": {
-            "showMeta": false,
-            "paddingTop": "7",
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "title": "Servicios y prestaciones",
-          "meta": "By John Smith posted July 20, 2016"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-r",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": "2",
-            "bgColor": "#fff"
-          },
-          "text": "<p>Concentramos nuestros servicios en tres grupos.</p><p>¿Tienes dudas sobre alguna prestación o sobre nuestros aracenles? Te invitamos a agendar una entrevista gratuita con nuestras coordinadoras.</p>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box5",
-          "_styles": {
-            "H3": {
-              "color": "#27a8c7",
-              "font-size": "20px"
-            }
-          },
-          "_anchor": "msg-box5-z",
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true,
-            "inverse": false,
-            "imageSize": "30",
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.5
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/mbr-1400x933.jpg",
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box5",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "&nbsp;Apoyo  Educativo y Terapéutico",
-          "text": "- Apoyo a personas con Trastorno del Espectro Autista.<br>- Apoyo a personas con Necesidades Educativas Especiales (Transitorias y Permanentes).<br>- Apoyo al Desarrollo Infantil..",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"servicios.html\" data-toolbar=\"-mbrBtnMove\">Leer más...</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box5",
-          "_styles": {
-            "H3": {
-              "color": "#27a8c7",
-              "font-size": "20px"
-            }
-          },
-          "_anchor": "msg-box5-10",
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true,
-            "inverse": false,
-            "imageSize": "30",
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.5
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/mbr-1400x935.jpg",
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box5",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "Evaluación",
-          "text": "- Evaluación Multidisciplinaria<br>(ADOS + Ev. psicológica, fonoaudiológica, del desarrollo psicomotor y perfil sensorial).<br>- Evaluación Integral del Desarrollo Psicomotor.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"servicios.html\" data-toolbar=\"-mbrBtnMove\">Leer más...</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box5",
-          "_styles": {
-            "H3": {
-              "color": "#27a8c7",
-              "font-size": "20px"
-            }
-          },
-          "_anchor": "msg-box5-11",
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true,
-            "inverse": false,
-            "imageSize": "30",
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.5
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/mbr-1400x1000.jpg",
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box5",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "Actividades de Bienestar y Autocuidado",
-          "text": "-Yoga Pre-natal..<br>-Yoga Infantil Inclusivo.<br>-Talleres y Charlas.<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"servicios.html\" data-toolbar=\"-mbrBtnMove\">Leer más...</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "contacts1",
-          "_styles": {
-            "STRONG": {
-              "color": "#ffffff"
-            }
-          },
-          "_anchor": "contacts1-v",
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#553982",
-            "overlay": true,
-            "overlayColor": "#3C3C3C",
-            "overlayOpacity": 0.8
-          },
-          "logo": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo01-128x116.png",
-              "width": 128,
-              "active": true,
-              "link": "index.html",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-contacts1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "text1": "<strong>Dirección</strong><br>Calle Ecuador #238<br>Viña del mar, Chile.",
-          "text2": "<strong>Contáctanos</strong><br>\nEmail: contacto@espiralvina.cl<br>\nFono: +56 32 342 3301<br><br>",
-          "text3": "<p><strong>Links</strong><br>\n<a href=\"www.quintaidea.cl\" target=\"_blank\">Quinta Idea</a><a class=\"text-primary\" href=\"https://mobirise.com/\"></a><br><br></p>"
-        },
-        {
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff"
-            },
-            ".navbar-toggler": {
-              "color": "#ffffff"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
-            },
-            ".link, .dropdown-item": {
-              "color": "#ffffff"
-            },
-            ".link": {
-              "font-size": "0.75rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#3e295f"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#4e3477!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#553982"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#ffffff",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
-            },
-            ".innerEmail:hover, .innerPhone:hover": {
-              "color": "@primaryColor"
-            }
-          },
-          "alias": "mobirise3-blocks/components",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "extMenu1",
-          "_anchor": "extMenu1-w",
-          "_params": {
-            "logo": true,
-            "showBrand": true,
-            "hideButtons": true,
-            "sticky": true,
-            "collapsed": true,
-            "transparent": false,
-            "bgColor": "#553982",
-            "socialButtons": "1",
-            "fontSize": 0.75,
-            "fontName": {},
-            "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor"
-          },
-          "media1": {
-            "iconFont": {
-              "active": true,
-              "class": "fa",
-              "link": "https://mobirise.com",
-              "name": "phone",
-              "size": 0,
-              "color": "#ffffff",
-              "family": "FontAwesome"
-            }
-          },
-          "phone": "+56 32 342 3301",
-          "media2": {
-            "iconFont": {
-              "active": true,
-              "name": "mail",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#ffffff",
-              "family": "linecons"
-            }
-          },
-          "email": "contacto@espiralvina.cl",
-          "media3": {
-            "iconFont": {
-              "class": "",
-              "linkInNewWindow": false,
-              "name": "facebook",
-              "family": "socicon",
-              "active": true,
-              "link": "https://www.facebook.com/espiralrecursoseducativos",
-              "size": 0,
-              "color": "#ffffff",
-              "newWindow": true
-            }
-          },
-          "media4": {
-            "iconFont": {
-              "active": true,
-              "class": "",
-              "name": "twitter",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#ffffff",
-              "family": "socicon"
-            }
-          },
-          "media5": {
-            "iconFont": {
-              "active": true,
-              "class": "",
-              "name": "instagram",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#ffffff",
-              "family": "socicon"
-            }
-          },
-          "media6": {
-            "iconFont": {
-              "active": true,
-              "class": "",
-              "name": "behance",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#ffffff",
-              "family": "socicon"
-            }
-          },
-          "media7": {
-            "iconFont": {
-              "active": true,
-              "class": "",
-              "name": "pinterest",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#ffffff",
-              "family": "socicon"
-            }
-          },
-          "media8": {
-            "iconFont": {
-              "active": true,
-              "class": "",
-              "name": "skype",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#ffffff",
-              "family": "socicon"
-            }
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo01-140x128.png",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "index.html",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">espiral</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">INICIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"sobrenosotros.html\">SOBRE NOSOTROS</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"servicios.html\" aria-expanded=\"true\">SERVICIOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"servicios.html\">Apoyo  Educativo y Terapéutico</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"servicios.html\">Evaluación</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"servicios.html\">Autocuidado y bienestar</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contacto.html\">CONTACTO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
-        }
-      ]
-    },
-    "usuario.html": {
-      "settings": {
-        "title": "Usuario",
-        "meta_descr": "Web Site Builder Description"
-      },
-      "components": [
-        {
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff"
-            },
-            ".navbar-toggler": {
-              "color": "#ffffff"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
-            },
-            ".link, .dropdown-item": {
-              "color": "#ffffff"
-            },
-            ".link": {
-              "font-size": "0.75rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#3e295f"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#4e3477!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#553982"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#ffffff",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
-            },
-            ".innerEmail:hover, .innerPhone:hover": {
-              "color": "@primaryColor"
-            }
-          },
-          "alias": "mobirise3-blocks/components",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "extMenu1",
-          "_anchor": "extMenu1-12",
-          "_params": {
-            "logo": true,
-            "showBrand": true,
-            "hideButtons": true,
-            "sticky": true,
-            "collapsed": true,
-            "transparent": false,
-            "bgColor": "#553982",
-            "socialButtons": "1",
-            "fontSize": 0.75,
-            "fontName": {},
-            "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor"
-          },
-          "media1": {
-            "iconFont": {
-              "active": true,
-              "class": "fa",
-              "link": "https://mobirise.com",
-              "name": "phone",
-              "size": 0,
-              "color": "#ffffff",
-              "family": "FontAwesome"
-            }
-          },
-          "phone": "+56 32 342 3301",
-          "media2": {
-            "iconFont": {
-              "active": true,
-              "name": "mail",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#ffffff",
-              "family": "linecons"
-            }
-          },
-          "email": "contacto@espiralvina.cl",
-          "media3": {
-            "iconFont": {
-              "class": "",
-              "linkInNewWindow": false,
-              "name": "facebook",
-              "family": "socicon",
-              "active": true,
-              "link": "https://www.facebook.com/espiralrecursoseducativos",
-              "size": 0,
-              "color": "#ffffff",
-              "newWindow": true
-            }
-          },
-          "media4": {
-            "iconFont": {
-              "active": true,
-              "class": "",
-              "name": "twitter",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#ffffff",
-              "family": "socicon"
-            }
-          },
-          "media5": {
-            "iconFont": {
-              "active": true,
-              "class": "",
-              "name": "instagram",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#ffffff",
-              "family": "socicon"
-            }
-          },
-          "media6": {
-            "iconFont": {
-              "active": true,
-              "class": "",
-              "name": "behance",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#ffffff",
-              "family": "socicon"
-            }
-          },
-          "media7": {
-            "iconFont": {
-              "active": true,
-              "class": "",
-              "name": "pinterest",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#ffffff",
-              "family": "socicon"
-            }
-          },
-          "media8": {
-            "iconFont": {
-              "active": true,
-              "class": "",
-              "name": "skype",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#ffffff",
-              "family": "socicon"
-            }
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo01-140x128.png",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "index.html",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">espiral</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">INICIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"sobrenosotros.html\">SOBRE NOSOTROS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"servicios.html\" aria-expanded=\"false\">SERVICIOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"servicios.html\">Apoyo  Educativo y Terapéutico</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"servicios.html\">Evaluación</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"servicios.html\">Autocuidado y bienestar</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"usuario.html\">USUARIOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contacto.html\">CONTACTO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "contacts1",
-          "_styles": {
-            "STRONG": {
-              "color": "#ffffff"
-            }
-          },
-          "_anchor": "contacts1-13",
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#553982",
-            "overlay": true,
-            "overlayColor": "#3C3C3C",
-            "overlayOpacity": 0.8
-          },
-          "logo": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo01-128x116.png",
-              "width": 128,
-              "active": true,
-              "link": "index.html",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-contacts1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "text1": "<strong>Dirección</strong><br>Calle Ecuador #238<br>Viña del mar, Chile.",
-          "text2": "<strong>Contáctanos</strong><br>\nEmail: contacto@espiralvina.cl<br>\nFono: +56 32 342 3301<br><br>",
-          "text3": "<p><strong>Links</strong><br>\n<a href=\"www.quintaidea.cl\" target=\"_blank\">Quinta Idea</a><a class=\"text-primary\" href=\"https://mobirise.com/\"></a><br><br></p>"
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Enviar</a>"
         }
       ]
     }
