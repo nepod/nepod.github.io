@@ -21,7 +21,9 @@
         "isRtl": false
       },
       "additionalSetColors": [
-        "#304269"
+        "#304269",
+        "#90bed4",
+        "#d9e8f5"
       ]
     },
     "favicon": "",
@@ -150,11 +152,13 @@
           "_styles": {
             ".mbr-section-lead": {
               "font-family": "'Roboto', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "color": "#d9e8f5"
             },
             ".mbr-section-title": {
               "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "color": "#d9e8f5"
             }
           },
           "_anchor": "header4-7",
@@ -176,8 +180,8 @@
               "url": "https://www.youtube.com/embed/kaIxRNFRO-Y?rel=0&amp;showinfo=0&autoplay=0&loop=0"
             },
             "overlay": true,
-            "overlayColor": "#000",
-            "overlayOpacity": "0.7"
+            "overlayColor": "#304269",
+            "overlayOpacity": "0.6"
           },
           "title": "FIXLIFT",
           "text": "En FIXLIFT nos caracterizamos por nuestra eficiencia y seguridad,<br>contamos con &nbsp;profesionales con más de 20 años de experiencia en el rubro.&nbsp;",
