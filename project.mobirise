@@ -56,8 +56,8 @@
             },
             ".navbar-caption": {
               "color": "#ffffff",
-              "font-family": "'Roboto', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
               "font-size": "18px"
             },
             ".navbar-toggler": {
@@ -151,6 +151,10 @@
             ".mbr-section-lead": {
               "font-family": "'Roboto', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            },
+            ".mbr-section-title": {
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             }
           },
           "_anchor": "header4-7",
@@ -175,8 +179,8 @@
             "overlayColor": "#000",
             "overlayOpacity": "0.7"
           },
-          "title": "AREVALO",
-          "text": "En Arevalo nos caracterizamos por nuestra eficiencia y seguridad,<br>contamos con &nbsp;profesionales de basta experiencia en el rubro.&nbsp;",
+          "title": "FIXLIFT",
+          "text": "En FIXLIFT nos caracterizamos por nuestra eficiencia y seguridad,<br>contamos con &nbsp;profesionales con más de 20 años de experiencia en el rubro.&nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
         },
         {
