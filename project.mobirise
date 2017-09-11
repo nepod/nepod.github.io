@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Arevalo",
-    "currentPage": "page3.html",
+    "currentPage": "page4.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -1388,7 +1388,7 @@
           },
           "title": "Listado de empresas certificadas",
           "text": "Somos &nbsp;Zuga Escaleras Mecánicas y Ascensores SpA en la Quinta Región.",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.google.cl/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=2&amp;ved=0ahUKEwjSl6qD_53WAhWMFpAKHXP_Dy4QFggrMAE&amp;url=http%3A%2F%2Fwww.minvu.cl%2Fincjs%2Fdownload.aspx%3Fglb_cod_nodo%3D20170112101307%26hdd_nom_archivo%3DNOMINA-INSCRITOS-ASCENSORES-AL-02-05-2017.pdf&amp;usg=AFQjCNEiDDFnu7zL_cC4UBSHdC0elc86pA\" data-toolbar=\"-mbrBtnMove\">Descargar nómina MINVU</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.google.cl/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=2&amp;ved=0ahUKEwjSl6qD_53WAhWMFpAKHXP_Dy4QFggrMAE&amp;url=http%3A%2F%2Fwww.minvu.cl%2Fincjs%2Fdownload.aspx%3Fglb_cod_nodo%3D20170112101307%26hdd_nom_archivo%3DNOMINA-INSCRITOS-ASCENSORES-AL-02-05-2017.pdf&amp;usg=AFQjCNEiDDFnu7zL_cC4UBSHdC0elc86pA\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Descargar nómina MINVU</a>",
           "_tags": [
             "Theme"
           ],
