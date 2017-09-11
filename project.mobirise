@@ -198,8 +198,8 @@
             },
             "H4": {
               "font-size": "18px",
-              "font-family": "'Roboto', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
               "color": "#efefef"
             },
             "P": {
