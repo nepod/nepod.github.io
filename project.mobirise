@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Arevalo",
-    "currentPage": "page3.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -249,7 +249,7 @@
           },
           "title1": "REPARACIÓN",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Reparación de ascensores y montacargas.",
+          "caption1": "Reparación de ascensores y montacargas.<br><br><br><br>",
           "button1": "<a data-app-btn=\"true\" href=\"index.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Leer más...</a>",
           "media2": {
             "iconFont": {
@@ -266,7 +266,7 @@
           },
           "title2": "NORMALIZACIÓN&nbsp;",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "Intervenciones necesarias y exigidas por la normativa del MINVU y optar a una certificación.",
+          "caption2": "Intervenciones necesarias y exigidas por la normativa del MINVU y optar a una certificación.<br><br>",
           "button2": "<a data-app-btn=\"true\" href=\"index.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Leer más...</a>",
           "media3": {
             "iconFont": {
@@ -283,7 +283,7 @@
           },
           "title3": "ACTUALIZACIÓN",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "En el mundo moderno la electrónica avanza a pasos agigantados, y los equipos de elevación no son excepción. ",
+          "caption3": "En el mundo moderno la electrónica avanza a pasos agigantados, y los equipos de elevación no son excepción.<br><br> ",
           "button3": "<a data-app-btn=\"true\" href=\"index.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Leer más...</a>",
           "media4": {
             "iconFont": {
@@ -300,7 +300,7 @@
           },
           "title4": "REACONDICIONAMIENTO",
           "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Intervenciones para cambiar estéticamente la cabina y accesorios.",
+          "caption4": "Intervenciones para cambiar estéticamente la cabina y accesorios.<br><br><br>",
           "button4": "<a data-app-btn=\"true\" href=\"index.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Leer más...</a>",
           "media5": {
             "iconFont": {
