@@ -203,38 +203,22 @@
             "bgImage": "images/bg3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#f0f0f0",
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "text": "FOLLOW US",
-          "icons": "<a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-twitter\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-facebook\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-googleplus\" title=\"Google+\" target=\"_blank\" href=\"index.html\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-googleplus\"></i></a>        ",
-          "_tags": [
-            "Tema"
-          ],
-          "_name": "social-buttons2",
-          "_anchor": "social-buttons2-1"
-        },
-        {
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
             "bgColor": "#444444",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2015 Company Name. <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Privacy Policy</a>",
+          "text": "© 2018 por Bathory / Avda. Los Carrera 54, Quilpué / Teléfono: (56) 32 21 234 567<br>",
           "_tags": [
             "Tema"
           ],
           "_name": "footer1",
-          "_anchor": "footer1-2"
+          "_anchor": "footer1-2",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          }
         }
       ]
     }
