@@ -106,7 +106,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "#ffffff!important"
             }
           },
           "logo": {
@@ -213,91 +213,14 @@
         },
         {
           "_params": {
-            "showTitle": true,
-            "showSubtitle": false,
-            "showImages": true,
-            "showName": true,
-            "showBio": true,
-            "count": 3,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/landscape2.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "TESTIMONIOS",
-          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
-          "testimonial": [
-            {
-              "authorName": "Daniela G.",
-              "authorBio": "Remodelación oficina",
-              "text": "<p>“Excelente calidad en el trabajo terminado.”</p>",
-              "media": {
-                "image": {
-                  "src": "@PROJECT_PATH@/assets/images/face3.jpg",
-                  "class": "img-circle",
-                  "height": 160,
-                  "width": 160,
-                  "active": true
-                }
-              }
-            },
-            {
-              "authorName": "Matías L.",
-              "authorBio": "Terraza",
-              "text": "<p>“Tenía un desastre y lograron darme una solución en corto plazo.”</p>",
-              "media": {
-                "image": {
-                  "src": "@PROJECT_PATH@/assets/images/mbr-1-160x90.jpg",
-                  "class": "img-circle",
-                  "height": 160,
-                  "width": 160,
-                  "active": true,
-                  "link": "",
-                  "alt": "",
-                  "title": ""
-                }
-              }
-            },
-            {
-              "authorName": "Amanda Q.",
-              "authorBio": "Casa de Verano",
-              "text": "<p>“Lograron materializar mi idea.”</p>",
-              "media": {
-                "image": {
-                  "src": "@PROJECT_PATH@/assets/images/mbr-160x107.jpg",
-                  "class": "img-circle",
-                  "height": 160,
-                  "width": 160,
-                  "active": true,
-                  "link": "",
-                  "alt": "",
-                  "title": ""
-                }
-              }
-            }
-          ],
-          "_tags": [
-            "Tema"
-          ],
-          "_name": "testimonials1",
-          "_anchor": "testimonials1-3"
-        },
-        {
-          "_params": {
             "showImages": true,
             "showTitles": true,
             "showSubtitles": false,
             "ShowTexts": false,
             "showButtons": false,
             "columnsColor": "#216d05",
-            "paddingTop": "3",
-            "paddingBottom": 2,
+            "paddingTop": "4",
+            "paddingBottom": "4",
             "columns": "6",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -394,6 +317,83 @@
               "background-color": "#216d05"
             }
           }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showSubtitle": false,
+            "showImages": true,
+            "showName": true,
+            "showBio": true,
+            "count": 3,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/landscape2.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "TESTIMONIOS",
+          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
+          "testimonial": [
+            {
+              "authorName": "Daniela G.",
+              "authorBio": "Remodelación oficina",
+              "text": "<p>“Excelente calidad en el trabajo terminado.”</p>",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/face3.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              }
+            },
+            {
+              "authorName": "Matías L.",
+              "authorBio": "Terraza",
+              "text": "<p>“Tenía un desastre y lograron darme una solución en corto plazo.”</p>",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/mbr-1-160x90.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": ""
+                }
+              }
+            },
+            {
+              "authorName": "Amanda Q.",
+              "authorBio": "Casa de Verano",
+              "text": "<p>“Lograron materializar mi idea.”</p>",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/mbr-160x107.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": ""
+                }
+              }
+            }
+          ],
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "testimonials1",
+          "_anchor": "testimonials1-3"
         },
         {
           "_params": {
