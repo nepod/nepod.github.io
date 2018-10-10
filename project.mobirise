@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "PANORAMA INTERIOR",
-    "currentPage": "KarachiSpice.html",
+    "currentPage": "gustitos.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -704,11 +704,11 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/spicy.jpg",
+              "src": "@PROJECT_PATH@/assets/images/spicy001.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "",
+              "link": "KarachiSpice.html",
               "alt": "",
               "title": ""
             }
