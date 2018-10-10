@@ -16,7 +16,7 @@
         "subtitleFont": "Lora",
         "textFont": "Raleway",
         "isRoundedButtons": false,
-        "isAnimatedOnScroll": false,
+        "isAnimatedOnScroll": true,
         "isScrollToTopButton": false,
         "isRtl": false
       },
@@ -28,7 +28,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.3",
     "siteFonts": [],
-    "uniqCompNum": 14,
+    "uniqCompNum": 12,
     "versionPublish": "4.8.3",
     "screenshot": "screenshot.png",
     "favicon": "",
@@ -261,12 +261,12 @@
           },
           "_params": {
             "showTitle": true,
-            "showText": true,
+            "showText": false,
             "showButton": false,
             "paddingTop": "4",
             "paddingBottom": "2",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/desert.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/inicio.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -279,7 +279,7 @@
             "overlayOpacity": 0.5
           },
           "title": "PANORAMA INTERIOR",
-          "text": "<p><i>\"Somos los que... \"</i></p>",
+          "text": "",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_tags": [
             "Tema"
@@ -293,7 +293,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>¿Qué es panorama interior?¿Quiénes lo componen?</p>",
+          "text": "Somos un medio de comunicación digital alternativo, pensado en rescatar y resaltar las bondades del Marga Marga.",
           "_tags": [
             "Tema"
           ],
@@ -303,8 +303,48 @@
             "P": {
               "font-family": "'Roboto', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            },
+            "DIV": {
+              "text-align": "center",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
             }
           }
+        },
+        {
+          "_inherit": "social-buttons1",
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "font-size": "19px",
+              "color": "#fbfd90"
+            }
+          },
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#e7221f",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5,
+            "facebook": true,
+            "twitter": true,
+            "google": true,
+            "vkontakte": false,
+            "odnoklassniki": false
+          },
+          "_tags": [
+            "Tema"
+          ],
+          "text": "Comparte",
+          "_name": "social-buttons3",
+          "_anchor": "social-buttons3-7"
         },
         {
           "_inherit": "menu",
@@ -638,41 +678,19 @@
           "_anchor": "ext_menu-k"
         },
         {
-          "_styles": {
-            ".mbr-iconfont-features4": {
-              "color": "undefined !important"
-            },
-            ".wraper": {
-              "border-color": "undefined !important"
-            },
-            ".card-number": {
-              "color": "@primaryColor"
-            },
-            ".card-subtitle": {
-              "font-family": "'Roboto', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
-            },
-            "H4": {
-              "font-family": "'Roboto', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
-            },
-            "H3": {
-              "font-family": "'Roboto', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
-              "font-size": "100px"
-            }
-          },
           "_params": {
+            "showTitle": true,
+            "showSubtitle": true,
             "showImages": true,
             "showTitles": true,
             "showSubtitles": true,
             "ShowTexts": true,
-            "showButtons": true,
+            "showIcons": false,
             "paddingTop": "3",
-            "paddingBottom": "2",
+            "paddingBottom": 2,
             "columns": "2",
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@-blocks/components/_images/img_extFeatures4_bg.jpg",
+            "bgImage": "@THEME_PATH@-blocks/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
             "bgColor": "#fff",
@@ -680,117 +698,374 @@
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": true,
+            "overlay": false,
             "overlayColor": "#222",
-            "overlayOpacity": 0.6,
-            "numbersColor": "@primaryColor"
+            "overlayOpacity": 0.5
           },
-          "title1": "Lee's Kitchen",
-          "subtitle1": "Comida Coreana",
-          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
-          "title2": "Karachi Spice",
-          "subtitle2": "Comida Pakistaní",
-          "caption2": "Mobirise themes are based on Bootstrap 3 and Bootstrap 4 - most powerful mobile first framework. Now, even if you're not code-savvy, you can be a part of an exciting growing bootstrap community.",
-          "title3": "Web Fonts",
-          "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
-          "title4": "Unlimited Sites",
-          "subtitle4": "Mobirise gives you the freedom",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
-          "button1": "<a data-app-btn=\"true\" href=\"leeskitchen.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Más...</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"gustitos.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Más...</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "number1": "01",
-          "number2": "02",
-          "number3": "03",
-          "number4": "04",
           "media1": {
             "image": {
+              "src": "@PROJECT_PATH@/assets/images/spicy.jpg",
+              "class": "card-img-top",
+              "width": 600,
               "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/lee.jpg",
               "link": "",
               "alt": "",
               "title": ""
-            },
-            "video": {
-              "src": "https://www.youtube.com/watch?v=Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-header2",
-              "link": "",
-              "size": 0
             }
           },
           "media2": {
             "image": {
+              "src": "@PROJECT_PATH@/assets/images/lee.jpg",
+              "class": "card-img-top",
+              "width": 600,
               "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/spicy.jpg",
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "video": {
-              "src": "https://www.youtube.com/watch?v=Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-header2",
-              "link": "",
-              "size": 0
+              "link": "leeskitchen.html",
+              "alt": "Lee's Kitchen",
+              "title": "Lee's Kitchen",
+              "linkInNewWindow": false
             }
           },
           "media3": {
             "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@THEME_PATH@-blocks/components/_images/img_extFeatures12_1.jpg"
-            },
-            "video": {
-              "active": false,
-              "src": "https://www.youtube.com/watch?v=Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-header2",
-              "link": "",
-              "size": 0
+              "src": "@THEME_PATH@-blocks/components/_images/person-apple-laptop-notebook.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
             }
           },
           "media4": {
             "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@THEME_PATH@-blocks/components/_images/img_extFeatures12_2.jpg"
-            },
-            "video": {
-              "active": false,
-              "src": "https://www.youtube.com/watch?v=Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
+              "src": "@THEME_PATH@-blocks/components/_images/macbook-apple-imac-computer.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@-blocks/components/_images/woman-typing-writing-windows.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@-blocks/components/_images/coffee-apple-iphone-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title": "Gustitos",
+          "subtitle": "<span style=\"font-style: normal;\">Está lleno de rinconcitos que te sorprenderan, te harán volver y recomendarás.</span><br><span style=\"font-style: normal;\">¡No sólo de completos vive el hombre!</span>",
+          "title1": "Karachi Spice",
+          "subtitle1": "Comida Pakistaní",
+          "caption1": "Restaurant de comida pakistaní que tiene una interesante carta, menús de lunes a viernes a un precio que te encantarán y una atención de maravilla.<br>Todo en un rinconcito de Quilpué.",
+          "title2": "Lee's Kitchen",
+          "subtitle2": "Comida Coreana y BBQ Coreana",
+          "caption2": "Desconocida alternativa cerca del terminal de buses de Quilpué, te contamos nuestra experiencia con la Barbacoa Coreana.",
+          "title3": "Web Fonts",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "media1_1": {
             "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-header2",
-              "link": "",
-              "size": 0
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "dribbble",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media1_2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "lastfm",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media1_3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "skype",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media1_4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "linkedin",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media2_1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "dribbble",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media2_2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "lastfm",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media2_3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "skype",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media2_4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "linkedin",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media3_1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "dribbble",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media3_2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "lastfm",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media3_3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "skype",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media3_4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "linkedin",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media4_1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "dribbble",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media4_2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "lastfm",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media4_3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "skype",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media4_4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "linkedin",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media5_1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "dribbble",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media5_2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "lastfm",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media5_3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "skype",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media5_4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "linkedin",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media6_1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "dribbble",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media6_2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "lastfm",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media6_3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "skype",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media6_4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "linkedin",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
             }
           },
           "alias": "mobirise3-blocks/components",
           "_tags": [
             "Extensión"
           ],
-          "_name": "extFeatures12",
-          "_anchor": "extFeatures12-c"
+          "_name": "extFeatures7",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            },
+            ".mbr-section-subtitle": {
+              "text-align": "center",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            },
+            ".mbr-section-subtitle SPAN": {
+              "color": "#000000"
+            },
+            "H5": {
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "color": "#000000"
+            }
+          },
+          "_anchor": "extFeatures7-b"
         },
         {
           "_inherit": "social-buttons1",
@@ -929,7 +1204,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#fbfd90!important"
+              "color": "#e7221f!important"
             }
           },
           "logo": {
@@ -949,6 +1224,426 @@
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Panorama Interior</a>",
           "_name": "ext.menu",
           "_anchor": "ext_menu-m"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showSubtitle": true,
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showIcons": false,
+            "paddingTop": "3",
+            "paddingBottom": 2,
+            "columns": "2",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@-blocks/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/musica.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "Pavez y Los Inseguros",
+              "title": "Pavez y Los Inseguros"
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/coffee-apple-iphone-desk.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@THEME_PATH@-blocks/components/_images/person-apple-laptop-notebook.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@THEME_PATH@-blocks/components/_images/macbook-apple-imac-computer.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@-blocks/components/_images/woman-typing-writing-windows.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@-blocks/components/_images/coffee-apple-iphone-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title": "SONIDOS",
+          "subtitle": "<span style=\"font-style: normal;\">Encontraras reseñas y disfusión musical del Marga Marga, festivales, bandas y tocatas.</span>",
+          "title1": "Pavez y Los Inseguros",
+          "subtitle1": "en Trotamundos Terraza",
+          "caption1": "",
+          "title2": "Responsive",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "title3": "Web Fonts",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "media1_1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "dribbble",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media1_2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "lastfm",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media1_3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "skype",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media1_4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "linkedin",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media2_1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "dribbble",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media2_2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "lastfm",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media2_3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "skype",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media2_4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "linkedin",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media3_1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "dribbble",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media3_2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "lastfm",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media3_3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "skype",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media3_4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "linkedin",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media4_1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "dribbble",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media4_2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "lastfm",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media4_3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "skype",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media4_4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "linkedin",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media5_1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "dribbble",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media5_2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "lastfm",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media5_3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "skype",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media5_4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "linkedin",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media6_1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "dribbble",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media6_2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "lastfm",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media6_3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "skype",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media6_4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "linkedin",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extensión"
+          ],
+          "_name": "extFeatures7",
+          "_anchor": "extFeatures7-9",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            },
+            ".mbr-section-subtitle": {
+              "text-align": "center",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            },
+            ".mbr-section-subtitle SPAN": {
+              "color": "#000000"
+            },
+            "H5": {
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            }
+          }
+        },
+        {
+          "_inherit": "social-buttons1",
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "font-size": "19px",
+              "color": "#fbfd90"
+            }
+          },
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#e7221f",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5,
+            "facebook": true,
+            "twitter": true,
+            "google": true,
+            "vkontakte": false,
+            "odnoklassniki": false
+          },
+          "_tags": [
+            "Tema"
+          ],
+          "text": "Comparte",
+          "_name": "social-buttons3",
+          "_anchor": "social-buttons3-8"
         },
         {
           "_params": {

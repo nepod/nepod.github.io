@@ -748,6 +748,7 @@ h6,
 
 
 
+
 #msg-box8-w .mbr-section-title,
 #msg-box8-w p {
   color: #fff;
@@ -760,6 +761,18 @@ h6,
 }
 #content1-x P {
   font-family: 'Roboto', sans-serif;
+}
+#content1-x DIV {
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+}
+#social-buttons3-7 .mbr-section-title,
+#social-buttons3-7 .btn-social {
+  color: #fff;
+}
+#social-buttons3-7 .mbr-section-title {
+  font-size: 19px;
+  color: #fbfd90;
 }
 #ext_menu-b .hide-buttons .nav-btn {
   display: none !important;
@@ -955,24 +968,19 @@ h6,
 #ext_menu-k .dropdown-item[aria-expanded="true"] {
   color: #e7221f!important;
 }
-#extFeatures12-c .mbr-iconfont-features4 {
-  color: undefined !important;
-}
-#extFeatures12-c .wraper {
-  border-color: undefined !important;
-}
-#extFeatures12-c .card-number {
-  color: #e7221f;
-}
-#extFeatures12-c .card-subtitle {
+#extFeatures7-b .mbr-section-title {
   font-family: 'Roboto', sans-serif;
 }
-#extFeatures12-c H4 {
+#extFeatures7-b .mbr-section-subtitle {
+  text-align: center;
   font-family: 'Roboto', sans-serif;
 }
-#extFeatures12-c H3 {
+#extFeatures7-b .mbr-section-subtitle SPAN {
+  color: #000000;
+}
+#extFeatures7-b H5 {
   font-family: 'Roboto', sans-serif;
-  font-size: 100px;
+  color: #000000;
 }
 #social-buttons3-b .mbr-section-title,
 #social-buttons3-b .btn-social {
@@ -986,6 +994,9 @@ h6,
   color: #fbfd90;
   font-size: 14px;
 }
+
+
+
 #ext_menu-m .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -1045,7 +1056,28 @@ h6,
 }
 #ext_menu-m .link[aria-expanded="true"],
 #ext_menu-m .dropdown-item[aria-expanded="true"] {
-  color: #fbfd90!important;
+  color: #e7221f!important;
+}
+#extFeatures7-9 .mbr-section-title {
+  font-family: 'Roboto', sans-serif;
+}
+#extFeatures7-9 .mbr-section-subtitle {
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+}
+#extFeatures7-9 .mbr-section-subtitle SPAN {
+  color: #000000;
+}
+#extFeatures7-9 H5 {
+  font-family: 'Roboto', sans-serif;
+}
+#social-buttons3-8 .mbr-section-title,
+#social-buttons3-8 .btn-social {
+  color: #fff;
+}
+#social-buttons3-8 .mbr-section-title {
+  font-size: 19px;
+  color: #fbfd90;
 }
 #footer1-n P {
   color: #fbfd90;
