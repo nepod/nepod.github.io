@@ -761,9 +761,10 @@ h6,
 #slider3-9 H2 {
   color: #ffffff;
   font-family: 'Roboto', sans-serif;
+  text-align: left;
 }
 #slider3-9 P {
-  text-align: right;
+  text-align: left;
   font-family: 'Roboto', sans-serif;
 }
 

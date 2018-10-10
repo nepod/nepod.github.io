@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "PANORAMA INTERIOR",
-    "currentPage": "gustitos.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -165,7 +165,7 @@
             "paddingTop": "1",
             "paddingBottom": "0",
             "showBullets": true,
-            "bgColor": "#fff",
+            "bgColor": "#fbfd90",
             "timeout": 5,
             "slides": [
               {
@@ -179,7 +179,7 @@
                 "title": "PANORAMA INTERIOR",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "¿Qué es Panorama Interior?",
+                "text": "Medio de comunicación digital alternativo, pensado en rescatar y resaltar las bondades del Marga Marga.",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Revisar</a> "
               },
               {
@@ -193,7 +193,7 @@
                 "title": "PANORAMAS",
                 "overlay": true,
                 "contentAlign": "left",
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "text": "Te recomendamos lugares no tan conocidos del interior que pueden darte una muy grata sorpresa.&nbsp;<br>No hay que ir a Valpo para comer rico o disfrutar de buena música.",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Revisar</a> "
               },
               {
@@ -207,7 +207,7 @@
                 "title": "INFORMACIÓN",
                 "overlay": true,
                 "contentAlign": "right",
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "text": "ORGANIZACIONES SOCIALES • PERCEPCIONES • PATRIMONIO",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"informaciones.html\" data-toolbar=\"-mbrBtnMove\">Revisar</a> ",
                 "overlayOpacity": "0.4",
                 "overlayColor": "#000000"
@@ -224,10 +224,11 @@
             "H2": {
               "color": "#ffffff",
               "font-family": "'Roboto', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "text-align": "left"
             },
             "P": {
-              "text-align": "right",
+              "text-align": "left",
               "font-family": "'Roboto', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
             }
