@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "PANORAMA INTERIOR",
-    "currentPage": "index.html",
+    "currentPage": "contacto.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -2447,7 +2447,7 @@
             "inverse": false,
             "showArrow": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/musica.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr.jpg",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#2e2e2e",
@@ -2466,13 +2466,13 @@
           "form": {
             "action": "cjimenezgnz@gmail.com",
             "alerts": {
-              "success": "Thanks for filling out form!"
+              "success": "¡Gracias por contactarnos!"
             },
             "fields": {
               "name": {
                 "visible": true,
                 "title": "Name",
-                "customTitle": "Name*"
+                "customTitle": "Nombre*"
               },
               "email": {
                 "visible": true,
@@ -2480,14 +2480,14 @@
                 "customTitle": "Email*"
               },
               "phone": {
-                "visible": true,
+                "visible": false,
                 "title": "Phone",
                 "customTitle": "Phone*"
               },
               "message": {
                 "visible": true,
                 "title": "Message",
-                "customTitle": "Message"
+                "customTitle": "Mensaje"
               }
             }
           },
