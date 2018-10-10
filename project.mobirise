@@ -2725,7 +2725,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "¿Donde puedes encontrarlos?",
+          "text": "<b>¿Donde puedes encontrarlos?</b>",
           "_tags": [
             "Tema"
           ],
@@ -2746,7 +2746,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>Dirección&nbsp;&nbsp;&nbsp;&nbsp;:</p><p>Facebook&nbsp;&nbsp;&nbsp;:&nbsp;</p><p>Teléfono&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:</p>",
+          "text": "<p>Dirección&nbsp;&nbsp;&nbsp;&nbsp;: &nbsp; &nbsp;Calle San Martin #805, Quilpué.</p><p>Facebook&nbsp;&nbsp;&nbsp;:&nbsp;&nbsp;&nbsp;&nbsp;https://www.facebook.com/leeskitchenchile/</p><p>Teléfono&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: &nbsp; &nbsp;+56<span style=\"font-size: 1.07rem;\">&nbsp;32 269 3157</span></p>",
           "_tags": [
             "Tema"
           ],
