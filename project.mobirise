@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "PANORAMA INTERIOR",
-    "currentPage": "gustitos.html",
+    "currentPage": "leeskitchen.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -28,7 +28,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.3",
     "siteFonts": [],
-    "uniqCompNum": 12,
+    "uniqCompNum": 13,
     "versionPublish": "4.8.3",
     "screenshot": "screenshot.png",
     "favicon": "",
@@ -758,7 +758,7 @@
             }
           },
           "title": "Gustitos",
-          "subtitle": "<span style=\"font-style: normal;\">Está lleno de rinconcitos que te sorprenderan, te harán volver y recomendarás.</span><br><span style=\"font-style: normal;\">¡No sólo de completos vive el hombre!</span>",
+          "subtitle": "<span style=\"font-style: normal;\">Está lleno de rinconcitos que te sorprenderan, te harán volver y los recomendarás.</span><br><span style=\"font-style: normal;\">¡No sólo de completos vive el hombre!</span>",
           "title1": "Karachi Spice",
           "subtitle1": "Comida Pakistaní",
           "caption1": "Restaurant de comida pakistaní que tiene una interesante carta, menús de lunes a viernes a un precio que te encantarán y una atención de maravilla.<br>Todo en un rinconcito de Quilpué.",
@@ -2607,7 +2607,7 @@
             "paddingTop": "4",
             "paddingBottom": "1",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/lee.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/lee004.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -2678,8 +2678,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/lee.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/lee-500x300.jpg",
+                "image": "@PROJECT_PATH@/assets/images/lee002-1.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/lee002-1-500x300.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -2690,24 +2690,24 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/lee.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/lee-500x300.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Responsive",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/lee.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/lee-500x300.jpg",
+                "image": "@PROJECT_PATH@/assets/images/lee003-1.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/lee003-1-500x300.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
                 "active": true
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/lee004.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/lee004-500x300.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
               }
             ]
           },
@@ -2739,6 +2739,27 @@
               "font-size": "18px"
             }
           }
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>Dirección&nbsp;&nbsp;&nbsp;&nbsp;:</p><p>Facebook&nbsp;&nbsp;&nbsp;:&nbsp;</p><p>Teléfono&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:</p>",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "DIV": {
+              "color": "#000000",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-size": "18px"
+            }
+          },
+          "_anchor": "content1-c"
         },
         {
           "_inherit": "social-buttons1",
