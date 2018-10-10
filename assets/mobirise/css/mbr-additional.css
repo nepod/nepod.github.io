@@ -1571,3 +1571,101 @@ h6,
   font-size: 19px;
   color: #fbfd90;
 }
+
+
+
+#ext_menu-d .hide-buttons .nav-btn {
+  display: none !important;
+}
+#ext_menu-d .navbar-caption {
+  color: #ffffff;
+}
+#ext_menu-d .navbar-toggler {
+  color: #fbfd90;
+}
+#ext_menu-d .close-icon::before,
+#ext_menu-d .close-icon::after {
+  background-color: #fbfd90;
+}
+#ext_menu-d .link,
+#ext_menu-d .dropdown-item {
+  color: #fbfd90;
+}
+#ext_menu-d .link {
+  font-size: 0.75rem;
+}
+#ext_menu-d .dropdown-item,
+#ext_menu-d .nav-dropdown-sm .link {
+  font-size: 0.812rem;
+}
+#ext_menu-d .link:hover,
+#ext_menu-d .dropdown-item:hover,
+#ext_menu-d .link:focus,
+#ext_menu-d .dropdown-item:focus {
+  color: #e7221f;
+}
+#ext_menu-d .link[aria-expanded="true"],
+#ext_menu-d .dropdown-menu {
+  background: #bf1714;
+}
+#ext_menu-d .nav-dropdown-sm .link:focus,
+#ext_menu-d .nav-dropdown-sm .link:hover,
+#ext_menu-d .nav-dropdown-sm .dropdown-item:focus,
+#ext_menu-d .nav-dropdown-sm .dropdown-item:hover {
+  background: #df1b18!important;
+}
+#ext_menu-d .navbar,
+#ext_menu-d .nav-dropdown-sm,
+#ext_menu-d .nav-dropdown-sm .link[aria-expanded="true"],
+#ext_menu-d .nav-dropdown-sm .dropdown-menu {
+  background: #e7221f;
+}
+#ext_menu-d .bg-color.transparent .link {
+  color: #fbfd90;
+  transition: none;
+}
+#ext_menu-d .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#ext_menu-d .bg-color.transparent.opened .link:hover,
+#ext_menu-d .bg-color.transparent.opened .link:focus {
+  color: #e7221f;
+}
+#ext_menu-d .link[aria-expanded="true"],
+#ext_menu-d .dropdown-item[aria-expanded="true"] {
+  color: #e7221f!important;
+}
+#footer1-e P {
+  color: #fbfd90;
+  font-size: 14px;
+}
+#msg-box8-f .mbr-section-title,
+#msg-box8-f p {
+  color: #fff;
+}
+#msg-box8-f .lead I {
+  color: #ffffff;
+}
+#content1-g P {
+  color: #000000;
+  font-family: 'Roboto', sans-serif;
+  font-size: 18px;
+}
+#content1-i DIV {
+  color: #000000;
+  font-family: 'Roboto', sans-serif;
+  font-size: 18px;
+}
+#content1-j DIV {
+  color: #000000;
+  font-family: 'Roboto', sans-serif;
+  font-size: 18px;
+}
+#social-buttons3-k .mbr-section-title,
+#social-buttons3-k .btn-social {
+  color: #fff;
+}
+#social-buttons3-k .mbr-section-title {
+  font-size: 19px;
+  color: #fbfd90;
+}

@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "PANORAMA INTERIOR",
-    "currentPage": "leeskitchen.html",
+    "currentPage": "KarachiSpice.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -28,7 +28,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.3",
     "siteFonts": [],
-    "uniqCompNum": 13,
+    "uniqCompNum": 21,
     "versionPublish": "4.8.3",
     "screenshot": "screenshot.png",
     "favicon": "",
@@ -1137,7 +1137,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 5
+        "order": 6
       },
       "components": [
         {
@@ -1680,7 +1680,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 6
+        "order": 7
       },
       "components": [
         {
@@ -1803,7 +1803,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 7
+        "order": 8
       },
       "components": [
         {
@@ -1926,7 +1926,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 8
+        "order": 9
       },
       "components": [
         {
@@ -2049,7 +2049,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 9
+        "order": 10
       },
       "components": [
         {
@@ -2172,7 +2172,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 10
+        "order": 11
       },
       "components": [
         {
@@ -2295,7 +2295,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 11
+        "order": 12
       },
       "components": [
         {
@@ -2602,7 +2602,7 @@
           },
           "_params": {
             "showTitle": true,
-            "showText": true,
+            "showText": false,
             "showButton": false,
             "paddingTop": "4",
             "paddingBottom": "1",
@@ -2662,6 +2662,18 @@
             "filter": false,
             "images": [
               {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/lee003-1.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/lee003-1-500x300.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
                 "tags": "Awesome",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
@@ -2684,18 +2696,6 @@
                 "title": "",
                 "caption": "Type caption here",
                 "active": false
-              },
-              {
-                "tags": "Responsive",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/lee003-1.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/lee003-1-500x300.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": true
               },
               {
                 "tags": "Responsive",
@@ -2795,6 +2795,334 @@
           "text": "Comparte",
           "_name": "social-buttons3",
           "_anchor": "social-buttons3-1a"
+        }
+      ]
+    },
+    "KarachiSpice.html": {
+      "settings": {
+        "title": "Karachi Spice",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 5
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": false,
+            "showBrand": false,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#e7221f",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#fbfd90",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">INICIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"panoramainterior.html\">PANORAMA INTERIOR</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page2.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">PANORAMAS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"gustitos.html\">Gustitos<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">Sonidos</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\" aria-expanded=\"false\">Aire libre</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page3.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">INFORMACIONES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Social</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\">Percepciones</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\">Patrimonio</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contacto.html\">CONTACTO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "_tags": [
+            "Tema"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#fbfd90"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#fbfd90"
+            },
+            ".link, .dropdown-item": {
+              "color": "#fbfd90"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#bf1714"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#df1b18!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#e7221f"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#fbfd90",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#e7221f!important"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Panorama Interior</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-d"
+        },
+        {
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#e7221f",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Panorama Interior 2018",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#fbfd90",
+              "font-size": "14px"
+            }
+          },
+          "_anchor": "footer1-e"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".lead I": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButton": false,
+            "paddingTop": "4",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/lee004.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Karachi Spice",
+          "text": "<i>por Carlangas</i>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-f"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#ffffff"
+          },
+          "text": "<p>Reseña</p>",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "color": "#000000",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-size": "18px"
+            }
+          },
+          "_anchor": "content1-g"
+        },
+        {
+          "_params": {
+            "showBullets": false,
+            "fullWidth": true,
+            "spacing": 0,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "filterBgColor": false,
+            "bgColor": "#FFFFFF",
+            "showText": false,
+            "filter": false,
+            "images": [
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/spicy001.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/spicy001-500x300.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/spicy002.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/spicy002-500x300.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/spicy003.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/spicy003-500x300.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/spicy004.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/spicy004-500x300.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ]
+          },
+          "articleLayout": false,
+          "allItem": "All",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "gallery1",
+          "_anchor": "gallery1-h"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<b>¿Donde puedes encontrarlos?</b>",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "DIV": {
+              "color": "#000000",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-size": "18px"
+            }
+          },
+          "_anchor": "content1-i"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>Dirección&nbsp;&nbsp;&nbsp;&nbsp;: &nbsp; &nbsp;Calle Chorrillos #791, Quilpué.</p><p>Facebook&nbsp;&nbsp;&nbsp;:&nbsp;&nbsp;&nbsp;&nbsp;https://www.facebook.com/saboraromaskarachispice/</p><p>Teléfono&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: &nbsp; &nbsp;+56<span style=\"font-size: 1.07rem;\">&nbsp;\n</span><span style=\"font-size: 1.07rem;\">32 291 6458</span></p>",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "DIV": {
+              "color": "#000000",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-size": "18px"
+            }
+          },
+          "_anchor": "content1-j"
+        },
+        {
+          "_inherit": "social-buttons1",
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "font-size": "19px",
+              "color": "#fbfd90"
+            }
+          },
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#e7221f",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5,
+            "facebook": true,
+            "twitter": true,
+            "google": true,
+            "vkontakte": false,
+            "odnoklassniki": false
+          },
+          "_tags": [
+            "Tema"
+          ],
+          "text": "Comparte",
+          "_name": "social-buttons3",
+          "_anchor": "social-buttons3-k"
         }
       ]
     }
