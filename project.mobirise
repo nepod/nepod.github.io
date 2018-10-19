@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "PANORAMA INTERIOR",
-    "currentPage": "KarachiSpice.html",
+    "currentPage": "leeskitchen.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -2786,7 +2786,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<b>¿Donde puedes encontrarlos?</b>",
+          "text": "<b>¿Dónde puedes encontrarlos?</b>",
           "_tags": [
             "Tema"
           ],
