@@ -3049,7 +3049,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>P<span style=\"font-size: 1.07rem;\">or </span><a href=\"https://www.instagram.com/nep0d/\" style=\"font-size: 1.07rem; background-color: rgb(255, 255, 255);\">@carlangas</a></p><p><br></p><p><br></p>",
+          "text": "<p><span style=\"font-size: 1.07rem;\">Reseña de&nbsp;</span><a href=\"https://www.instagram.com/nep0d/\" style=\"font-size: 1.07rem; background-color: rgb(255, 255, 255);\">@carlangas</a></p><p><br></p><p><br></p>",
           "_tags": [
             "Tema"
           ],
