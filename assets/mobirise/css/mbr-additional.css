@@ -1718,6 +1718,9 @@ h6,
   font-family: 'Roboto', sans-serif;
   font-size: 18px;
 }
+#content1-m P {
+  text-align: right;
+}
 #content1-i DIV {
   color: #000000;
   font-family: 'Roboto', sans-serif;
