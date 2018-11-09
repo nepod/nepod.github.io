@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "PANORAMA INTERIOR",
-    "currentPage": "KarachiSpice.html",
+    "currentPage": "palomaausente.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -16,7 +16,7 @@
         "subtitleFont": "Lora",
         "textFont": "Raleway",
         "isRoundedButtons": false,
-        "isAnimatedOnScroll": false,
+        "isAnimatedOnScroll": true,
         "isScrollToTopButton": false,
         "isRtl": false
       },
@@ -28,8 +28,8 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.3",
     "siteFonts": [],
-    "uniqCompNum": 23,
-    "versionPublish": "4.8.3",
+    "uniqCompNum": 33,
+    "versionPublish": "4.8.6",
     "screenshot": "screenshot.png",
     "favicon": "",
     "noImageResize": "true",
@@ -62,7 +62,7 @@
             "fontColor": "#fbfd90",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">INICIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"panoramainterior.html\">PANORAMA INTERIOR</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page2.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PANORAMAS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"gustitos.html\">Gustitos<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">Sonidos</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">Aire libre</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page3.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">INFORMACIONES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"soci.html\">Social</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">Percepciones</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">Patrimonio</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contacto.html\">CONTACTO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">INICIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"panoramainterior.html\">PANORAMA INTERIOR</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page2.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PANORAMAS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"gustitos.html\">Gustitos<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">Sonidos</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">Aire libre</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page3.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">INFORMACIONES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"soci.html\">Social</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">Percepciones</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">Patrimonio</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contacto.html\">CONTACTO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
           "_tags": [
             "Tema"
           ],
@@ -367,7 +367,7 @@
             "fontColor": "#fbfd90",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">INICIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"panoramainterior.html\">PANORAMA INTERIOR</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page2.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PANORAMAS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"gustitos.html\">Gustitos<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">Sonidos</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">Aire libre</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page3.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">INFORMACIONES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"soci.html\">Social</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">Percepciones</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">Patrimonio</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contacto.html\">CONTACTO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">INICIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"panoramainterior.html\">PANORAMA INTERIOR</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page2.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PANORAMAS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"gustitos.html\">Gustitos<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">Sonidos</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">Aire libre</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page3.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">INFORMACIONES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"soci.html\">Social</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">Percepciones</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">Patrimonio</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contacto.html\">CONTACTO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
           "_tags": [
             "Tema"
           ],
@@ -495,7 +495,7 @@
             "fontColor": "#fbfd90",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">INICIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"panoramainterior.html\">PANORAMA INTERIOR</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page2.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PANORAMAS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"gustitos.html\">Gustitos<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">Sonidos</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">Aire libre</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page3.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">INFORMACIONES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"soci.html\">Social</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">Percepciones</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">Patrimonio</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contacto.html\">CONTACTO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">INICIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"panoramainterior.html\">PANORAMA INTERIOR</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page2.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PANORAMAS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"gustitos.html\">Gustitos<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">Sonidos</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">Aire libre</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page3.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">INFORMACIONES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"soci.html\">Social</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">Percepciones</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">Patrimonio</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contacto.html\">CONTACTO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
           "_tags": [
             "Tema"
           ],
@@ -623,7 +623,7 @@
             "fontColor": "#fbfd90",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">INICIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"panoramainterior.html\">PANORAMA INTERIOR</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page2.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PANORAMAS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"gustitos.html\">Gustitos<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">Sonidos</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">Aire libre</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page3.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">INFORMACIONES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"soci.html\">Social</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">Percepciones</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">Patrimonio</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contacto.html\">CONTACTO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">INICIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"panoramainterior.html\">PANORAMA INTERIOR</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page2.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PANORAMAS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"gustitos.html\">Gustitos<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">Sonidos</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">Aire libre</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page3.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">INFORMACIONES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"soci.html\">Social</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">Percepciones</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">Patrimonio</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contacto.html\">CONTACTO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
           "_tags": [
             "Tema"
           ],
@@ -1176,7 +1176,7 @@
             "fontColor": "#fbfd90",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">INICIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"panoramainterior.html\">PANORAMA INTERIOR</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page2.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PANORAMAS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"gustitos.html\">Gustitos<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">Sonidos</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">Aire libre</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page3.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">INFORMACIONES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"soci.html\">Social</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">Percepciones</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">Patrimonio</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contacto.html\">CONTACTO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">INICIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"panoramainterior.html\">PANORAMA INTERIOR</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page2.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PANORAMAS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"gustitos.html\">Gustitos<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">Sonidos</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">Aire libre</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page3.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">INFORMACIONES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"soci.html\">Social</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">Percepciones</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">Patrimonio</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contacto.html\">CONTACTO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
           "_tags": [
             "Tema"
           ],
@@ -1724,7 +1724,7 @@
             "fontColor": "#fbfd90",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">INICIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"panoramainterior.html\">PANORAMA INTERIOR</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page2.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PANORAMAS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"gustitos.html\">Gustitos<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">Sonidos</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">Aire libre</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page3.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">INFORMACIONES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"soci.html\">Social</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">Percepciones</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">Patrimonio</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contacto.html\">CONTACTO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">INICIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"panoramainterior.html\">PANORAMA INTERIOR</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page2.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PANORAMAS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"gustitos.html\">Gustitos<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">Sonidos</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">Aire libre</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page3.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">INFORMACIONES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"soci.html\">Social</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">Percepciones</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">Patrimonio</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contacto.html\">CONTACTO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
           "_tags": [
             "Tema"
           ],
@@ -1852,7 +1852,7 @@
             "fontColor": "#fbfd90",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">INICIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"panoramainterior.html\">PANORAMA INTERIOR</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page2.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PANORAMAS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"gustitos.html\">Gustitos<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">Sonidos</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">Aire libre</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page3.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">INFORMACIONES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"soci.html\">Social</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">Percepciones</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">Patrimonio</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contacto.html\">CONTACTO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">INICIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"panoramainterior.html\">PANORAMA INTERIOR</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page2.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PANORAMAS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"gustitos.html\">Gustitos<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">Sonidos</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">Aire libre</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page3.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">INFORMACIONES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"soci.html\">Social</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">Percepciones</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">Patrimonio</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contacto.html\">CONTACTO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
           "_tags": [
             "Tema"
           ],
@@ -1980,7 +1980,7 @@
             "fontColor": "#fbfd90",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">INICIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"panoramainterior.html\">PANORAMA INTERIOR</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page2.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PANORAMAS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"gustitos.html\">Gustitos<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">Sonidos</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">Aire libre</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page3.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">INFORMACIONES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"soci.html\">Social</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">Percepciones</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">Patrimonio</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contacto.html\">CONTACTO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">INICIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"panoramainterior.html\">PANORAMA INTERIOR</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page2.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PANORAMAS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"gustitos.html\">Gustitos<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">Sonidos</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">Aire libre</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page3.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">INFORMACIONES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"soci.html\">Social</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">Percepciones</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">Patrimonio</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contacto.html\">CONTACTO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
           "_tags": [
             "Tema"
           ],
@@ -2094,6 +2094,46 @@
       },
       "components": [
         {
+          "_params": {
+            "showTitle": true,
+            "collapseAll": false,
+            "tabs": "2",
+            "paddingTop": "3",
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@-blocks/components/_images/img_extAccordion1_bg.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#151515",
+            "overlayOpacity": 0.5
+          },
+          "title": "PERCEPCIONES",
+          "title1": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion_28\" data-core=\"\" href=\"#collapseOne_28\" aria-expanded=\"false\" aria-controls=\"collapseOne\"><span class=\"sign\"></span>Las Hermanas De Shakespare</a>",
+          "title2": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion_28\" data-core=\"\" href=\"#collapseTwo_28\" aria-expanded=\"false\" aria-controls=\"collapseTwo\">Mauricio Tapia</a>",
+          "title3": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion\" data-core=\"\" href=\"#collapseThree\" aria-expanded=\"false\" aria-controls=\"collapseThree\">Why Mobirise?</a>",
+          "title4": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion\" data-core=\"\" href=\"#collapseFour\" aria-expanded=\"false\" aria-controls=\"collapseFour\">This is a accordion Title 4</a>",
+          "title5": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion\" data-core=\"\" href=\"#collapseFive\" aria-expanded=\"false\" aria-controls=\"collapseFive\">This is a accordion Title 5</a>",
+          "title6": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion\" data-core=\"\" href=\"#collapseSix\" aria-expanded=\"false\" aria-controls=\"collapseSix\">This is a accordion Title 6</a>",
+          "text1": "<a href=\"uncuartopropio.html\">Un Cuarto Propio</a><a href=\"uncuartopropio.html\"><br></a>",
+          "text2": "<p><a href=\"palomaauscente.html\">Paloma Ausente - La Pato Gallina</a></p><br><p><a href=\"radioheadenlaFiorino.html\">Radiohead en la Fiorino</a></p>",
+          "text3": "<p>Key differences from traditional builders:<br>* Minimalistic, extremely <strong>easy-to-use</strong> interface<br>* <strong>Mobile</strong>-friendliness, latest website blocks and techniques \"out-the-box\"<br>* <strong>Free</strong> for commercial and non-profit use</p>",
+          "text4": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Curabitur sit amet massa quam. In ut ex auctor, porta neque quis, sagittis purus. Nunc auctor gravida magna, sed efficitur tortor tristique quis.</p>",
+          "text5": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Curabitur sit amet massa quam. In ut ex auctor, porta neque quis, sagittis purus. Nunc auctor gravida magna, sed efficitur tortor tristique quis.</p>",
+          "text6": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Curabitur sit amet massa quam. In ut ex auctor, porta neque quis, sagittis purus. Nunc auctor gravida magna, sed efficitur tortor tristique quis.</p>",
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extensión"
+          ],
+          "_name": "extAccordion1",
+          "_anchor": "extAccordion1-k"
+        },
+        {
           "_inherit": "menu",
           "_params": {
             "logo": false,
@@ -2108,7 +2148,7 @@
             "fontColor": "#fbfd90",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">INICIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"panoramainterior.html\">PANORAMA INTERIOR</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page2.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PANORAMAS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"gustitos.html\">Gustitos<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">Sonidos</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">Aire libre</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page3.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">INFORMACIONES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"soci.html\">Social</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">Percepciones</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">Patrimonio</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contacto.html\">CONTACTO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">INICIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"panoramainterior.html\">PANORAMA INTERIOR</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page2.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PANORAMAS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"gustitos.html\">Gustitos<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">Sonidos</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">Aire libre</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page3.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">INFORMACIONES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"soci.html\">Social</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">Percepciones</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">Patrimonio</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contacto.html\">CONTACTO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
           "_tags": [
             "Tema"
           ],
@@ -2208,6 +2248,41 @@
             }
           },
           "_anchor": "footer1-t"
+        },
+        {
+          "_inherit": "social-buttons1",
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "font-size": "19px",
+              "color": "#fbfd90"
+            }
+          },
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#e7221f",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5,
+            "facebook": true,
+            "twitter": true,
+            "google": true,
+            "vkontakte": false,
+            "odnoklassniki": false
+          },
+          "_tags": [
+            "Tema"
+          ],
+          "text": "Comparte",
+          "_name": "social-buttons3",
+          "_anchor": "social-buttons3-n"
         }
       ]
     },
@@ -2218,7 +2293,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 13
+        "order": 16
       },
       "components": [
         {
@@ -2236,7 +2311,7 @@
             "fontColor": "#fbfd90",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">INICIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"panoramainterior.html\">PANORAMA INTERIOR</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page2.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PANORAMAS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"gustitos.html\">Gustitos<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">Sonidos</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">Aire libre</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page3.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">INFORMACIONES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"soci.html\">Social</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">Percepciones</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">Patrimonio</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contacto.html\">CONTACTO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">INICIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"panoramainterior.html\">PANORAMA INTERIOR</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page2.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PANORAMAS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"gustitos.html\">Gustitos<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">Sonidos</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">Aire libre</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page3.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">INFORMACIONES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"soci.html\">Social</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">Percepciones</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">Patrimonio</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contacto.html\">CONTACTO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
           "_tags": [
             "Tema"
           ],
@@ -2346,7 +2421,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 14
+        "order": 17
       },
       "components": [
         {
@@ -2364,7 +2439,7 @@
             "fontColor": "#fbfd90",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">INICIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"panoramainterior.html\">PANORAMA INTERIOR</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page2.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PANORAMAS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"gustitos.html\">Gustitos<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">Sonidos</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">Aire libre</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page3.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">INFORMACIONES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"soci.html\">Social</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">Percepciones</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">Patrimonio</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contacto.html\">CONTACTO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">INICIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"panoramainterior.html\">PANORAMA INTERIOR</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page2.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PANORAMAS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"gustitos.html\">Gustitos<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">Sonidos</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">Aire libre</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page3.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">INFORMACIONES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"soci.html\">Social</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">Percepciones</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">Patrimonio</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contacto.html\">CONTACTO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
           "_tags": [
             "Tema"
           ],
@@ -2551,7 +2626,7 @@
             "fontColor": "#fbfd90",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">INICIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"panoramainterior.html\">PANORAMA INTERIOR</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page2.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PANORAMAS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"gustitos.html\">Gustitos<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">Sonidos</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">Aire libre</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page3.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">INFORMACIONES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"soci.html\">Social</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">Percepciones</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">Patrimonio</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contacto.html\">CONTACTO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">INICIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"panoramainterior.html\">PANORAMA INTERIOR</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page2.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PANORAMAS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"gustitos.html\">Gustitos<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">Sonidos</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">Aire libre</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page3.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">INFORMACIONES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"soci.html\">Social</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">Percepciones</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">Patrimonio</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contacto.html\">CONTACTO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
           "_tags": [
             "Tema"
           ],
@@ -2884,7 +2959,7 @@
             "fontColor": "#fbfd90",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">INICIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"panoramainterior.html\">PANORAMA INTERIOR</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page2.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PANORAMAS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"gustitos.html\">Gustitos<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">Sonidos</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">Aire libre</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page3.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">INFORMACIONES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"soci.html\">Social</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">Percepciones</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">Patrimonio</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contacto.html\">CONTACTO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">INICIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"panoramainterior.html\">PANORAMA INTERIOR</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page2.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PANORAMAS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"gustitos.html\">Gustitos<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">Sonidos</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">Aire libre</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page3.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">INFORMACIONES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"soci.html\">Social</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">Percepciones</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">Patrimonio</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contacto.html\">CONTACTO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
           "_tags": [
             "Tema"
           ],
@@ -3235,7 +3310,7 @@
             "fontColor": "#fbfd90",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">INICIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"panoramainterior.html\">PANORAMA INTERIOR</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page2.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PANORAMAS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"gustitos.html\">Gustitos<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">Sonidos</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">Aire libre</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page3.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">INFORMACIONES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"soci.html\">Social</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">Percepciones</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">Patrimonio</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contacto.html\">CONTACTO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">INICIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"panoramainterior.html\">PANORAMA INTERIOR</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page2.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PANORAMAS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"gustitos.html\">Gustitos<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">Sonidos</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">Aire libre</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page3.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">INFORMACIONES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"soci.html\">Social</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">Percepciones</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">Patrimonio</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contacto.html\">CONTACTO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
           "_tags": [
             "Tema"
           ],
@@ -3789,7 +3864,7 @@
             "fontColor": "#fbfd90",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">INICIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"panoramainterior.html\">PANORAMA INTERIOR</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page2.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PANORAMAS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"gustitos.html\">Gustitos<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">Sonidos</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">Aire libre</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page3.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">INFORMACIONES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"soci.html\">Social</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">Percepciones</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">Patrimonio</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contacto.html\">CONTACTO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">INICIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"panoramainterior.html\">PANORAMA INTERIOR</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page2.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PANORAMAS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"gustitos.html\">Gustitos<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">Sonidos</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">Aire libre</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page3.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">INFORMACIONES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"soci.html\">Social</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">Percepciones</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">Patrimonio</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contacto.html\">CONTACTO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
           "_tags": [
             "Tema"
           ],
@@ -4113,6 +4188,699 @@
           "text": "Comparte",
           "_name": "social-buttons3",
           "_anchor": "social-buttons3-i"
+        }
+      ]
+    },
+    "uncuartopropio.html": {
+      "settings": {
+        "title": "Un Cuarto Propio",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 13
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": false,
+            "showBrand": false,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#e7221f",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#fbfd90",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">INICIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"panoramainterior.html\">PANORAMA INTERIOR</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page2.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PANORAMAS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"gustitos.html\">Gustitos<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">Sonidos</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">Aire libre</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page3.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">INFORMACIONES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"soci.html\">Social</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">Percepciones</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">Patrimonio</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contacto.html\">CONTACTO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "_tags": [
+            "Tema"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#fbfd90"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#fbfd90"
+            },
+            ".link, .dropdown-item": {
+              "color": "#fbfd90"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#bf1714"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#df1b18!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#e7221f"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#fbfd90",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#e7221f!important"
+            },
+            "A": {
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-size": "14px"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Panorama Interior</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-8"
+        },
+        {
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#e7221f",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Panorama Interior 2018",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#fbfd90",
+              "font-size": "14px"
+            }
+          },
+          "_anchor": "footer1-9"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".lead I": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButton": false,
+            "paddingTop": "4",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": "0.5"
+          },
+          "title": "<span style=\"font-weight: normal;\">Un cuarto propio</span>",
+          "text": "<i>por Carlangas</i>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-a"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote>\"Cuando uno lee de una bruja lanzada al agua, de una mujer poseída por el demonio, de una curandera que vende hierbas, y aún de la madre de un hombre célebre, pienso que estamos sobre los rastros de un novelista, de un poeta frustrado, o una Jane Austen silenciada y sin gloria, una Emily Brontë rompiéndose los sesos en el páramo, o recorriendo desolada los caminos, escindida por la tortura de su genio\" V. Woolf, 1929. Un cuarto propio.&nbsp;</blockquote>",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-h"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>Un cuarto propio, un espacio íntimo para hacer y deshacer a nuestro antojo, un espacio en donde hundirnos en el silencio máximo de la contemplación o bailar y cantar descalzas, como locas poseídas por espíritus psicotrópicos. Un espacio para crear, en donde de lo único que importa es tu ritmo y el de nadie más. \n</p><p>\n</p><p>Tener un cuarto propio, fue (y aún es) un derecho transformado en lujo. Negado sistemáticamente a las mujeres como expresión del patriarcado, se convirtió también en una lucha. Una lucha a la que la magistral Virginia Woolf aporto con este discurso \"novelado\" convertido en ensayo, publicado en 1929 y que intentaba dar luces sobre la relación que las mujeres tenían con la literatura. Por aquel entonces aún se creía que las mujeres eran débiles de mente y su título de \"escritora de renombre\", la convertía casi un animal fantástico.\n</p><p>&nbsp;\n</p><p>Entre bibliotecas y universidades mientras estudia meticulosamente para su ponencia, Virginia sostiene una serie de encuentros fantasmagóricos. Entre líneas laberínticas, ve a Judith. Judith, la hipotética hermana de William Shakespare.\n</p><p>&nbsp;\n</p><p>Judith y William compartían genes y ambiente, privilegiados para la época. Sus diferentes destinos son reflejo de las experiencias que se les permitió tener: William, aventurero y soñador, precoz en demostrar esa sensibilidad propia de artistas \"hombres iluminados\", nutridos por la lectura de los clásicos. Salió al mundo (o Londres como se le conocía en ese entonces) a ver que podía forjar con su genialidad. Fue bendecido y aplaudido por la familia mientras lo veían alejarse. \n</p><p>&nbsp;\n</p><p>Judith en cambio, por más impaciente, por más vivaz, por más creativa que fuera, tenía otro destino que atender. Inquieta e inteligente, era una gracia y no un requerimiento el que aprendiera a leer y escribir, pero esto le fue suficiente para que le crecieran las alas. A los 17 años el horror: La habían comprometido con el hijo del vecino, pelea con los padres y sale de su corazón adolescente la fuerza de mil lobas salvajes, terremoto que culmina con la muerte de la dulce niña y la salida apurada e improvisada al mundo de una mujer de fuego. Aterrizaje forzoso a la realidad: puertas en las narices en cada compañía de teatro a la que confiara su sueño de pajarillo volador. Y el fuego haciéndose cada vez más pequeño y el frío cada vez más grande. A la larga, una Judith vencida por las circunstancias, termina gestando al hijo de un hombre que le dio refugio y se cumple así su destino. Judith no soporta la visión y se suicida una noche de invierno, se suicida para ser libre del peso de haber nacido poeta en un cuerpo de mujer.  Laurel e inmortalidad para el hermano, tierra y olvido para la hermana.\n</p><p>&nbsp;\n</p><p>Judith es una hipótesis, pero las condiciones en la que vivieron ( y aún viven) millones de mujeres es una realidad bien documentada: Entre gestar y criar, barrer, cocinar, zurcir y rezar; se nos despojó de nuestros saberes ancestrales tildándolos de brujería, se asesinó a mujeres a destajo solo por saber atender un parto o aliviar el dolor de un moribundo, se nos negó la educación, se nos negó acceder a cualquier posición de liderazgo dentro de las comunidades, se nos negó el poder del discurso y de la organización, se nos negó el poder decidir sobre nuestro propio destino. ¿Y se preguntan por las grandes obras maestras del pasado, porque los importantes descubrimientos científicos, fueron solo realizadas por hombres? No podíamos crear a la par de los magníficos señores porque vivíamos en \"El Cuento de la Criada\" en todo su medieval y apestoso esplendor. Da rabia, da pena y da miedo.\n</p><p>&nbsp;\n</p><p>Pero Virginia no se queda en la rabia, nos hace salir a respirar: No todo son estrellas caídas y voces apagadas. Hay supernovas, hay brotes verdes en tierra fértil. Su ensayo no es una apología a las Judiths.  Porque sí, oh! sorpresa: Las mujeres hacemos algo más que quejarnos y llorar. Con una serenidad y disciplina que admiro, Virginia desecha la idea de hablar solamente desde la rabia y se refugia en la razón y la experiencia para revelarnos la solución comprobada para erradicar esta desdicha: Dennos un cuarto propio y verán lo granDIOSAS que podemos ser  \n</p><p>&nbsp;\n</p><p>\"Una mujer, necesita un salario y un cuarto propio para poder crear\": Una mujer necesita una cabaña para trabajar sus hierbas, una mujer necesita un escritorio para crear sus mundos, una mujer necesita un laboratorio para descubrir el mundo subatómico. Otro curioso punto en el que nos parecemos a los hombres. \n</p><p>&nbsp;\n</p><p>Después de leer este libro hace unos meses atrás, mi cabeza estaba por explotar: Que afortunadas somos compañeras, que afortunadas. Tenía y aún tengo sed de justicia: Varias mujeres han podido contar su historia, varias mujeres han podido realizar descubrimientos asombrosos, pero los referentes siguen siendo \"Ellos\". Aún hoy con la marea feminista actual, nos vemos en la necesidad de publicar compilados que hablan de las mujeres en la ciencia, en la historia, en las artes, y nos vemos en la necesidad de hacerlo porque nadie sabía que existían. Son compilaciones remediales, son capsulas para ponernos al día. \n</p><p>&nbsp;\n</p><p>Pero yo no quería cápsulas, quería zambullirme en experiencias completas: Desde mi fascinación por la lectura e inspirada por Virginia, por otra mujer cuyo nombre he olvidado, decido pasar un año entero leyendo solo mujeres novelistas y poetas, un encuentro cercano con las  brujas que dominaron la alquimia de las letras. \n</p><p>Esta columna visceral relata mis viajes y se escribe desde el palpitar de la útera emocionada por las creaciones de las maestras. Es testimonio y homenaje a todas las Judiths que existieron y que existen. Las magníficas y salvajes hermanas de Shakespare. \n</p><p>\n</p><p><br></p>",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-i",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            }
+          }
+        },
+        {
+          "_inherit": "social-buttons1",
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "font-size": "19px",
+              "color": "#fbfd90"
+            }
+          },
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#e7221f",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5,
+            "facebook": true,
+            "twitter": true,
+            "google": true,
+            "vkontakte": false,
+            "odnoklassniki": false
+          },
+          "_tags": [
+            "Tema"
+          ],
+          "text": "Comparte",
+          "_name": "social-buttons3",
+          "_anchor": "social-buttons3-g"
+        }
+      ]
+    },
+    "radioheadenlaFiorino.html": {
+      "settings": {
+        "title": "Radiohead en la Fiorino",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 14
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": false,
+            "showBrand": false,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#e7221f",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#fbfd90",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">INICIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"panoramainterior.html\">PANORAMA INTERIOR</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page2.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PANORAMAS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"gustitos.html\">Gustitos<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">Sonidos</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">Aire libre</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page3.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">INFORMACIONES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"soci.html\">Social</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">Percepciones</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">Patrimonio</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contacto.html\">CONTACTO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "_tags": [
+            "Tema"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#fbfd90"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#fbfd90"
+            },
+            ".link, .dropdown-item": {
+              "color": "#fbfd90"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#bf1714"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#df1b18!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#e7221f"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#fbfd90",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#e7221f!important"
+            },
+            "A": {
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-size": "14px"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Panorama Interior</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-l"
+        },
+        {
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#e7221f",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Panorama Interior 2018",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#fbfd90",
+              "font-size": "14px"
+            }
+          },
+          "_anchor": "footer1-m"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".lead I": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButton": false,
+            "paddingTop": "4",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-3.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": "0.5"
+          },
+          "title": "<span style=\"font-weight: normal;\">Radiohead en la Fiorino</span>",
+          "text": "<i>por Carlangas</i>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-n"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote>La primera vez que escuché a Radiohead fue en la parte trasera de una camioneta Fiorino. Mi tío se la había comprado para llevar su batería a los ensayos con su grupo, pero la mayor parte de la semana se quedaba estacionada en la parte trasera del patio de mis abuelos. En ese tiempo vivíamos todos en su casa en el sexto sector de Belloto Sur.&nbsp;</blockquote>",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-o"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>Iba como en séptimo básico y recién estaba formando mi gusto musical. Pasaba horas bajando canciones de plataformas de descargas ya extintas de los temas que podía rescatar de lo que escuchaba en la radio Rock &amp; Pop. Dígase Chancho en Piedra, Red Hot Chilli Peppers y Limp Bizkit entre otras maravillas. A eso agreguémosle uno que otro tema de alguna princesita del pop, otra de una boy band venida a menos y gran parte del repertorio de la FMDOS (La peor emisora que puede escuchar un adolescente con penas de amors). En el PC que tenía en ese entonces tenía muchos MP3 sueltos. Mi viejo solía pasarme los compilados más random del universo. Eran como 3 temas por banda más o menos. Pensar en discografías en ese entonces era una Utopía.\r</p><p>Mi tío era un poco más “vieja escuela”. Siempre le gusto la música. Invertía en equipos con buen sonido, compraba DVDs de conciertos, tenía una cartuchera gigante con CD y un discman plateado muy año 2000. Estos últimos  yo a escondidas se los sacaba y me ponía a escuchar música. Así, con unos audífonos enormes que también le sacaba a mi tío, escuche por primera vez el “The Wall” de Pink Floyd. La reacción automática fue alucinar, dejarme llevar por las imágenes que aparecían en la cabeza. Un mundo en ruinas en el cual los teléfonos no paraban de sonar, la gente marchaba, gritaba y se reía y luego en un rincón alguien entonaba, a modo de resistencia, una canción conmovedora con una guitarra de palo. Todo eso sin saber que existía una película y todo eso.}\r</p><p>Una esas inversiones musicales de mi tío fue comprarse una radio y unos parlantes para la Fiorino. Sonaban la raja. Como nunca antes había escuchado música. No sé, la parte trasera quizás encerraba el sonido mucho mejor, pero acostarse en la Fiorino a escuchar música era una sensación indescriptible. Dejé el discman y los audífonos y me metía después de llegar del colegio en la camioneta a escuchar los CDs de mi tío. Al abrirla y buscar al elegido noté un par de discos que no estaban la semana anterior. Eran dos discos Zycon blancos que con plumón tenían escritos “RADIOHEAD discografía completa” El nombre de la banda me sonaba. De hecho Creep y High and Dry estaban dentro de estos compilados random de mi viejo. Me gustaban pero tampoco busque nada más de ellos. Al poner al CD comienza a sonar “Airbag”. Ya tenía un nuevo grupo favorito.\r</p><p>\r</p><p>Pasaron ya casi 15 años de aquella vez y ahora estoy por primera vez en el Estadio Nacional y por primera vez en un concierto masivo de esa envergadura. Estoy con mi polola y amigos de diferentes épocas pero que siempre están presentes. Con ellos comentábamos de los años de amistad que tenemos, con uno 10 y con otro 15. Las luces se apagan, el público aúlla y el sonido del piano de “Daydreaming” comienza a envolvernos a todos en una atmosfera hipnótica, todos los ojos se centran en el escenario. Está oscureciendo, aparecen las primeras estrellas en el cielo y un juego de luces, que a mi punto de vista encontré espectacular, nos hace sentir a todos dentro de un sueño.\r</p><p>Comienza “Ful Stop”, el bajo ronronea como si un motor estuviese comenzando a andar. El motor comienza a calentarse a la vez que Thom Yorke canta. La intensidad va subiendo. Dicha canción en esta novela sirve como una sinopsis de todo lo que nos caería encima.\r</p><p>Suena “Airbag” (¡csm!) y la conexión es inmediata. Mi mente se deja fluir entre los recuerdos. Un parte de mí estaba en las butacas del nacional y la otra estaba con los ojos cerrados y acostado en la parte de atrás de la Fiorino. La sensación fue la misma: un barniz placentero, una canción de cuna, una caricia eléctrica.\r</p><p>Thom York y sus espasmos se desparraman por el escenario con “Myxomatosis”. Veíamos a la masa verde moverse al ritmo  de la música.\r</p><p>Mi tío cuando cachó que les sacaba los CDs y le usaba la camioneta me retó más que chucha por decía que le iba a hacer cagar la batería. Yo aun no entiendo cómo funciona un auto. Pero al parecer le gustó el hecho de que escuchara su música y empezamos a escuchar música juntos o a ver los DVDs. Cuando escuchamos Radiohead juntos me dijo que intentara seguirle al ritmo a Pyramid Song. Misión imposible.\r</p><p>Radiohead terminaba dicha canción y volví a la butaca para ser recibido por “Everything in Its Right Place” la cual fue vacilada hasta al último segundo.\r</p><p>Después vino el primer punto alto de la noche: “Let down” comenzaba a sonar justo en el momento que el sol comenzaba a alejarse. El cielo estaba literalmente rojo y combinaba maravillosamente con el manto violeta que nos cubría a todos. Al parecer todos estaban desdoblados. Todos estaban en el estadio y también en algún lugar del pasado que musicalizó esa canción.\r</p><p>Street Spirit (Fade Out), Bloom, Identikit, Weird Fishes/Arpeggi, The Numbers, 2 + 2 = 5, Bodysnatchers, Idioteque. La banda se despedía ante la protesta del público. Vuelven ante la insistencia y no llegan con las manos vacías.\r</p><p>Fake Plastic Trees es la elegida. Un foco muestra a Thom Yorke solo con una guitarra acústica en el centro del escenario. En ese momento todos conectamos con nuestra versión anterior, más imperfecta aun, mirando el “cielito de mi pieza” cuestionándonos si algo en nosotros no está bien. La garganta se aprieta, los ojos se humdecen.\r</p><p>Lo que vino después fue una verdadera fiesta. Yo fui sin ninguna expectativa. Pensaba que iban a tocar mayoritariamente canciones del último disco pero afortunadamente estaba equivocado. Los últimos 9 temas del show fue prácticamente una carta de amor, un regaloneo para todos los que estábamos ahí\r</p><p>Terminaba de sonar Karma Police y las luces del estadio comenzaban a encenderse. “Dream is over”. Me quedé con la sensación de todos los servicios de streaming valen callampa. Que la música hay que sentirla en vivo y disfrutar de las imágenes y las sensaciones que esta te provoca. Dejarse llevar por el sonido y viajar en el tiempo con él. Volver a la Fiorino. Volver a las juntas en la casa de los amigos solo a escuchar discos. Volver a ese momento donde tú amiga o amigo te prestaba su estuche con CDs. Volver a ese momento en el cual nos juntábamos para ir en patota a una tokata. Volver a regalar un compilado armado por ti cuidadosamente pensando en el otro. \"for a minute there I lost myself, I lost myself\" cantaba a coro la última resistencia mientras el nacional lentamente se iba vaciando. Escuché todo el resto de la semana el setlist. Fue duro volver al día a día después una experiencia así.\r</p><p>\r</p><p>\r</p><p><br></p>",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            }
+          },
+          "_anchor": "content1-p"
+        },
+        {
+          "_inherit": "social-buttons1",
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "font-size": "19px",
+              "color": "#fbfd90"
+            }
+          },
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#e7221f",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5,
+            "facebook": true,
+            "twitter": true,
+            "google": true,
+            "vkontakte": false,
+            "odnoklassniki": false
+          },
+          "_tags": [
+            "Tema"
+          ],
+          "text": "Comparte",
+          "_name": "social-buttons3",
+          "_anchor": "social-buttons3-q"
+        }
+      ]
+    },
+    "palomaausente.html": {
+      "settings": {
+        "title": "Paloma Ausente",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 15
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": false,
+            "showBrand": false,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#e7221f",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#fbfd90",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">INICIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"panoramainterior.html\">PANORAMA INTERIOR</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page2.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PANORAMAS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"gustitos.html\">Gustitos<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">Sonidos</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">Aire libre</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page3.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">INFORMACIONES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"soci.html\">Social</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">Percepciones</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">Patrimonio</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contacto.html\">CONTACTO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "_tags": [
+            "Tema"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#fbfd90"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#fbfd90"
+            },
+            ".link, .dropdown-item": {
+              "color": "#fbfd90"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#bf1714"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#df1b18!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#e7221f"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#fbfd90",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#e7221f!important"
+            },
+            "A": {
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-size": "14px"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Panorama Interior</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-r"
+        },
+        {
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#e7221f",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Panorama Interior 2018",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#fbfd90",
+              "font-size": "14px"
+            }
+          },
+          "_anchor": "footer1-s"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".lead I": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButton": false,
+            "paddingTop": "4",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-3.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": "0.5"
+          },
+          "title": "<span style=\"font-weight: normal;\">Paloma Ausente</span>",
+          "text": "<i>por Carlangas</i>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-t"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote>Compositora, recopiladora folclórica, cantante, poeta y artista plástica. Violeta Parra fue uno de los personajes protagónicos del año recién pasado. Se transformó en un ser casi omnipresente a medida que pasaban los meses y se acercaba la fecha del centenario de su nacimiento. Todos los colegios de Chile prepararon su homenaje. Cada municipalidad entregaba a la comunidad alguna actividad relacionada con la Violeta. Conciertos, talleres, obras de teatro y un infinito número de etcéteras que a muchos agradó pero a otros terminó por saturar. ¿Violeta Parra querría todo esto? ¿Violeta Parra querría la solemnidad con la cual trataron su obra? ¿Violeta Parra querría que su imagen se transformara en merchandising avalado por parte de su propia familia? ¿Violeta Parra querría acaso que muchos artistas prácticamente bailaran cueca sobre su obra con el fin de homenajear su obra?</blockquote>",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-u"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>En los homenajes que pude presenciar durante el año pasado poco vi a la Violeta. La violeta política, la violeta telúrica, la violeta punky, la violeta feliz.\n</p><p>Nos presentaron una versión estilizada, suavizada, universal y muy poco autentica. Nos presentaron a una Violeta siempre admirada y querida. Nos presentaron a una Violeta enamorada de los hombres. Nos presentaron a una Violeta de sonrisa ancha. Nos presentaron a una violeta demasiada complaciente con su realidad. \n</p><p>Cada homenaje me dejaba un sabor extraño. Una sensación de “bacán pero…” y el pero se repetía, y cuando hablaba con gente que participó de algunos eventos el PERO se hacía más grande. Cuando veía reportajes de Claudio Fariña en la tele el PERO se hacía más grande. Cuando veía la cara de chatos de los chicos del colegio cuando nombraba a la Violeta el PERO se hacía enorme. ¡Maldigo el vocablo homenaje con toda su porquería!\n</p><p>Todo eso pasó. Gracias a los astros existe La Patogallina.\n</p><p>Paloma Ausente toma todo lo que los demás homenajes, ni siquiera los promovidos y patrocinados por la familia Parra, no pudieron recoger. El montaje de La Patogallina no es tímido, es dinámico y ruidoso. Desordenado y valiente. Vimos todas las dimensiones de la Violeta en una estructura no lineal, no lógica en donde el pasado, el presente y el futuro se funden a favor de la propuesta escénica. La obra está llena de detallitos que dejaron contento a aquellos fans Hardcore que se sentían desilucionados de como tomaron la figura de una de las personalidad más importantes de nuestra cultura.\n</p><p>El vestuario, la música, las marionetas, el montaje es impactante. Es como si fuera un espectáculo de fuegos artificiales pero con un relato profundo de fondo. Un relato que apenas necesita el dialogo. Esta obra habla de la misma formá que habló Violeta Parra, A través de la música. Porque en Paloma Ausente se nos presenta una violeta unida con la naturaleza en donde el aire, el fuego, la tierra y el agua están literalmente presentes en el montaje.\n</p><p>La patogallina, en este cumpleaños, fue como el tío buena onda que te entrega el mejor regalo. Ese que esperabas después de recibir 80 pares de calcetines.\n</p><p><br></p>",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            }
+          },
+          "_anchor": "content1-v"
+        },
+        {
+          "_inherit": "social-buttons1",
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "font-size": "19px",
+              "color": "#fbfd90"
+            }
+          },
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#e7221f",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5,
+            "facebook": true,
+            "twitter": true,
+            "google": true,
+            "vkontakte": false,
+            "odnoklassniki": false
+          },
+          "_tags": [
+            "Tema"
+          ],
+          "text": "Comparte",
+          "_name": "social-buttons3",
+          "_anchor": "social-buttons3-w"
         }
       ]
     }

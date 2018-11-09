@@ -1390,6 +1390,14 @@ h6,
   color: #fbfd90;
   font-size: 14px;
 }
+#social-buttons3-n .mbr-section-title,
+#social-buttons3-n .btn-social {
+  color: #fff;
+}
+#social-buttons3-n .mbr-section-title {
+  font-size: 19px;
+  color: #fbfd90;
+}
 
 #ext_menu-u .hide-buttons .nav-btn {
   display: none !important;
@@ -1938,6 +1946,270 @@ h6,
   color: #fff;
 }
 #social-buttons3-i .mbr-section-title {
+  font-size: 19px;
+  color: #fbfd90;
+}
+
+#ext_menu-8 .hide-buttons .nav-btn {
+  display: none !important;
+}
+#ext_menu-8 .navbar-caption {
+  color: #ffffff;
+}
+#ext_menu-8 .navbar-toggler {
+  color: #fbfd90;
+}
+#ext_menu-8 .close-icon::before,
+#ext_menu-8 .close-icon::after {
+  background-color: #fbfd90;
+}
+#ext_menu-8 .link,
+#ext_menu-8 .dropdown-item {
+  color: #fbfd90;
+}
+#ext_menu-8 .link {
+  font-size: 0.75rem;
+}
+#ext_menu-8 .dropdown-item,
+#ext_menu-8 .nav-dropdown-sm .link {
+  font-size: 0.812rem;
+}
+#ext_menu-8 .link:hover,
+#ext_menu-8 .dropdown-item:hover,
+#ext_menu-8 .link:focus,
+#ext_menu-8 .dropdown-item:focus {
+  color: #e7221f;
+}
+#ext_menu-8 .link[aria-expanded="true"],
+#ext_menu-8 .dropdown-menu {
+  background: #bf1714;
+}
+#ext_menu-8 .nav-dropdown-sm .link:focus,
+#ext_menu-8 .nav-dropdown-sm .link:hover,
+#ext_menu-8 .nav-dropdown-sm .dropdown-item:focus,
+#ext_menu-8 .nav-dropdown-sm .dropdown-item:hover {
+  background: #df1b18!important;
+}
+#ext_menu-8 .navbar,
+#ext_menu-8 .nav-dropdown-sm,
+#ext_menu-8 .nav-dropdown-sm .link[aria-expanded="true"],
+#ext_menu-8 .nav-dropdown-sm .dropdown-menu {
+  background: #e7221f;
+}
+#ext_menu-8 .bg-color.transparent .link {
+  color: #fbfd90;
+  transition: none;
+}
+#ext_menu-8 .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#ext_menu-8 .bg-color.transparent.opened .link:hover,
+#ext_menu-8 .bg-color.transparent.opened .link:focus {
+  color: #e7221f;
+}
+#ext_menu-8 .link[aria-expanded="true"],
+#ext_menu-8 .dropdown-item[aria-expanded="true"] {
+  color: #e7221f!important;
+}
+#ext_menu-8 A {
+  font-family: 'Oxygen', sans-serif;
+  font-size: 14px;
+}
+#footer1-9 P {
+  color: #fbfd90;
+  font-size: 14px;
+}
+#msg-box8-a .mbr-section-title,
+#msg-box8-a p {
+  color: #fff;
+}
+#msg-box8-a .lead I {
+  color: #ffffff;
+}
+#content1-i P {
+  text-align: left;
+}
+#social-buttons3-g .mbr-section-title,
+#social-buttons3-g .btn-social {
+  color: #fff;
+}
+#social-buttons3-g .mbr-section-title {
+  font-size: 19px;
+  color: #fbfd90;
+}
+
+#ext_menu-l .hide-buttons .nav-btn {
+  display: none !important;
+}
+#ext_menu-l .navbar-caption {
+  color: #ffffff;
+}
+#ext_menu-l .navbar-toggler {
+  color: #fbfd90;
+}
+#ext_menu-l .close-icon::before,
+#ext_menu-l .close-icon::after {
+  background-color: #fbfd90;
+}
+#ext_menu-l .link,
+#ext_menu-l .dropdown-item {
+  color: #fbfd90;
+}
+#ext_menu-l .link {
+  font-size: 0.75rem;
+}
+#ext_menu-l .dropdown-item,
+#ext_menu-l .nav-dropdown-sm .link {
+  font-size: 0.812rem;
+}
+#ext_menu-l .link:hover,
+#ext_menu-l .dropdown-item:hover,
+#ext_menu-l .link:focus,
+#ext_menu-l .dropdown-item:focus {
+  color: #e7221f;
+}
+#ext_menu-l .link[aria-expanded="true"],
+#ext_menu-l .dropdown-menu {
+  background: #bf1714;
+}
+#ext_menu-l .nav-dropdown-sm .link:focus,
+#ext_menu-l .nav-dropdown-sm .link:hover,
+#ext_menu-l .nav-dropdown-sm .dropdown-item:focus,
+#ext_menu-l .nav-dropdown-sm .dropdown-item:hover {
+  background: #df1b18!important;
+}
+#ext_menu-l .navbar,
+#ext_menu-l .nav-dropdown-sm,
+#ext_menu-l .nav-dropdown-sm .link[aria-expanded="true"],
+#ext_menu-l .nav-dropdown-sm .dropdown-menu {
+  background: #e7221f;
+}
+#ext_menu-l .bg-color.transparent .link {
+  color: #fbfd90;
+  transition: none;
+}
+#ext_menu-l .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#ext_menu-l .bg-color.transparent.opened .link:hover,
+#ext_menu-l .bg-color.transparent.opened .link:focus {
+  color: #e7221f;
+}
+#ext_menu-l .link[aria-expanded="true"],
+#ext_menu-l .dropdown-item[aria-expanded="true"] {
+  color: #e7221f!important;
+}
+#ext_menu-l A {
+  font-family: 'Oxygen', sans-serif;
+  font-size: 14px;
+}
+#footer1-m P {
+  color: #fbfd90;
+  font-size: 14px;
+}
+#msg-box8-n .mbr-section-title,
+#msg-box8-n p {
+  color: #fff;
+}
+#msg-box8-n .lead I {
+  color: #ffffff;
+}
+#content1-p P {
+  text-align: left;
+}
+#social-buttons3-q .mbr-section-title,
+#social-buttons3-q .btn-social {
+  color: #fff;
+}
+#social-buttons3-q .mbr-section-title {
+  font-size: 19px;
+  color: #fbfd90;
+}
+
+#ext_menu-r .hide-buttons .nav-btn {
+  display: none !important;
+}
+#ext_menu-r .navbar-caption {
+  color: #ffffff;
+}
+#ext_menu-r .navbar-toggler {
+  color: #fbfd90;
+}
+#ext_menu-r .close-icon::before,
+#ext_menu-r .close-icon::after {
+  background-color: #fbfd90;
+}
+#ext_menu-r .link,
+#ext_menu-r .dropdown-item {
+  color: #fbfd90;
+}
+#ext_menu-r .link {
+  font-size: 0.75rem;
+}
+#ext_menu-r .dropdown-item,
+#ext_menu-r .nav-dropdown-sm .link {
+  font-size: 0.812rem;
+}
+#ext_menu-r .link:hover,
+#ext_menu-r .dropdown-item:hover,
+#ext_menu-r .link:focus,
+#ext_menu-r .dropdown-item:focus {
+  color: #e7221f;
+}
+#ext_menu-r .link[aria-expanded="true"],
+#ext_menu-r .dropdown-menu {
+  background: #bf1714;
+}
+#ext_menu-r .nav-dropdown-sm .link:focus,
+#ext_menu-r .nav-dropdown-sm .link:hover,
+#ext_menu-r .nav-dropdown-sm .dropdown-item:focus,
+#ext_menu-r .nav-dropdown-sm .dropdown-item:hover {
+  background: #df1b18!important;
+}
+#ext_menu-r .navbar,
+#ext_menu-r .nav-dropdown-sm,
+#ext_menu-r .nav-dropdown-sm .link[aria-expanded="true"],
+#ext_menu-r .nav-dropdown-sm .dropdown-menu {
+  background: #e7221f;
+}
+#ext_menu-r .bg-color.transparent .link {
+  color: #fbfd90;
+  transition: none;
+}
+#ext_menu-r .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#ext_menu-r .bg-color.transparent.opened .link:hover,
+#ext_menu-r .bg-color.transparent.opened .link:focus {
+  color: #e7221f;
+}
+#ext_menu-r .link[aria-expanded="true"],
+#ext_menu-r .dropdown-item[aria-expanded="true"] {
+  color: #e7221f!important;
+}
+#ext_menu-r A {
+  font-family: 'Oxygen', sans-serif;
+  font-size: 14px;
+}
+#footer1-s P {
+  color: #fbfd90;
+  font-size: 14px;
+}
+#msg-box8-t .mbr-section-title,
+#msg-box8-t p {
+  color: #fff;
+}
+#msg-box8-t .lead I {
+  color: #ffffff;
+}
+#content1-v P {
+  text-align: left;
+}
+#social-buttons3-w .mbr-section-title,
+#social-buttons3-w .btn-social {
+  color: #fff;
+}
+#social-buttons3-w .mbr-section-title {
   font-size: 19px;
   color: #fbfd90;
 }
